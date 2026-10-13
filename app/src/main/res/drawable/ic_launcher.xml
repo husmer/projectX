@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A red rounded square with a white gate (门) shape. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M24,4h60a20,20 0,0 1,20 20v60a20,20 0,0 1,-20 20h-60a20,20 0,0 1,-20 -20v-60a20,20 0,0 1,20 -20z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30h8v50h-8z M30,30h48v8h-48z M70,30h8v44a8,8 0,0 1,-8 8h-6v-8h6z M44,24l6,-6l6,6l-6,6z" />
+</vector>
