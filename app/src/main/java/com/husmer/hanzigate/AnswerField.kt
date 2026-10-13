@@ -30,7 +30,7 @@ fun AnswerField(chinese: Boolean, onChange: (String) -> Unit, onSubmit: () -> Un
             EditText(ctx).apply {
                 setTextSize(TypedValue.COMPLEX_UNIT_SP, 26f)
                 setTextColor(textColor)
-                isSingleLine = true
+                setSingleLine(true)
                 hint = if (chinese) "汉字" else "pinyin, e.g. ni3 hao3"
                 imeHintLocales = LocaleList(if (chinese) Locale.SIMPLIFIED_CHINESE else Locale.US)
                 inputType = if (chinese) {
