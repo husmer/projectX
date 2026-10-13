@@ -15,9 +15,6 @@ Tab-separated, UTF-8, one word per line:
 | `meaning` | short English gloss, written for quizzing (first/common sense only) |
 | `pos` | part of speech from the official list (blank for phrases) |
 | `also` | shorter form listed in the same entry (e.g. 爸爸 → 爸) |
-| `hellochinese_topic` | first topic in the old HelloChinese list containing the word (blank if not in it) |
-
-303 of the 500 words appear somewhere in the old HelloChinese list.
 
 Sources: word list, pinyin and part of speech from
 [ivankra/hsk30](https://github.com/ivankra/hsk30) (a transcription of the official PDF),
