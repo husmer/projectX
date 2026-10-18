@@ -1,0 +1,45 @@
+name: KotobaGate web
+
+on:
+  push:
+    paths:
+      - 'web/**'
+      - 'wordlists/jlpt_n5*'
+      - '.github/workflows/web.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Logic and word-list checks
+        working-directory: web
+        run: node --test
+
+      - name: Assemble site
+        run: |
+          mkdir _site
+          cp web/index.html web/app.js web/logic.js web/style.css web/icon.png wordlists/jlpt_n5.tsv wordlists/jlpt_n5_sentences.tsv _site/
+
+      - uses: actions/upload-pages-artifact@v3
+
+  # GitHub Pages only deploys from the default branch unless the github-pages environment allows others.
+  deploy:
+    needs: test
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
