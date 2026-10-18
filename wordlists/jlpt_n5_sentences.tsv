@@ -1,0 +1,661 @@
+id	sentence	english
+N5-0001	【はい】、そうです。	Yes, that's right.
+N5-0002	【いいえ】、違います。	No, that's wrong.
+N5-0003	【ええ】、そうです。	Yes, that's right.
+N5-0004	【ああ】、そうですか。	Ah, I see.
+N5-0005	【さあ】、行きましょう。	Well, let's go.
+N5-0006	【どうも】ありがとうございます。	Thank you very much.
+N5-0007	【どうぞ】、入ってください。	Please come in.
+N5-0008	【もしもし】、田中です。	Hello, this is Tanaka.
+N5-0009	【じゃあ】、また明日。	Well then, see you tomorrow.
+N5-0010	【では】、授業を始めます。	Well then, let's start class.
+N5-0011	【それでは】、始めましょう。	Well then, let's begin.
+N5-0012	【そう】ですね。	That's right.
+N5-0013	水を【ください】。	Water, please.
+N5-0014	もう【結構】です。	I'm fine, thank you (no more).
+N5-0015	【大丈夫】ですか。	Are you OK?
+N5-0016	日本語は難しい。【しかし】、面白い。	Japanese is hard. However, it's interesting.
+N5-0017	朝ご飯を食べました。【そして】、学校に行きました。	I ate breakfast. And then I went to school.
+N5-0018	宿題をしました。【それから】、テレビを見ました。	I did my homework. After that, I watched TV.
+N5-0019	この店は高い。【でも】、おいしい。	This restaurant is expensive. But it's tasty.
+N5-0020	【これ】は何ですか。	What's this?
+N5-0021	【それ】は私の傘です。	That's my umbrella.
+N5-0022	【あれ】は何ですか。	What's that over there?
+N5-0023	あなたの傘は【どれ】ですか。	Which umbrella is yours?
+N5-0024	【この】本は面白いです。	This book is interesting.
+N5-0025	【その】本を見せてください。	Please show me that book.
+N5-0026	【あの】人はだれですか。	Who is that person?
+N5-0027	【どの】かばんがあなたのですか。	Which bag is yours?
+N5-0028	【ここ】に名前を書いてください。	Please write your name here.
+N5-0029	【そこ】に座ってください。	Please sit there.
+N5-0030	【あそこ】に銀行があります。	There's a bank over there.
+N5-0031	駅は【どこ】ですか。	Where's the station?
+N5-0032	【こちら】は田中さんです。	This is Mr. Tanaka.
+N5-0033	【そちら】は雨ですか。	Is it raining where you are?
+N5-0034	お手洗いは【あちら】です。	The restroom is that way.
+N5-0035	コーヒーと紅茶、【どちら】がいいですか。	Coffee or tea, which would you like?
+N5-0036	【こっち】に来て。	Come here.
+N5-0037	【そっち】は危ないよ。	That way is dangerous.
+N5-0038	駅は【あっち】だよ。	The station is over there.
+N5-0039	【どっち】が好き？	Which one do you like?
+N5-0040	【こんな】かばんが欲しいです。	I want a bag like this.
+N5-0041	【どんな】音楽が好きですか。	What kind of music do you like?
+N5-0042	これは【何】ですか。	What's this?
+N5-0043	あの人は【誰】ですか。	Who's that person?
+N5-0044	【誰か】来ました。	Someone came.
+N5-0045	【どなた】ですか。	Who is it?
+N5-0046	誕生日は【いつ】ですか。	When is your birthday?
+N5-0047	りんごは【いくつ】ありますか。	How many apples are there?
+N5-0048	このかばんは【いくら】ですか。	How much is this bag?
+N5-0049	日本の生活は【どう】ですか。	How is life in Japan?
+N5-0050	【どうして】遅れたんですか。	Why were you late?
+N5-0051	【なぜ】日本語を勉強していますか。	Why are you studying Japanese?
+N5-0052	コーヒーは【いかが】ですか。	How about some coffee?
+N5-0053	【ゼロ】から始めましょう。	Let's start from zero.
+N5-0054	【一】から十まで数えてください。	Please count from one to ten.
+N5-0055	【二】月はとても寒いです。	February is very cold.
+N5-0056	子供が【三】人います。	I have three children.
+N5-0057	【四】月に学校が始まります。	School starts in April.
+N5-0058	【五】時に会いましょう。	Let's meet at five.
+N5-0059	【六】時に晩ご飯を食べます。	I eat dinner at six.
+N5-0060	【七】時に起きます。	I get up at seven.
+N5-0061	【八】時に家を出ます。	I leave home at eight.
+N5-0062	【九】月に日本へ行きます。	I'm going to Japan in September.
+N5-0063	【十】時に寝ます。	I go to bed at ten.
+N5-0064	このりんごは【百】円です。	This apple is 100 yen.
+N5-0065	このペンは【千】円です。	This pen is 1,000 yen.
+N5-0066	このかばんは一【万】円です。	This bag is 10,000 yen.
+N5-0067	りんごを【一つ】ください。	One apple, please.
+N5-0068	ケーキを【二つ】ください。	Two pieces of cake, please.
+N5-0069	卵を【三つ】使います。	I use three eggs.
+N5-0070	椅子が【四つ】あります。	There are four chairs.
+N5-0071	箱にみかんが【五つ】あります。	There are five mandarins in the box.
+N5-0072	卵を【六つ】買いました。	I bought six eggs.
+N5-0073	みかんが【七つ】あります。	There are seven mandarins.
+N5-0074	お菓子が【八つ】あります。	There are eight sweets.
+N5-0075	箱の中にりんごが【九つ】あります。	There are nine apples in the box.
+N5-0076	【一人】で旅行するのが好きです。	I like traveling alone.
+N5-0077	【二人】で映画を見ました。	The two of us watched a movie.
+N5-0078	今、三時【半】です。	It's 3:30 now.
+N5-0079	ケーキを【半分】食べました。	I ate half the cake.
+N5-0080	ケーキを【全部】食べました。	I ate the whole cake.
+N5-0081	電話【番号】を教えてください。	Please tell me your phone number.
+N5-0082	駅まで二【キロ】あります。	It's two kilometers to the station.
+N5-0083	肉を三百【グラム】ください。	300 grams of meat, please.
+N5-0084	家から駅まで五百【メートル】です。	It's 500 meters from my house to the station.
+N5-0085	教科書の十【ページ】を開いてください。	Please open your textbook to page 10.
+N5-0086	【二十歳】になりました。	I turned twenty.
+N5-0087	【月曜日】は忙しいです。	Mondays are busy.
+N5-0088	【火曜日】に日本語の授業があります。	I have Japanese class on Tuesday.
+N5-0089	【水曜日】はプールに行きます。	I go to the pool on Wednesdays.
+N5-0090	【木曜日】にテストがあります。	There's a test on Thursday.
+N5-0091	【金曜日】の夜は友達と飲みます。	On Friday nights I go drinking with friends.
+N5-0092	【土曜日】は仕事が休みです。	I'm off work on Saturdays.
+N5-0093	【日曜日】は家で休みます。	On Sundays I rest at home.
+N5-0094	四月【一日】は月曜日です。	April 1st is a Monday.
+N5-0095	【二日】間、京都に行きました。	I went to Kyoto for two days.
+N5-0096	【三日】間、雨が降りました。	It rained for three days.
+N5-0097	【四日】に東京へ行きます。	I'm going to Tokyo on the 4th.
+N5-0098	五月【五日】は子供の日です。	May 5th is Children's Day.
+N5-0099	【六日】に友達が来ます。	A friend is coming on the 6th.
+N5-0100	七月【七日】は七夕です。	July 7th is Tanabata.
+N5-0101	【八日】は休みです。	The 8th is a day off.
+N5-0102	【九日】は月曜日です。	The 9th is a Monday.
+N5-0103	【十日】に日本へ行きます。	I'm going to Japan on the 10th.
+N5-0104	【二十日】は私の誕生日です。	The 20th is my birthday.
+N5-0105	お【誕生日】おめでとう。	Happy birthday.
+N5-0106	明日は【休み】です。	Tomorrow is a day off.
+N5-0107	【夏休み】に海へ行きます。	I'm going to the beach during summer vacation.
+N5-0108	壁に【カレンダー】があります。	There's a calendar on the wall.
+N5-0109	【今】、何時ですか。	What time is it now?
+N5-0110	【今日】は暑いですね。	It's hot today, isn't it?
+N5-0111	【明日】は雨が降るでしょう。	It will probably rain tomorrow.
+N5-0112	【昨日】は日曜日でした。	Yesterday was Sunday.
+N5-0113	【あさって】は日曜日です。	The day after tomorrow is Sunday.
+N5-0114	【おととい】は雨でした。	It rained the day before yesterday.
+N5-0115	【朝】はコーヒーを飲みます。	In the morning I drink coffee.
+N5-0116	【昼】は暑いですが、夜は涼しいです。	It's hot in the daytime but cool at night.
+N5-0117	朝から【晩】まで働きました。	I worked from morning till night.
+N5-0118	【夜】は静かです。	It's quiet at night.
+N5-0119	【夕方】、犬と散歩します。	In the evening I walk my dog.
+N5-0120	【今朝】、パンを食べました。	I had bread this morning.
+N5-0121	【今晩】、映画を見ませんか。	Shall we watch a movie tonight?
+N5-0122	【ゆうべ】は早く寝ました。	I went to bed early last night.
+N5-0123	【午前】中は家にいます。	I'm at home in the morning.
+N5-0124	【午後】三時に会いましょう。	Let's meet at 3 p.m.
+N5-0125	【先週】は忙しかったです。	Last week was busy.
+N5-0126	【今週】の土曜日は暇です。	I'm free this Saturday.
+N5-0127	【来週】、テストがあります。	There's a test next week.
+N5-0128	【先月】、日本に来ました。	I came to Japan last month.
+N5-0129	【今月】は忙しいです。	This month is busy.
+N5-0130	【来月】、日本に行きます。	I'm going to Japan next month.
+N5-0131	【去年】、京都に行きました。	I went to Kyoto last year.
+N5-0132	【今年】は日本に行きたいです。	I want to go to Japan this year.
+N5-0133	【来年】、大学生になります。	I'll be a university student next year.
+N5-0134	【おととし】日本に来ました。	I came to Japan the year before last.
+N5-0135	【再来年】、大学を卒業します。	I'll graduate from university the year after next.
+N5-0136	【毎朝】ジョギングをします。	I go jogging every morning.
+N5-0137	【毎晩】本を読んでから寝ます。	Every night I read before going to sleep.
+N5-0138	【毎日】八時間寝ます。	I sleep eight hours every day.
+N5-0139	【毎週】日曜日に買い物をします。	I go shopping every Sunday.
+N5-0140	【毎月】本を三冊読みます。	I read three books every month.
+N5-0141	【毎年】夏に海へ行きます。	I go to the beach every summer.
+N5-0142	【時間】がありません。	I don't have time.
+N5-0143	【一日】中、家にいました。	I was at home all day.
+N5-0144	新しい【年】が始まりました。	A new year has begun.
+N5-0145	ご飯の【後】で、散歩します。	After the meal, I take a walk.
+N5-0146	駅の【前】で会いましょう。	Let's meet in front of the station.
+N5-0147	お【先】にどうぞ。	After you.
+N5-0148	【次】の駅で降ります。	I get off at the next station.
+N5-0149	四月の【初め】に日本に来ました。	I came to Japan at the beginning of April.
+N5-0150	【初めて】すしを食べました。	I ate sushi for the first time.
+N5-0151	【いつも】八時に家を出ます。	I always leave home at eight.
+N5-0152	【時々】映画を見ます。	I sometimes watch movies.
+N5-0153	【よく】この喫茶店に来ます。	I often come to this café.
+N5-0154	【まだ】宿題が終わっていません。	I haven't finished my homework yet.
+N5-0155	【もう】昼ご飯を食べました。	I've already had lunch.
+N5-0156	【すぐ】行きます。	I'll go right away.
+N5-0157	【また】明日。	See you tomorrow.
+N5-0158	この本は【とても】面白いです。	This book is very interesting.
+N5-0159	今日は【あまり】寒くないです。	It's not very cold today.
+N5-0160	日本語が【少し】分かります。	I understand a little Japanese.
+N5-0161	【ちょっと】待ってください。	Please wait a moment.
+N5-0162	本が【たくさん】あります。	There are a lot of books.
+N5-0163	【もっと】ゆっくり話してください。	Please speak more slowly.
+N5-0164	果物の中で、りんごが【一番】好きです。	Of all fruits, I like apples the most.
+N5-0165	明日は【多分】雨でしょう。	It'll probably rain tomorrow.
+N5-0166	今、【ちょうど】十二時です。	It's exactly twelve o'clock now.
+N5-0167	それは【本当】ですか。	Is that true?
+N5-0168	【だんだん】寒くなります。	It's gradually getting colder.
+N5-0169	日曜日は家で【ゆっくり】します。	On Sundays I relax at home.
+N5-0170	この道を【まっすぐ】行ってください。	Please go straight along this road.
+N5-0171	【一緒】に映画を見ませんか。	Shall we watch a movie together?
+N5-0172	公園に人が【大勢】います。	There are lots of people in the park.
+N5-0173	【みんな】で写真を撮りましょう。	Let's all take a photo together.
+N5-0174	【皆さん】、おはようございます。	Good morning, everyone.
+N5-0175	【自分】で料理を作ります。	I cook for myself.
+N5-0176	【ほか】に質問はありますか。	Are there any other questions?
+N5-0177	私たちは【同じ】クラスです。	We're in the same class.
+N5-0178	【いろいろ】な国に行きたいです。	I want to go to various countries.
+N5-0179	【私】は学生です。	I'm a student.
+N5-0180	【あなた】のお名前は？	What's your name?
+N5-0181	あの【人】は田中さんです。	That person is Mr. Tanaka.
+N5-0182	あの【方】はどなたですか。	Who is that person?
+N5-0183	あの【男】の人はだれですか。	Who is that man?
+N5-0184	あの【女】の人は先生です。	That woman is a teacher.
+N5-0185	公園で【男の子】が遊んでいます。	A boy is playing in the park.
+N5-0186	【女の子】が歌を歌っています。	A girl is singing a song.
+N5-0187	【子供】が二人います。	I have two children.
+N5-0188	【大人】二枚ください。	Two adult tickets, please.
+N5-0189	【友達】と映画を見ました。	I watched a movie with a friend.
+N5-0190	お【名前】は何ですか。	What's your name?
+N5-0191	私の【家族】は四人です。	There are four people in my family.
+N5-0192	【両親】は大阪に住んでいます。	My parents live in Osaka.
+N5-0193	【父】は会社員です。	My father is an office worker.
+N5-0194	【母】は毎朝お弁当を作ります。	My mother makes a boxed lunch every morning.
+N5-0195	【お父さん】は会社員です。	Dad is an office worker.
+N5-0196	【お母さん】は料理が上手です。	Mom is good at cooking.
+N5-0197	【兄】は銀行で働いています。	My older brother works at a bank.
+N5-0198	【姉】は東京に住んでいます。	My older sister lives in Tokyo.
+N5-0199	【弟】はサッカーが好きです。	My younger brother likes soccer.
+N5-0200	【妹】は高校生です。	My younger sister is a high school student.
+N5-0201	【お兄さん】は何歳ですか。	How old is your older brother?
+N5-0202	【お姉さん】はやさしいですね。	Your older sister is kind.
+N5-0203	【兄弟】はいますか。	Do you have any siblings?
+N5-0204	【おじいさん】は八十歳です。	Grandpa is eighty.
+N5-0205	【おばあさん】は毎朝散歩します。	Grandma goes for a walk every morning.
+N5-0206	【おじさん】は大阪に住んでいます。	My uncle lives in Osaka.
+N5-0207	【おばさん】の家に遊びに行きます。	I'm going to visit my aunt's house.
+N5-0208	田中さんの【奥さん】は先生です。	Mr. Tanaka's wife is a teacher.
+N5-0209	姉は来年【結婚】します。	My older sister is getting married next year.
+N5-0210	この町には【外国人】が多いです。	There are many foreigners in this town.
+N5-0211	この大学には【留学生】が多いです。	This university has many international students.
+N5-0212	【先生】、質問があります。	Teacher, I have a question.
+N5-0213	私は大学の【学生】です。	I'm a university student.
+N5-0214	この学校には【生徒】が五百人います。	This school has 500 pupils.
+N5-0215	父は【医者】です。	My father is a doctor.
+N5-0216	【警官】に道を聞きました。	I asked a police officer for directions.
+N5-0217	道が分からないので、【おまわりさん】に聞きました。	I didn't know the way, so I asked a police officer.
+N5-0218	【体】に気をつけてください。	Please take care of yourself.
+N5-0219	【頭】が痛いです。	I have a headache.
+N5-0220	朝、【顔】を洗います。	I wash my face in the morning.
+N5-0221	猫の【目】は大きいです。	Cats have big eyes.
+N5-0222	うさぎは【耳】が長いです。	Rabbits have long ears.
+N5-0223	象は【鼻】が長いです。	Elephants have long noses.
+N5-0224	【口】を大きく開けてください。	Please open your mouth wide.
+N5-0225	寝る前に【歯】を磨きます。	I brush my teeth before bed.
+N5-0226	【手】を洗ってください。	Please wash your hands.
+N5-0227	歩きすぎて、【足】が痛いです。	I walked too much and my feet hurt.
+N5-0228	【おなか】がすきました。	I'm hungry.
+N5-0229	兄は【背】が高いです。	My older brother is tall.
+N5-0230	先生は【声】が大きいです。	The teacher has a loud voice.
+N5-0231	母が【病気】になりました。	My mother got sick.
+N5-0232	【風邪】をひいて、学校を休みました。	I caught a cold and stayed home from school.
+N5-0233	風邪の【薬】を飲みました。	I took cold medicine.
+N5-0234	昨日、【病院】に行きました。	I went to the hospital yesterday.
+N5-0235	お【元気】ですか。	How are you?
+N5-0236	歯が【痛い】です。	My tooth hurts.
+N5-0237	【ご飯】を食べましょう。	Let's eat.
+N5-0238	毎日【朝ご飯】を食べます。	I eat breakfast every day.
+N5-0239	一緒に【昼ご飯】を食べませんか。	Shall we have lunch together?
+N5-0240	【晩ご飯】は何を食べましたか。	What did you have for dinner?
+N5-0241	今日の【夕飯】はカレーです。	Today's dinner is curry.
+N5-0242	母が【お弁当】を作りました。	Mom made a boxed lunch.
+N5-0243	好きな【食べ物】は何ですか。	What's your favorite food?
+N5-0244	【飲み物】は何がいいですか。	What would you like to drink?
+N5-0245	日本【料理】が好きです。	I like Japanese food.
+N5-0246	【肉】と野菜を買いました。	I bought meat and vegetables.
+N5-0247	【牛肉】と豚肉、どちらが好きですか。	Which do you like, beef or pork?
+N5-0248	【豚肉】を三百グラム買いました。	I bought 300 grams of pork.
+N5-0249	【鶏肉】のカレーを作りました。	I made chicken curry.
+N5-0250	【魚】と肉、どちらが好きですか。	Which do you like, fish or meat?
+N5-0251	朝ご飯に【卵】を食べました。	I had an egg for breakfast.
+N5-0252	毎日【野菜】を食べましょう。	Let's eat vegetables every day.
+N5-0253	毎朝【果物】を食べます。	I eat fruit every morning.
+N5-0254	朝ご飯に【パン】を食べます。	I eat bread for breakfast.
+N5-0255	パンに【バター】をぬります。	I spread butter on bread.
+N5-0256	【カレー】が大好きです。	I love curry.
+N5-0257	子供は【お菓子】が好きです。	Children like sweets.
+N5-0258	子供に【飴】をあげました。	I gave the child some candy.
+N5-0259	紅茶に【砂糖】を入れますか。	Do you take sugar in your tea?
+N5-0260	【塩】を取ってください。	Please pass the salt.
+N5-0261	魚に【しょうゆ】をかけます。	I put soy sauce on the fish.
+N5-0262	【水】を一杯ください。	A glass of water, please.
+N5-0263	【お茶】を一杯ください。	A cup of tea, please.
+N5-0264	【紅茶】に牛乳を入れます。	I put milk in my tea.
+N5-0265	【コーヒー】を一杯ください。	A cup of coffee, please.
+N5-0266	毎朝【牛乳】を飲みます。	I drink milk every morning.
+N5-0267	父は【お酒】が好きです。	My father likes alcohol.
+N5-0268	父は【たばこ】を吸いません。	My father doesn't smoke.
+N5-0269	このラーメンは【おいしい】です。	This ramen is delicious.
+N5-0270	この料理は【まずい】です。	This dish tastes bad.
+N5-0271	このケーキは【甘い】です。	This cake is sweet.
+N5-0272	このカレーは【辛い】です。	This curry is spicy.
+N5-0273	【お皿】を洗います。	I wash the dishes.
+N5-0274	【茶碗】にご飯を入れます。	I put rice in the bowl.
+N5-0275	【カップ】にお茶を入れます。	I pour tea into a cup.
+N5-0276	【コップ】に水を入れます。	I pour water into a glass.
+N5-0277	【箸】でご飯を食べます。	I eat rice with chopsticks.
+N5-0278	【スプーン】でカレーを食べます。	I eat curry with a spoon.
+N5-0279	【フォーク】でケーキを食べます。	I eat cake with a fork.
+N5-0280	【ナイフ】で肉を切ります。	I cut the meat with a knife.
+N5-0281	【冷蔵庫】に牛乳があります。	There's milk in the fridge.
+N5-0282	母は【台所】で料理をしています。	Mom is cooking in the kitchen.
+N5-0283	【テーブル】の上に花があります。	There are flowers on the table.
+N5-0284	大きい【家】に住みたいです。	I want to live in a big house.
+N5-0285	今日は【うち】で晩ご飯を食べます。	Today I'll eat dinner at home.
+N5-0286	私の【部屋】は二階です。	My room is on the second floor.
+N5-0287	【玄関】で靴を脱ぎます。	I take off my shoes in the entryway.
+N5-0288	【廊下】を走らないでください。	Please don't run in the hallway.
+N5-0289	【階段】で三階に行きます。	I take the stairs to the third floor.
+N5-0290	【窓】を開けてもいいですか。	May I open the window?
+N5-0291	【戸】を閉めてください。	Please close the door.
+N5-0292	【ドア】を開けてください。	Please open the door.
+N5-0293	学校の【門】の前で待っています。	I'm waiting in front of the school gate.
+N5-0294	【庭】に花が咲いています。	Flowers are blooming in the garden.
+N5-0295	夜、【お風呂】に入ります。	I take a bath at night.
+N5-0296	夜、【シャワー】を浴びます。	I take a shower at night.
+N5-0297	【トイレ】はどこですか。	Where's the toilet?
+N5-0298	【お手洗い】はどこですか。	Where's the restroom?
+N5-0299	【椅子】に座ってください。	Please sit on the chair.
+N5-0300	【机】の上に本があります。	There's a book on the desk.
+N5-0301	【ベッド】で本を読みます。	I read in bed.
+N5-0302	【本棚】に本がたくさんあります。	There are lots of books on the bookshelf.
+N5-0303	【花瓶】に花を入れます。	I put flowers in the vase.
+N5-0304	夜、【テレビ】を見ます。	I watch TV at night.
+N5-0305	車で【ラジオ】を聞きます。	I listen to the radio in the car.
+N5-0306	部屋の【電気】をつけてください。	Please turn on the light in the room.
+N5-0307	寒いので【ストーブ】をつけます。	It's cold, so I turn on the heater.
+N5-0308	夜、母に【電話】します。	I call my mother at night.
+N5-0309	【せっけん】で手を洗います。	I wash my hands with soap.
+N5-0310	【家庭】料理が好きです。	I like home cooking.
+N5-0311	駅の近くの【アパート】に住んでいます。	I live in an apartment near the station.
+N5-0312	【エレベーター】で五階に行きます。	I take the elevator to the fifth floor.
+N5-0313	【入口】はどこですか。	Where's the entrance?
+N5-0314	【出口】はあちらです。	The exit is over there.
+N5-0315	デパートで【服】を買います。	I buy clothes at the department store.
+N5-0316	姉は【洋服】をたくさん持っています。	My older sister has a lot of clothes.
+N5-0317	寒いので【上着】を着ます。	It's cold, so I'll wear a jacket.
+N5-0318	寒いので【コート】を着ます。	It's cold, so I'll wear a coat.
+N5-0319	母が【セーター】を作りました。	Mom made a sweater.
+N5-0320	白い【シャツ】を着ています。	I'm wearing a white shirt.
+N5-0321	父は白い【ワイシャツ】を着ています。	My father is wearing a white dress shirt.
+N5-0322	父は毎日【背広】を着ます。	My father wears a suit every day.
+N5-0323	父は青い【ネクタイ】をしています。	My father is wearing a blue tie.
+N5-0324	妹は赤い【スカート】をはいています。	My younger sister is wearing a red skirt.
+N5-0325	新しい【ズボン】をはきます。	I put on new trousers.
+N5-0326	家に入る前に【靴】を脱ぎます。	I take off my shoes before going into the house.
+N5-0327	白い【靴下】をはいています。	I'm wearing white socks.
+N5-0328	【帽子】をかぶって出かけます。	I go out wearing a hat.
+N5-0329	【眼鏡】をかけています。	I wear glasses.
+N5-0330	【ポケット】に鍵があります。	There's a key in my pocket.
+N5-0331	この【ボタン】を押してください。	Please press this button.
+N5-0332	【ハンカチ】で手をふきます。	I dry my hands with a handkerchief.
+N5-0333	新しい【かばん】を買いました。	I bought a new bag.
+N5-0334	【財布】をなくしました。	I lost my wallet.
+N5-0335	【お金】がありません。	I don't have any money.
+N5-0336	【鍵】をなくしました。	I lost my key.
+N5-0337	雨なので【傘】を持って行きます。	It's raining, so I'll take an umbrella.
+N5-0338	この【時計】は父からのプレゼントです。	This watch is a present from my father.
+N5-0339	新しい【カメラ】で写真を撮ります。	I take photos with my new camera.
+N5-0340	【荷物】が重いです。	The luggage is heavy.
+N5-0341	【箱】の中に何がありますか。	What's in the box?
+N5-0342	この店にはいろいろな【物】があります。	This shop has all kinds of things.
+N5-0343	【ペン】を貸してください。	Could you lend me a pen?
+N5-0344	【ボールペン】で書いてください。	Please write with a ballpoint pen.
+N5-0345	【鉛筆】で名前を書いてください。	Please write your name in pencil.
+N5-0346	祖父に【万年筆】をもらいました。	I got a fountain pen from my grandfather.
+N5-0347	【紙】に名前を書いてください。	Please write your name on the paper.
+N5-0348	【ノート】に漢字を書きます。	I write kanji in my notebook.
+N5-0349	母に【手紙】を書きます。	I write a letter to my mother.
+N5-0350	友達に【はがき】を書きました。	I wrote a postcard to a friend.
+N5-0351	手紙を【封筒】に入れます。	I put the letter in an envelope.
+N5-0352	【切手】を三枚ください。	Three stamps, please.
+N5-0353	手紙を【ポスト】に入れました。	I put the letter in the mailbox.
+N5-0354	父は毎朝【新聞】を読みます。	My father reads the newspaper every morning.
+N5-0355	電車で【雑誌】を読みます。	I read magazines on the train.
+N5-0356	【本】を読むのが好きです。	I like reading books.
+N5-0357	分からない言葉は【辞書】で調べます。	I look up words I don't know in the dictionary.
+N5-0358	【地図】を見て、駅に行きました。	I looked at the map and went to the station.
+N5-0359	ここで【写真】を撮ってもいいですか。	May I take a photo here?
+N5-0360	この紙を十枚【コピー】してください。	Please make ten copies of this paper.
+N5-0361	【学校】は八時半に始まります。	School starts at 8:30.
+N5-0362	兄は【大学】で英語を勉強しています。	My older brother studies English at university.
+N5-0363	【教室】に学生が二十人います。	There are twenty students in the classroom.
+N5-0364	私の【クラス】には学生が十五人います。	There are fifteen students in my class.
+N5-0365	【授業】は九時に始まります。	Class starts at nine.
+N5-0366	今日は【宿題】がたくさんあります。	I have a lot of homework today.
+N5-0367	明日、漢字の【テスト】があります。	There's a kanji test tomorrow.
+N5-0368	【質問】がありますか。	Do you have any questions?
+N5-0369	この【問題】が分かりません。	I don't understand this question.
+N5-0370	毎日日本語を【勉強】します。	I study Japanese every day.
+N5-0371	毎日ピアノを【練習】します。	I practice the piano every day.
+N5-0372	日本語で【作文】を書きました。	I wrote an essay in Japanese.
+N5-0373	この【文章】を読んでください。	Please read this text.
+N5-0374	この【言葉】は何と読みますか。	How do you read this word?
+N5-0375	この言葉の【意味】が分かりません。	I don't understand the meaning of this word.
+N5-0376	【英語】を少し話せます。	I can speak a little English.
+N5-0377	【漢字】を覚えるのは大変です。	Memorizing kanji is tough.
+N5-0378	子供が【ひらがな】を練習しています。	The child is practicing hiragana.
+N5-0379	【カタカナ】で名前を書いてください。	Please write your name in katakana.
+N5-0380	【図書館】は月曜日が休みです。	The library is closed on Mondays.
+N5-0381	大学の【食堂】で昼ご飯を食べます。	I eat lunch in the university cafeteria.
+N5-0382	私の【町】は小さいです。	My town is small.
+N5-0383	祖母は小さな【村】に住んでいます。	My grandmother lives in a small village.
+N5-0384	あなたの【国】はどこですか。	Which country are you from?
+N5-0385	【外国】に行ったことがありますか。	Have you ever been abroad?
+N5-0386	静かな【所】に住みたいです。	I want to live somewhere quiet.
+N5-0387	この【辺】に銀行はありますか。	Is there a bank around here?
+N5-0388	この【店】のラーメンはおいしいです。	This shop's ramen is delicious.
+N5-0389	【デパート】で服を買いました。	I bought clothes at the department store.
+N5-0390	駅の前の【喫茶店】でコーヒーを飲みました。	I had coffee at the café in front of the station.
+N5-0391	駅の近くの【レストラン】で食べました。	I ate at a restaurant near the station.
+N5-0392	【八百屋】で野菜を買います。	I buy vegetables at the greengrocer.
+N5-0393	【銀行】でお金を出します。	I withdraw money at the bank.
+N5-0394	【郵便局】で切手を買います。	I buy stamps at the post office.
+N5-0395	父は九時に【会社】に行きます。	My father goes to the office at nine.
+N5-0396	【仕事】は何時に終わりますか。	What time does work finish?
+N5-0397	駅の近くの【ホテル】に泊まりました。	I stayed at a hotel near the station.
+N5-0398	駅の前に【映画館】があります。	There's a movie theater in front of the station.
+N5-0399	【公園】で子供が遊んでいます。	Children are playing in the park.
+N5-0400	公園の【池】に魚がいます。	There are fish in the park's pond.
+N5-0401	この学校には【プール】があります。	This school has a swimming pool.
+N5-0402	駅の前に【交番】があります。	There's a police box in front of the station.
+N5-0403	【大使館】はどこですか。	Where's the embassy?
+N5-0404	あの高い【建物】は何ですか。	What's that tall building?
+N5-0405	【駅】まで歩いて十分です。	It's a ten-minute walk to the station.
+N5-0406	【電車】で学校に行きます。	I go to school by train.
+N5-0407	【地下鉄】で会社に行きます。	I take the subway to work.
+N5-0408	【バス】で駅まで行きます。	I take the bus to the station.
+N5-0409	駅から【タクシー】に乗りました。	I took a taxi from the station.
+N5-0410	【車】で会社に行きます。	I drive to work.
+N5-0411	この町には【自動車】の工場があります。	There's a car factory in this town.
+N5-0412	【自転車】で学校に行きます。	I go to school by bicycle.
+N5-0413	【飛行機】で沖縄に行きます。	I'm flying to Okinawa.
+N5-0414	駅で【切符】を買います。	I buy a ticket at the station.
+N5-0415	この【道】は広いです。	This road is wide.
+N5-0416	次の【角】を右に曲がってください。	Please turn right at the next corner.
+N5-0417	次の【交差点】を左に曲がってください。	Please turn left at the next intersection.
+N5-0418	この【橋】は古いです。	This bridge is old.
+N5-0419	来月、北海道へ【旅行】に行きます。	Next month I'm going on a trip to Hokkaido.
+N5-0420	毎朝犬と【散歩】します。	I walk my dog every morning.
+N5-0421	机の【上】にパソコンがあります。	There's a computer on the desk.
+N5-0422	机の【下】に猫がいます。	There's a cat under the desk.
+N5-0423	かばんの【中】に何がありますか。	What's in the bag?
+N5-0424	【外】は寒いです。	It's cold outside.
+N5-0425	【右】に曲がってください。	Please turn right.
+N5-0426	次の角を【左】に曲がってください。	Please turn left at the next corner.
+N5-0427	私の【後ろ】にだれかいます。	Someone is behind me.
+N5-0428	【隣】の部屋に田中さんが住んでいます。	Mr. Tanaka lives in the room next door.
+N5-0429	駅の【横】に本屋があります。	There's a bookstore next to the station.
+N5-0430	家の【近く】にスーパーがあります。	There's a supermarket near my house.
+N5-0431	駅の【そば】に住んでいます。	I live near the station.
+N5-0432	川の【向こう】に山があります。	There's a mountain on the other side of the river.
+N5-0433	【北】の国は寒いです。	Northern countries are cold.
+N5-0434	沖縄は日本の【南】にあります。	Okinawa is in the south of Japan.
+N5-0435	太陽は【東】から出ます。	The sun rises in the east.
+N5-0436	太陽は【西】に沈みます。	The sun sets in the west.
+N5-0437	【音楽】を聞くのが好きです。	I like listening to music.
+N5-0438	この【歌】が大好きです。	I love this song.
+N5-0439	週末に【映画】を見ます。	I watch a movie on the weekend.
+N5-0440	兄は【ギター】を弾きます。	My older brother plays the guitar.
+N5-0441	どんな【スポーツ】が好きですか。	What sports do you like?
+N5-0442	週末に【パーティー】があります。	There's a party on the weekend.
+N5-0443	日曜日に【買い物】をします。	I go shopping on Sunday.
+N5-0444	日曜日に【洗濯】をします。	I do the laundry on Sunday.
+N5-0445	週末に部屋の【掃除】をします。	I clean my room on weekends.
+N5-0446	毎朝【ニュース】を見ます。	I watch the news every morning.
+N5-0447	祖父の【話】は面白いです。	My grandfather's stories are interesting.
+N5-0448	妹は【絵】を描くのが上手です。	My younger sister is good at drawing.
+N5-0449	【ペット】を飼っていますか。	Do you have a pet?
+N5-0450	どんな【動物】が好きですか。	What animals do you like?
+N5-0451	【犬】と散歩します。	I go for walks with my dog.
+N5-0452	【猫】が二匹います。	I have two cats.
+N5-0453	木の上に【鳥】がいます。	There's a bird in the tree.
+N5-0454	今日はいい【天気】ですね。	Nice weather today, isn't it?
+N5-0455	明日は【晴れ】でしょう。	It will probably be sunny tomorrow.
+N5-0456	明日は【曇り】でしょう。	Tomorrow will probably be cloudy.
+N5-0457	【雨】が降っています。	It's raining.
+N5-0458	北海道は【雪】が多いです。	Hokkaido gets a lot of snow.
+N5-0459	今日は【風】が強いです。	The wind is strong today.
+N5-0460	今日は【空】がきれいです。	The sky is beautiful today.
+N5-0461	日本で一番高い【山】は富士山です。	The highest mountain in Japan is Mt. Fuji.
+N5-0462	【川】で魚を見ました。	I saw fish in the river.
+N5-0463	夏は【海】で泳ぎます。	In summer I swim in the sea.
+N5-0464	庭に大きな【木】があります。	There's a big tree in the garden.
+N5-0465	公園に【花】がたくさん咲いています。	Lots of flowers are blooming in the park.
+N5-0466	【春】は暖かいです。	Spring is warm.
+N5-0467	【夏】は暑いです。	Summer is hot.
+N5-0468	【秋】は涼しくて好きです。	I like autumn because it's cool.
+N5-0469	【冬】は雪が降ります。	It snows in winter.
+N5-0470	今日はとても【暑い】です。	It's very hot today.
+N5-0471	冬は【寒い】です。	Winter is cold.
+N5-0472	春は【暖かい】です。	Spring is warm.
+N5-0473	秋は【涼しい】です。	Autumn is cool.
+N5-0474	何【色】が好きですか。	What color do you like?
+N5-0475	信号が【赤】です。止まってください。	The light is red. Please stop.
+N5-0476	私の好きな色は【青】です。	My favorite color is blue.
+N5-0477	【白】のシャツが好きです。	I like white shirts.
+N5-0478	【黒】のシャツを買いました。	I bought a black shirt.
+N5-0479	【黄色】が好きです。	I like yellow.
+N5-0480	【茶色】のかばんを買いました。	I bought a brown bag.
+N5-0481	公園の【緑】がきれいです。	The greenery in the park is beautiful.
+N5-0482	【赤い】りんごを買いました。	I bought a red apple.
+N5-0483	【青い】空がきれいです。	The blue sky is beautiful.
+N5-0484	【白い】犬を飼っています。	I have a white dog.
+N5-0485	【黒い】猫がいます。	There's a black cat.
+N5-0486	【黄色い】花が咲いています。	Yellow flowers are blooming.
+N5-0487	毎朝六時に【起きる】。	I get up at six every morning.
+N5-0488	毎晩十一時に【寝る】。	I go to bed at eleven every night.
+N5-0489	毎朝パンを【食べる】。	I eat bread every morning.
+N5-0490	毎朝コーヒーを【飲む】。	I drink coffee every morning.
+N5-0491	食べる前に手を【洗う】。	I wash my hands before eating.
+N5-0492	毎朝シャワーを【浴びる】。	I take a shower every morning.
+N5-0493	毎晩歯を【磨く】。	I brush my teeth every night.
+N5-0494	寒いのでセーターを【着る】。	It's cold, so I put on a sweater.
+N5-0495	家に入るときは靴を【脱ぐ】。	You take off your shoes when you go into a house.
+N5-0496	毎日スニーカーを【はく】。	I wear sneakers every day.
+N5-0497	暑いので帽子を【かぶる】。	It's hot, so I put on a hat.
+N5-0498	会社に行くときはネクタイを【締める】。	I wear a tie when I go to work.
+N5-0499	日曜日に母とケーキを【作る】。	On Sunday I make a cake with Mom.
+N5-0500	スーパーで野菜を【買う】。	I buy vegetables at the supermarket.
+N5-0501	あの店では古い本を【売る】。	That shop sells old books.
+N5-0502	箸を【使う】のは難しいです。	Using chopsticks is difficult.
+N5-0503	私は海の近くに【住む】つもりです。	I plan to live near the sea.
+N5-0504	父は毎日遅くまで【働く】。	My father works late every day.
+N5-0505	大学を出たら、銀行に【勤める】つもりです。	After university I plan to work at a bank.
+N5-0506	疲れたので少し【休む】。	I'm tired, so I'll rest a little.
+N5-0507	週末は友達と【遊ぶ】。	On weekends I hang out with friends.
+N5-0508	毎日働くと【疲れる】。	Working every day makes you tired.
+N5-0509	毎日宿題を【する】。	I do homework every day.
+N5-0510	週末に宿題を【やる】。	I'll do my homework on the weekend.
+N5-0511	明日、学校に【行く】。	I'm going to school tomorrow.
+N5-0512	明日、友達が家に【来る】。	A friend is coming to my house tomorrow.
+N5-0513	六時に家に【帰る】。	I go home at six.
+N5-0514	毎朝八時に家を【出る】。	I leave home at eight every morning.
+N5-0515	部屋に【入る】ときは、ノックしてください。	Please knock when you enter the room.
+N5-0516	日曜日は家族と【出かける】。	On Sundays I go out with my family.
+N5-0517	電車は十時に東京に【着く】。	The train arrives in Tokyo at ten.
+N5-0518	毎日駅まで【歩く】。	I walk to the station every day.
+N5-0519	毎朝公園を【走る】。	I run in the park every morning.
+N5-0520	駅でバスに【乗る】。	I get on the bus at the station.
+N5-0521	次の駅で電車を【降りる】。	I get off the train at the next station.
+N5-0522	この橋を【渡る】と、駅があります。	If you cross this bridge, there's the station.
+N5-0523	この道を右に【曲がる】と、駅があります。	If you turn right on this road, there's the station.
+N5-0524	この電車は東京駅に【止まる】。	This train stops at Tokyo Station.
+N5-0525	鳥が空を【飛ぶ】。	Birds fly in the sky.
+N5-0526	夏はプールで【泳ぐ】。	In summer I swim in the pool.
+N5-0527	夏に富士山に【登る】つもりです。	I plan to climb Mt. Fuji in the summer.
+N5-0528	駅で友達に【会う】。	I meet a friend at the station.
+N5-0529	駅で友達を【待つ】。	I wait for a friend at the station.
+N5-0530	先生が来たら、学生は【立つ】。	When the teacher comes in, the students stand up.
+N5-0531	電車ではいつも窓の近くに【座る】。	On the train I always sit by the window.
+N5-0532	人気の店の前には人が【並ぶ】。	People line up in front of popular shops.
+N5-0533	先生がそう【言う】なら、大丈夫です。	If the teacher says so, it's fine.
+N5-0534	母と電話で【話す】。	I talk with my mother on the phone.
+N5-0535	毎朝ラジオを【聞く】。	I listen to the radio every morning.
+N5-0536	電車で本を【読む】。	I read books on the train.
+N5-0537	ペンで名前を【書く】。	I write my name with a pen.
+N5-0538	夜、映画を【見る】。	I watch a movie at night.
+N5-0539	友達に写真を【見せる】。	I show a friend my photos.
+N5-0540	先生は学生に日本語を【教える】。	The teacher teaches students Japanese.
+N5-0541	来年から日本語を【習う】つもりです。	I plan to take Japanese lessons starting next year.
+N5-0542	毎日漢字を五つ【覚える】。	I memorize five kanji every day.
+N5-0543	よく傘を【忘れる】。	I often forget my umbrella.
+N5-0544	この言葉の意味が【分かる】。	I understand what this word means.
+N5-0545	日本の文化を【知る】のは楽しいです。	Learning about Japanese culture is fun.
+N5-0546	先生の質問に【答える】。	I answer the teacher's question.
+N5-0547	パーティーに友達を【呼ぶ】。	I invite friends to the party.
+N5-0548	店の人にコーヒーを【頼む】。	I order a coffee from the staff.
+N5-0549	カラオケで【歌う】のが好きです。	I like singing karaoke.
+N5-0550	机の上に本が【ある】。	There's a book on the desk.
+N5-0551	公園に子供が【いる】。	There are children in the park.
+N5-0552	旅行にはお金が【要る】。	You need money to travel.
+N5-0553	お金が【ない】。	I have no money.
+N5-0554	春に【なる】と、暖かくなります。	When spring comes, it gets warm.
+N5-0555	姉は英語が【できる】。	My older sister can speak English.
+N5-0556	銀行は九時に【開く】。	The bank opens at nine.
+N5-0557	暑いので、窓を【開ける】。	It's hot, so I open the window.
+N5-0558	この店は八時に【閉まる】。	This shop closes at eight.
+N5-0559	寒いので窓を【閉める】。	It's cold, so I close the window.
+N5-0560	映画は七時に【始まる】。	The movie begins at seven.
+N5-0561	授業は三時に【終わる】。	Class ends at three.
+N5-0562	コーヒーに砂糖を【入れる】。	I put sugar in my coffee.
+N5-0563	先生に宿題を【出す】。	I hand in my homework to the teacher.
+N5-0564	かばんは机の上に【置く】。	I put my bag on the desk.
+N5-0565	棚の上の箱を【取る】。	I take the box from the shelf.
+N5-0566	旅行でたくさん写真を【撮る】。	I take lots of photos when I travel.
+N5-0567	重い荷物を【持つ】のは大変です。	Carrying heavy luggage is tough.
+N5-0568	友達に本を【貸す】。	I lend a book to a friend.
+N5-0569	図書館で本を【借りる】。	I borrow books from the library.
+N5-0570	図書館に本を【返す】。	I return a book to the library.
+N5-0571	先生にレポートを【渡す】。	I hand my report to the teacher.
+N5-0572	質問がある人は手を【上げる】。	People with questions raise their hands.
+N5-0573	このボタンを【押す】と、ドアが開きます。	If you press this button, the door opens.
+N5-0574	このドアは【引く】と開きます。	This door opens when you pull it.
+N5-0575	姉はピアノを【弾く】のが上手です。	My older sister is good at playing the piano.
+N5-0576	ナイフでパンを【切る】。	I cut bread with a knife.
+N5-0577	風で火が【消える】。	The fire goes out in the wind.
+N5-0578	寝る前に電気を【消す】。	I turn off the light before going to bed.
+N5-0579	暗いので電気を【つける】。	It's dark, so I turn on the light.
+N5-0580	友達に電話を【かける】。	I call a friend.
+N5-0581	駅まで十分【かかる】。	It takes ten minutes to the station.
+N5-0582	雨の日は傘を【さす】。	On rainy days I put up an umbrella.
+N5-0583	手紙に切手を【貼る】。	I put a stamp on the letter.
+N5-0584	テーブルにお皿を【並べる】。	I set out plates on the table.
+N5-0585	よく鍵を【なくす】。	I often lose my keys.
+N5-0586	お金がないと【困る】。	Without money, I'm in trouble.
+N5-0587	それは【違う】と思います。	I think that's wrong.
+N5-0588	来月、姉に子供が【生まれる】。	My older sister's baby will be born next month.
+N5-0589	魚は水がないと【死ぬ】。	Fish die without water.
+N5-0590	春になると桜が【咲く】。	When spring comes, the cherry blossoms bloom.
+N5-0591	朝、鳥が【鳴く】。	In the morning, birds sing.
+N5-0592	今日は強い風が【吹く】でしょう。	A strong wind will probably blow today.
+N5-0593	明日は雪が【降る】でしょう。	It will probably snow tomorrow.
+N5-0594	午後から【晴れる】でしょう。	It will probably clear up in the afternoon.
+N5-0595	午後から空が【曇る】でしょう。	The sky will probably cloud over in the afternoon.
+N5-0596	ここでたばこを【吸う】のはだめです。	You can't smoke here.
+N5-0597	【大きい】犬が好きです。	I like big dogs.
+N5-0598	【大きな】木の下で休みました。	I rested under a big tree.
+N5-0599	【小さい】犬を飼っています。	I have a small dog.
+N5-0600	【小さな】町に住んでいます。	I live in a small town.
+N5-0601	妹は髪が【長い】です。	My younger sister has long hair.
+N5-0602	この鉛筆は【短い】です。	This pencil is short.
+N5-0603	このかばんは【高い】です。	This bag is expensive.
+N5-0604	弟は背が【低い】です。	My younger brother is short.
+N5-0605	この公園は【広い】です。	This park is big.
+N5-0606	私の部屋は【狭い】です。	My room is small.
+N5-0607	この木は【太い】です。	This tree is thick.
+N5-0608	この道は【細い】です。	This road is narrow.
+N5-0609	この辞書はとても【厚い】です。	This dictionary is very thick.
+N5-0610	このコーヒーは【薄い】です。	This coffee is weak.
+N5-0611	このかばんは【重い】です。	This bag is heavy.
+N5-0612	このかばんは【軽い】です。	This bag is light.
+N5-0613	月が【丸い】です。	The moon is round.
+N5-0614	東京は人が【多い】です。	Tokyo has a lot of people.
+N5-0615	この町は人が【少ない】です。	This town has few people.
+N5-0616	駅は家から【近い】です。	The station is close to my house.
+N5-0617	学校は家から【遠い】です。	School is far from my house.
+N5-0618	父は朝が【早い】です。	My father gets up early.
+N5-0619	新幹線はとても【速い】です。	The bullet train is very fast.
+N5-0620	このバスは【遅い】です。	This bus is slow.
+N5-0621	【新しい】車を買いました。	I bought a new car.
+N5-0622	この建物は【古い】です。	This building is old.
+N5-0623	あの先生は【若い】です。	That teacher is young.
+N5-0624	この部屋は【明るい】ですね。	This room is bright, isn't it?
+N5-0625	外はもう【暗い】です。	It's already dark outside.
+N5-0626	このお茶は【熱い】ので、気をつけてください。	This tea is hot, so be careful.
+N5-0627	【冷たい】水が飲みたいです。	I want to drink cold water.
+N5-0628	このお茶は【ぬるい】です。	This tea is lukewarm.
+N5-0629	今日は天気が【いい】ですね。	The weather is nice today.
+N5-0630	今日は天気が【悪い】です。	The weather is bad today.
+N5-0631	この店の服は【安い】です。	The clothes in this shop are cheap.
+N5-0632	この本は【面白い】です。	This book is interesting.
+N5-0633	この映画は【つまらない】です。	This movie is boring.
+N5-0634	旅行は【楽しい】です。	Traveling is fun.
+N5-0635	この問題は【難しい】です。	This problem is difficult.
+N5-0636	このテストは【易しい】です。	This test is easy.
+N5-0637	今週は仕事が【忙しい】です。	Work is busy this week.
+N5-0638	この道は車が多くて【危ない】です。	This road has a lot of cars and is dangerous.
+N5-0639	隣の部屋が【うるさい】です。	The room next door is noisy.
+N5-0640	弟の部屋は【汚い】です。	My younger brother's room is dirty.
+N5-0641	この花は【きれい】ですね。	This flower is pretty, isn't it?
+N5-0642	この猫は【かわいい】です。	This cat is cute.
+N5-0643	この犬は小さいですが、【強い】です。	This dog is small but strong.
+N5-0644	私はお酒に【弱い】です。	I can't hold my liquor.
+N5-0645	図書館は【静か】です。	The library is quiet.
+N5-0646	東京は【にぎやか】な町です。	Tokyo is a lively city.
+N5-0647	京都はお寺で【有名】です。	Kyoto is famous for its temples.
+N5-0648	スマホは【便利】です。	Smartphones are convenient.
+N5-0649	家族は【大切】です。	Family is important.
+N5-0650	仕事が多くて【大変】です。	There's so much work, it's tough.
+N5-0651	【立派】な建物ですね。	What a splendid building.
+N5-0652	このかばんは【丈夫】です。	This bag is sturdy.
+N5-0653	明日は【暇】ですか。	Are you free tomorrow?
+N5-0654	私は猫が【好き】です。	I like cats.
+N5-0655	私は肉が【嫌い】です。	I don't like meat.
+N5-0656	私はすしが【大好き】です。	I love sushi.
+N5-0657	雨の日は【嫌】です。	I don't like rainy days.
+N5-0658	姉は料理が【上手】です。	My older sister is good at cooking.
+N5-0659	私は歌が【下手】です。	I'm bad at singing.
+N5-0660	新しいパソコンが【欲しい】です。	I want a new computer.

@@ -12,11 +12,13 @@ Vocabulary: the 500 words of New HSK (2021) Level 1, see [`wordlists/`](wordlist
 - **Fill in the blank**: 我想＿＿一杯茶。(I want to drink a cup of tea.) → 喝
 
 Missed words come back a couple of questions later and show up more often afterwards (simple spaced repetition).
-The quiz only uses words you've marked as known; sort them once under **Sort words**, and add new ones from **Word list & search**.
+The quiz only uses words you've marked as known. Under **Choose the words you know** the words are in 23 topic groups:
+mark a whole group with **Know all**, or open it to tick single words. **Word list & search** finds any word.
 
 ## Install on your phone
 
-1. Open the repo's **Releases** page on your phone, find **HanziGate (latest from …)**, and download `HanziGate.apk`.
+1. If an older HanziGate (signed with the retired public key) is installed, uninstall it first: the new key can't update it.
+   Then open the repo's **Releases** page on your phone, find **HanziGate (latest from …)**, and download `HanziGate.apk`.
    (Each push rebuilds it. The APK is also attached to every run on the **Actions** tab.)
 2. Open the file and allow installing from your browser/files app when asked. Play Protect may warn, since the app isn't from the store; choose install anyway.
 3. Open HanziGate → **Accessibility** → Downloaded apps → HanziGate → turn on.
@@ -26,8 +28,26 @@ The quiz only uses words you've marked as known; sort them once under **Sort wor
 
 If anything breaks, the quiz screen has an **Emergency skip** (30-second wait, then 5 minutes of X).
 
+## KotobaGate (iPhone, Japanese, Instagram)
+
+The same idea for iPhone, as a web page in [`web/`](web/): a JLPT N5 Japanese quiz in front of Instagram.
+iOS doesn't let apps block other apps, so the gate is a Shortcuts automation:
+opening Instagram runs a shortcut that opens the quiz in Safari unless it was unlocked recently,
+and passing the quiz runs a second shortcut that saves the unlock time and opens Instagram.
+
+Question types: English → Japanese (kana or kanji), kanji → reading (kana or romaji), and fill in the blank.
+Known words are chosen by topic group (26 groups, "Know all" or tick single words); the quiz also has the word list, practice mode, spaced repetition and the emergency skip.
+
+The page is published to GitHub Pages by `.github/workflows/web.yml` from the default branch.
+The step-by-step Shortcuts setup is on the page itself (**Setup guide**).
+Tests: `cd web && node --test`. To try it locally, copy `web/*` and `wordlists/jlpt_n5*.tsv` into one folder and serve it
+(`python3 -m http.server`).
+
 ## Development
 
 Kotlin + Jetpack Compose, built by GitHub Actions (`.github/workflows/build.yml`).
 Logic and word-list checks: `./gradlew testDebugUnitTest`.
-The signing key in `app/hanzigate.keystore` is deliberately public, so every build installs over the last one without losing progress.
+APKs are signed with a release key kept in two repository secrets, so every build installs over the last one without losing progress:
+`HANZIGATE_KEYSTORE_BASE64` (the PKCS12 keystore, base64) and `HANZIGATE_KEYSTORE_PASSWORD` (alias `hanzigate`).
+Without them, CI still builds and tests but signs with a throwaway debug key and skips the release.
+(The key that used to be in `app/hanzigate.keystore` was public and is retired; it's still in git history, so never trust an APK signed with it.)

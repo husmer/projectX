@@ -18,6 +18,14 @@ class DataTest {
     }
 
     @Test
+    fun everyWordIsInAListedCategory() {
+        val categories = File("../wordlists/hsk1_categories.txt").readLines().filter { it.isNotBlank() }
+        assertEquals(categories.size, categories.toSet().size)
+        for (w in words) assertTrue("${w.id} ${w.simplified}: category '${w.category}'", w.category in categories)
+        assertEquals(categories.toSet(), words.map { it.category }.toSet())
+    }
+
+    @Test
     fun everyWordHasAMatchingSentence() {
         val byId = words.associateBy { it.id }
         assertEquals(500, sentences.size)

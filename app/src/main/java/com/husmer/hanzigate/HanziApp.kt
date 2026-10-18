@@ -8,6 +8,8 @@ class HanziApp : Application() {
     val sentences: Map<String, List<Sentence>> by lazy {
         WordParser.parseSentences(asset("hsk1_sentences.tsv")).groupBy { it.wordId }
     }
+    /** Category names in display order. */
+    val categories: List<String> by lazy { asset("hsk1_categories.txt").lines().filter { it.isNotBlank() } }
     val checker: AnswerChecker by lazy { AnswerChecker(words) }
     val store: Store by lazy { Store(this) }
 
@@ -19,6 +21,8 @@ class HanziApp : Application() {
         val known = words.filter { store.state(it.id).known }
         return if (known.size >= MIN_KNOWN) known else words
     }
+
+    fun wordsIn(category: String) = words.filter { it.category == category }
 
     fun newSession(needed: Int) = QuizSession(quizPool(), sentences, store::state, needed)
 

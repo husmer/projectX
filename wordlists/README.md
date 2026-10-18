@@ -23,3 +23,30 @@ English glosses written by hand.
 
 Note: Chinese Testing International revised the exam syllabus again in late 2025,
 and some sources say the exam's HSK 1 is now ~300 words. This file is the 2021 standard.
+
+## `jlpt_n5.tsv` — JLPT N5 (Japanese), for KotobaGate
+
+660 words at the JLPT N5 level. There is no official JLPT word list; this one starts from
+[jamsinclair/open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks) (MIT),
+itself based on Jonathan Waller's lists at tanos.co.uk. Counters and suffixes (～円, ～枚…),
+dated items (テープレコーダー, 灰皿…) and duplicates (有る/在る) were dropped, and the
+English glosses were rewritten by hand for quizzing.
+
+Tab-separated, UTF-8, one word per line:
+
+| column | meaning |
+|---|---|
+| `id` | `N5-0001` …, ordered by category |
+| `word` | the usual written form (kanji, or kana where kana is normal) |
+| `kana` | reading(s) in kana, `/`-separated (九 → `きゅう/く`) |
+| `meaning` | short English gloss; brackets tell apart same-meaning words (暑い "hot (weather)", 熱い "hot (to the touch)") |
+| `also` | other accepted spellings, `/`-separated (おいしい → `美味しい`) |
+| `category` | one of 26 topic groups (Food & drink, Verbs: coming & going…), so known words can be marked a group at a time |
+
+`jlpt_n5_sentences.tsv`: one hand-written example sentence per word, with the word in 【】,
+always in a form listed for that word (verbs and adjectives in dictionary form), plus an English translation.
+
+## Topic groups (HSK 1)
+
+The `category` column (8th) of `hsk1_2021.tsv` puts every word in one of the topic groups listed, in display order,
+in `hsk1_categories.txt`, so known words can be marked a group at a time. Words keep their official order and ids.
