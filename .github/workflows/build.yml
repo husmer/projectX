@@ -20,7 +20,22 @@ jobs:
 
       - uses: gradle/actions/setup-gradle@v4
 
+      - name: Signing key
+        id: signing
+        env:
+          KEYSTORE_BASE64: ${{ secrets.HANZIGATE_KEYSTORE_BASE64 }}
+        run: |
+          if [ -n "$KEYSTORE_BASE64" ]; then
+            echo "$KEYSTORE_BASE64" | base64 -d > "$RUNNER_TEMP/hanzigate.keystore"
+            echo "HANZIGATE_KEYSTORE=$RUNNER_TEMP/hanzigate.keystore" >> "$GITHUB_ENV"
+            echo "signed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::No HANZIGATE_KEYSTORE_BASE64 secret: this build uses a throwaway debug key and is not published as a release."
+          fi
+
       - name: Test and build
+        env:
+          HANZIGATE_KEYSTORE_PASSWORD: ${{ secrets.HANZIGATE_KEYSTORE_PASSWORD }}
         run: ./gradlew --no-daemon testDebugUnitTest assembleDebug
 
       - name: Rename APK
@@ -33,6 +48,7 @@ jobs:
 
       # A "latest" release per branch, so the APK can be downloaded straight to the phone.
       - name: Publish release
+        if: steps.signing.outputs.signed == 'true'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest-${{ github.ref_name }}

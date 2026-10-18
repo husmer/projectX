@@ -1,501 +1,501 @@
-id	simplified	traditional	pinyin	meaning	pos	also
-L1-0001	爱	愛	ài	to love	V	
-L1-0002	爱好	愛好	àihào	hobby; to like	V/N	
-L1-0003	八	八	bā	eight	Num	
-L1-0004	爸爸	爸爸	bàba	dad; father	N	爸
-L1-0005	吧	吧	ba	(suggestion particle) let's...; ...right?	Aux	
-L1-0006	白	白	bái	white	Adj	
-L1-0007	白天	白天	báitiān	daytime	N	
-L1-0008	百	百	bǎi	hundred	Num	
-L1-0009	班	班	bān	class (of students)	N/M	
-L1-0010	半	半	bàn	half	Num	
-L1-0011	半年	半年	bàn nián	half a year		
-L1-0012	半天	半天	bàntiān	half a day; a long time		
-L1-0013	帮	幫	bāng	to help	V	
-L1-0014	帮忙	幫忙	bāngmáng	to help; to do a favor		
-L1-0015	包	包	bāo	bag; to wrap	N/M/V	
-L1-0016	包子	包子	bāozi	steamed stuffed bun	N	
-L1-0017	杯	杯	bēi	cup (measure word)	M	
-L1-0018	杯子	杯子	bēizi	cup; glass	N	
-L1-0019	北	北	běi	north	N	
-L1-0020	北边	北邊	běibian	north side	N	
-L1-0021	北京	北京	Běijīng	Beijing	N	
-L1-0022	本	本	běn	measure word for books	M	
-L1-0023	本子	本子	běnzi	notebook	N	
-L1-0024	比	比	bǐ	than (in comparisons); to compare	Prep/V	
-L1-0025	别	別	bié	don't (do something)	Adv	
-L1-0026	别的	別的	biéde	other; else	Pron	
-L1-0027	别人	別人	biérén	other people	Pron	
-L1-0028	病	病	bìng	illness; to be ill	N/V	
-L1-0029	病人	病人	bìngrén	patient; sick person	N	
-L1-0030	不大	不大	bù dà	not very		
-L1-0031	不对	不對	bùduì	wrong; incorrect	Adj	
-L1-0032	不客气	不客氣	bù kèqì	you're welcome		
-L1-0033	不用	不用	bùyòng	no need to	Adv	
-L1-0034	不	不	bù	not; no	Adv	
-L1-0035	菜	菜	cài	dish; vegetable	N	
-L1-0036	茶	茶	chá	tea	N	
-L1-0037	差	差	chà	lacking; poor (quality)	V/Adj	
-L1-0038	常	常	cháng	often	Adv	
-L1-0039	常常	常常	chángcháng	often	Adv	
-L1-0040	唱	唱	chàng	to sing	V	
-L1-0041	唱歌	唱歌	chànggē	to sing (a song)		
-L1-0042	车	車	chē	car; vehicle	N	
-L1-0043	车票	車票	chēpiào	bus/train ticket	N	
-L1-0044	车上	車上	chē shang	in the car		
-L1-0045	车站	車站	chēzhàn	station; bus stop	N	
-L1-0046	吃	吃	chī	to eat	V	
-L1-0047	吃饭	吃飯	chīfàn	to eat a meal		
-L1-0048	出	出	chū	to go out; to come out	V	
-L1-0049	出来	出來	chūlái	to come out		
-L1-0050	出去	出去	chūqù	to go out		
-L1-0051	穿	穿	chuān	to wear; to put on	V	
-L1-0052	床	床	chuáng	bed	N	
-L1-0053	次	次	cì	time(s) (measure word)	M	
-L1-0054	从	從	cóng	from	Prep	
-L1-0055	错	錯	cuò	wrong; mistake	Adj/N	
-L1-0056	打	打	dǎ	to hit; to play (a ball game)	V	
-L1-0057	打车	打車	dǎchē	to take a taxi		
-L1-0058	打电话	打電話	dǎ diànhuà	to make a phone call		
-L1-0059	打开	打開	dǎkāi	to open		
-L1-0060	打球	打球	dǎ qiú	to play ball		
-L1-0061	大	大	dà	big; large	Adj	
-L1-0062	大学	大學	dàxué	university	N	
-L1-0063	大学生	大學生	dàxuéshēng	university student	N	
-L1-0064	到	到	dào	to arrive; to; until	V	
-L1-0065	得到	得到	dédào	to get; to obtain		
-L1-0066	地	地	de	(adverb particle) -ly	Aux	
-L1-0067	的	的	de	(possessive particle) 's	Aux	
-L1-0068	等	等	děng	to wait	V	
-L1-0069	地	地	dì	ground; earth	N	
-L1-0070	地点	地點	dìdiǎn	place; location	N	
-L1-0071	地方	地方	dìfang	place	N	
-L1-0072	地上	地上	dìshang	on the ground		
-L1-0073	地图	地圖	dìtú	map	N	
-L1-0074	弟弟	弟弟	dìdi	younger brother	N	弟
-L1-0075	第	第	dì	(ordinal prefix) No.; -th	Prefix	
-L1-0076	点	點	diǎn	o'clock; dot; a little	M/V/N	
-L1-0077	电	電	diàn	electricity	N	
-L1-0078	电话	電話	diànhuà	telephone	N	
-L1-0079	电脑	電腦	diànnǎo	computer	N	
-L1-0080	电视	電視	diànshì	television; TV	N	
-L1-0081	电视机	電視機	diànshìjī	TV set	N	
-L1-0082	电影	電影	diànyǐng	movie; film	N	
-L1-0083	电影院	電影院	diànyǐngyuàn	cinema	N	
-L1-0084	东	東	dōng	east	N	
-L1-0085	东边	東邊	dōngbian	east side	N	
-L1-0086	东西	東西	dōngxi	thing; stuff	N	
-L1-0087	动	動	dòng	to move	V	
-L1-0088	动作	動作	dòngzuò	movement; action	N	
-L1-0089	都	都	dōu	all; both	Adv	
-L1-0090	读	讀	dú	to read	V	
-L1-0091	读书	讀書	dúshū	to read; to study		
-L1-0092	对	對	duì	correct; right; toward	Adj	
-L1-0093	对不起	對不起	duìbuqǐ	sorry	V	
-L1-0094	多	多	duō	many; much	Adj/Pron	
-L1-0095	多少	多少	duōshao	how many; how much	Pron	
-L1-0096	饿	餓	è	hungry	Adj/V	
-L1-0097	儿子	兒子	érzi	son	N	
-L1-0098	二	二	èr	two	Num	
-L1-0099	饭	飯	fàn	meal; cooked rice	N	
-L1-0100	饭店	飯店	fàndiàn	hotel; restaurant	N	
-L1-0101	房间	房間	fángjiān	room	N	
-L1-0102	房子	房子	fángzi	house	N	
-L1-0103	放	放	fàng	to put; to place	V	
-L1-0104	放假	放假	fàngjià	to have a holiday		
-L1-0105	放学	放學	fàngxué	to finish school (for the day)		
-L1-0106	飞	飛	fēi	to fly	V	
-L1-0107	飞机	飛機	fēijī	airplane	N	
-L1-0108	非常	非常	fēicháng	very; extremely	Adv	
-L1-0109	分	分	fēn	minute; cent	N/M	
-L1-0110	风	風	fēng	wind	N	
-L1-0111	干	乾	gān	dry	Adj	
-L1-0112	干净	乾淨	gānjìng	clean	Adj	
-L1-0113	干	幹	gàn	to do	V	
-L1-0114	干什么	幹什麼	gàn shénme	what are you doing?		
-L1-0115	高	高	gāo	tall; high	Adj	
-L1-0116	高兴	高興	gāoxìng	happy; glad	Adj	
-L1-0117	告诉	告訴	gàosu	to tell	V	
-L1-0118	哥哥	哥哥	gēge	older brother	N	哥
-L1-0119	歌	歌	gē	song	N	
-L1-0120	个	個	gè	(general measure word)	M	
-L1-0121	给	給	gěi	to give; for	V/Prep	
-L1-0122	跟	跟	gēn	with; and; to follow	Prep/Conj/V	
-L1-0123	工人	工人	gōngrén	worker	N	
-L1-0124	工作	工作	gōngzuò	to work; job	V/N	
-L1-0125	关	關	guān	to close; to turn off	V	
-L1-0126	关上	關上	guānshang	to close; to shut		
-L1-0127	贵	貴	guì	expensive	Adj	
-L1-0128	国	國	guó	country	N	
-L1-0129	国家	國家	guójiā	country; nation	N	
-L1-0130	国外	國外	guó wài	abroad		
-L1-0131	过	過	guò	to pass; to cross; to spend (time)	V	
-L1-0132	还	還	hái	still; also	Adv	
-L1-0133	还是	還是	háishi	or (in questions); still	Adv/Conj	
-L1-0134	还有	還有	hái yǒu	also; in addition		
-L1-0135	孩子	孩子	háizi	child	N	
-L1-0136	汉语	漢語	Hànyǔ	Chinese language	N	
-L1-0137	汉字	漢字	Hànzì	Chinese character	N	
-L1-0138	好	好	hǎo	good	Adj	
-L1-0139	好吃	好吃	hǎochī	tasty; delicious	Adj	
-L1-0140	好看	好看	hǎokàn	good-looking	Adj	
-L1-0141	好听	好聽	hǎotīng	nice-sounding	Adj	
-L1-0142	好玩儿	好玩兒	hǎowánr	fun	Adj	
-L1-0143	号	號	hào	number; day of the month	N/M	
-L1-0144	喝	喝	hē	to drink	V	
-L1-0145	和	和	hé	and; with	Prep/Conj	
-L1-0146	很	很	hěn	very	Adv	
-L1-0147	后	後	hòu	after; behind	N	
-L1-0148	后边	後邊	hòubian	behind; back	N	
-L1-0149	后天	後天	hòutiān	the day after tomorrow	N	
-L1-0150	花	花	huā	flower	N	
-L1-0151	话	話	huà	words; speech	N	
-L1-0152	坏	壞	huài	bad; broken	Adj	
-L1-0153	还	還	huán	to give back; to return	V	
-L1-0154	回	回	huí	to return; to go back	V	
-L1-0155	回答	回答	huídá	to answer; answer	V/N	
-L1-0156	回到	回到	huídào	to return to	V	
-L1-0157	回家	回家	huí jiā	to go home		
-L1-0158	回来	回來	huílái	to come back		
-L1-0159	回去	回去	huíqù	to go back		
-L1-0160	会	會	huì	can; to be able to; will	V	
-L1-0161	火车	火車	huǒchē	train	N	
-L1-0162	机场	機場	jīchǎng	airport	N	
-L1-0163	机票	機票	jīpiào	plane ticket	N	
-L1-0164	鸡蛋	雞蛋	jīdàn	egg	N	
-L1-0165	几	幾	jǐ	how many; a few	Num/Pron	
-L1-0166	记	記	jì	to remember; to write down	V	
-L1-0167	记得	記得	jìde	to remember	V	
-L1-0168	记住	記住	jìzhù	to remember firmly		
-L1-0169	家	家	jiā	home; family	N/M	
-L1-0170	家里	家裡	jiā li	at home		
-L1-0171	家人	家人	jiārén	family members	N	
-L1-0172	间	間	jiān	measure word for rooms	M	
-L1-0173	见	見	jiàn	to see; to meet	V	
-L1-0174	见面	見面	jiànmiàn	to meet (each other)		
-L1-0175	教	教	jiāo	to teach	V	
-L1-0176	叫	叫	jiào	to be called; to call	V	
-L1-0177	教学楼	教學樓	jiàoxuélóu	classroom building	N	
-L1-0178	姐姐	姐姐	jiějie	older sister	N	姐
-L1-0179	介绍	介紹	jièshào	to introduce	V	
-L1-0180	今年	今年	jīnnián	this year	N	
-L1-0181	今天	今天	jīntiān	today	N	
-L1-0182	进	進	jìn	to enter	V	
-L1-0183	进来	進來	jìnlái	to come in		
-L1-0184	进去	進去	jìnqù	to go in		
-L1-0185	九	九	jiǔ	nine	Num	
-L1-0186	就	就	jiù	just; then; right away	Adv	
-L1-0187	觉得	覺得	juéde	to think; to feel	V	
-L1-0188	开	開	kāi	to open; to drive; to turn on	V	
-L1-0189	开车	開車	kāichē	to drive a car		
-L1-0190	开会	開會	kāihuì	to have a meeting		
-L1-0191	开玩笑	開玩笑	kāi wánxiào	to joke		
-L1-0192	看	看	kàn	to look; to watch; to read	V	
-L1-0193	看病	看病	kànbìng	to see a doctor		
-L1-0194	看到	看到	kàndào	to see; to catch sight of		
-L1-0195	看见	看見	kànjiàn	to see		
-L1-0196	考	考	kǎo	to take a test	V	
-L1-0197	考试	考試	kǎoshì	exam; to take an exam		
-L1-0198	渴	渴	kě	thirsty	Adj	
-L1-0199	课	課	kè	class; lesson	N	
-L1-0200	课本	課本	kèběn	textbook	N	
-L1-0201	课文	課文	kèwén	text (of a lesson)	N	
-L1-0202	口	口	kǒu	mouth; measure word for family members	M/N	
-L1-0203	块	塊	kuài	yuan (money); piece	N/M	
-L1-0204	快	快	kuài	fast; quickly	Adj/Adv	
-L1-0205	来	來	lái	to come	V	
-L1-0206	来到	來到	láidào	to arrive at	V	
-L1-0207	老	老	lǎo	old	Adj	
-L1-0208	老人	老人	lǎorén	old person	N	
-L1-0209	老师	老師	lǎoshī	teacher	N	
-L1-0210	了	了	le	(completed action particle)	Aux	
-L1-0211	累	累	lèi	tired	Adj	
-L1-0212	冷	冷	lěng	cold	Adj	
-L1-0213	里	裡	lǐ	inside; in	N	
-L1-0214	里边	裡邊	lǐbian	inside	N	
-L1-0215	两	兩	liǎng	two (of something)	Num	
-L1-0216	零	零	líng	zero	Num	〇
-L1-0217	六	六	liù	six	Num	
-L1-0218	楼	樓	lóu	building; floor	N	
-L1-0219	楼上	樓上	lóu shàng	upstairs		
-L1-0220	楼下	樓下	lóu xià	downstairs		
-L1-0221	路	路	lù	road	N/M	
-L1-0222	路口	路口	lùkǒu	intersection	N	
-L1-0223	路上	路上	lùshang	on the way	N	
-L1-0224	妈妈	媽媽	māma	mom; mother	N	妈
-L1-0225	马路	馬路	mǎlù	road; street	N	
-L1-0226	马上	馬上	mǎshàng	right away	Adv	
-L1-0227	吗	嗎	ma	(question particle)	Aux	
-L1-0228	买	買	mǎi	to buy	V	
-L1-0229	慢	慢	màn	slow	Adj	
-L1-0230	忙	忙	máng	busy	Adj	
-L1-0231	毛	毛	máo	10 cents (money)	M	
-L1-0232	没	沒	méi	not (have); didn't	Adv/V	
-L1-0233	没关系	沒關係	méi guānxi	it doesn't matter		
-L1-0234	没什么	沒什麼	méi shénme	it's nothing		
-L1-0235	没事儿	沒事兒	méishìr	it's okay; no problem		
-L1-0236	没有	沒有	méiyǒu	not have; there is not	V/Adv	
-L1-0237	妹妹	妹妹	mèimei	younger sister	N	妹
-L1-0238	门	門	mén	door; gate	N/M	
-L1-0239	门口	門口	ménkǒu	entrance; doorway	N	
-L1-0240	门票	門票	ménpiào	entrance ticket	N	
-L1-0241	们	們	men	(plural suffix for people)	Suffix	
-L1-0242	米饭	米飯	mǐfàn	cooked rice	N	
-L1-0243	面包	麵包	miànbāo	bread	N	
-L1-0244	面条儿	麵條兒	miàntiáor	noodles	N	
-L1-0245	名字	名字	míngzi	name	N	
-L1-0246	明白	明白	míngbai	to understand; clear	Adj/V	
-L1-0247	明年	明年	míngnián	next year	N	
-L1-0248	明天	明天	míngtiān	tomorrow	N	
-L1-0249	拿	拿	ná	to take; to hold	V	
-L1-0250	哪	哪	nǎ	which	Pron	
-L1-0251	哪里	哪裡	nǎlǐ	where	Pron	
-L1-0252	哪儿	哪兒	nǎr	where	Pron	
-L1-0253	哪些	哪些	nǎxiē	which ones	Pron	
-L1-0254	那	那	nà	that	Pron	
-L1-0255	那边	那邊	nàbiān	over there	Pron	
-L1-0256	那里	那裡	nàlǐ	there	Pron	
-L1-0257	那儿	那兒	nàr	there	Pron	
-L1-0258	那些	那些	nàxiē	those	Pron	
-L1-0259	奶	奶	nǎi	milk; grandma	N	
-L1-0260	奶奶	奶奶	nǎinai	grandma (father's side)	N	
-L1-0261	男	男	nán	male	Adj	
-L1-0262	男孩儿	男孩兒	nánháir	boy	N	
-L1-0263	男朋友	男朋友	nánpéngyou	boyfriend	N	
-L1-0264	男人	男人	nánrén	man	N	
-L1-0265	男生	男生	nánshēng	male student; boy	N	
-L1-0266	南	南	nán	south	N	
-L1-0267	南边	南邊	nánbian	south side	N	
-L1-0268	难	難	nán	difficult	Adj	
-L1-0269	呢	呢	ne	(question particle) ...and you?	Aux	
-L1-0270	能	能	néng	can; to be able to	V	
-L1-0271	你	你	nǐ	you	Pron	
-L1-0272	你们	你們	nǐmen	you (plural)	Pron	
-L1-0273	年	年	nián	year	M	
-L1-0274	您	您	nín	you (polite)	Pron	
-L1-0275	牛奶	牛奶	niúnǎi	cow's milk	N	
-L1-0276	女	女	nǚ	female	Adj	
-L1-0277	女儿	女兒	nǚ'ér	daughter	N	
-L1-0278	女孩儿	女孩兒	nǚháir	girl	N	
-L1-0279	女朋友	女朋友	nǚpéngyou	girlfriend	N	
-L1-0280	女人	女人	nǚrén	woman	N	
-L1-0281	女生	女生	nǚshēng	female student; girl	N	
-L1-0282	旁边	旁邊	pángbiān	beside; next to	N	
-L1-0283	跑	跑	pǎo	to run	V	
-L1-0284	朋友	朋友	péngyou	friend	N	
-L1-0285	票	票	piào	ticket	N	
-L1-0286	七	七	qī	seven	Num	
-L1-0287	起	起	qǐ	to get up; to rise	V	
-L1-0288	起床	起床	qǐchuáng	to get up (out of bed)		
-L1-0289	起来	起來	qǐlái	to get up; to stand up		
-L1-0290	汽车	汽車	qìchē	car; automobile	N	
-L1-0291	前	前	qián	front; before	N	
-L1-0292	前边	前邊	qiánbian	in front	N	
-L1-0293	前天	前天	qiántiān	the day before yesterday	N	
-L1-0294	钱	錢	qián	money	N	
-L1-0295	钱包	錢包	qiánbāo	wallet	N	
-L1-0296	请	請	qǐng	please; to invite; to treat	V	
-L1-0297	请假	請假	qǐngjià	to ask for leave		
-L1-0298	请进	請進	qǐng jìn	please come in		
-L1-0299	请问	請問	qǐngwèn	excuse me, may I ask...	V	
-L1-0300	请坐	請坐	qǐng zuò	please sit down		
-L1-0301	球	球	qiú	ball	N	
-L1-0302	去	去	qù	to go	V	
-L1-0303	去年	去年	qùnián	last year	N	
-L1-0304	热	熱	rè	hot	Adj/V	
-L1-0305	人	人	rén	person; people	N	
-L1-0306	认识	認識	rènshi	to know (someone); to recognize	V/N	
-L1-0307	认真	認真	rènzhēn	serious; conscientious	Adj	
-L1-0308	日	日	rì	day; sun	N	
-L1-0309	日期	日期	rìqī	date	N	
-L1-0310	肉	肉	ròu	meat	N	
-L1-0311	三	三	sān	three	Num	
-L1-0312	山	山	shān	mountain	N	
-L1-0313	商场	商場	shāngchǎng	shopping mall	N	
-L1-0314	商店	商店	shāngdiàn	store; shop	N	
-L1-0315	上	上	shàng	up; on; previous	N/V	
-L1-0316	上班	上班	shàngbān	to go to work		
-L1-0317	上边	上邊	shàngbian	above; on top	N	
-L1-0318	上车	上車	shàng chē	to get in (a vehicle)		
-L1-0319	上次	上次	shàng cì	last time		
-L1-0320	上课	上課	shàngkè	to attend class		
-L1-0321	上网	上網	shàngwǎng	to go online		
-L1-0322	上午	上午	shàngwǔ	morning (before noon)	N	
-L1-0323	上学	上學	shàngxué	to go to school		
-L1-0324	少	少	shǎo	few; little	Adj/V	
-L1-0325	谁	誰	shéi/shuí	who	Pron	
-L1-0326	身上	身上	shēnshang	on one's body	N	
-L1-0327	身体	身體	shēntǐ	body; health	N	
-L1-0328	什么	什麼	shénme	what	Pron	
-L1-0329	生病	生病	shēngbìng	to get sick		
-L1-0330	生气	生氣	shēngqì	angry		
-L1-0331	生日	生日	shēngrì	birthday	N	
-L1-0332	十	十	shí	ten	Num	
-L1-0333	时候	時候	shíhou	time; when...	N	
-L1-0334	时间	時間	shíjiān	time	N	
-L1-0335	事	事	shì	matter; thing	N	
-L1-0336	试	試	shì	to try	V	
-L1-0337	是	是	shì	to be; is; yes	V	
-L1-0338	是不是	是不是	shì bu shì	is it or not?		
-L1-0339	手	手	shǒu	hand	N	
-L1-0340	手机	手機	shǒujī	mobile phone	N	
-L1-0341	书	書	shū	book	N	
-L1-0342	书包	書包	shūbāo	schoolbag	N	
-L1-0343	书店	書店	shūdiàn	bookstore	N	
-L1-0344	树	樹	shù	tree	N	
-L1-0345	水	水	shuǐ	water	N	
-L1-0346	水果	水果	shuǐguǒ	fruit	N	
-L1-0347	睡	睡	shuì	to sleep	V	
-L1-0348	睡觉	睡覺	shuìjiào	to sleep; to go to bed		
-L1-0349	说	說	shuō	to speak; to say	V	
-L1-0350	说话	說話	shuōhuà	to talk; to speak		
-L1-0351	四	四	sì	four	Num	
-L1-0352	送	送	sòng	to give (as a gift); to see off	V	
-L1-0353	岁	歲	suì	year (of age)	M	
-L1-0354	他	他	tā	he; him	Pron	
-L1-0355	他们	他們	tāmen	they; them	Pron	
-L1-0356	她	她	tā	she; her	Pron	
-L1-0357	她们	她們	tāmen	they (female)	Pron	
-L1-0358	太	太	tài	too; extremely	Adv	
-L1-0359	天	天	tiān	day; sky	N/M	
-L1-0360	天气	天氣	tiānqì	weather	N	
-L1-0361	听	聽	tīng	to listen	V	
-L1-0362	听到	聽到	tīngdào	to hear		
-L1-0363	听见	聽見	tīngjiàn	to hear		
-L1-0364	听写	聽寫	tīngxiě	dictation	V	
-L1-0365	同学	同學	tóngxué	classmate	N	
-L1-0366	图书馆	圖書館	túshūguǎn	library	N	
-L1-0367	外	外	wài	outside	N	
-L1-0368	外边	外邊	wàibian	outside	N	
-L1-0369	外国	外國	wàiguó	foreign country	N	
-L1-0370	外语	外語	wàiyǔ	foreign language	N	
-L1-0371	玩儿	玩兒	wánr	to play	V	
-L1-0372	晚	晚	wǎn	late	Adj	
-L1-0373	晚饭	晚飯	wǎnfàn	dinner	N	
-L1-0374	晚上	晚上	wǎnshang	evening	N	
-L1-0375	网上	網上	wǎng shang	online		
-L1-0376	网友	網友	wǎngyǒu	online friend	N	
-L1-0377	忘	忘	wàng	to forget	V	
-L1-0378	忘记	忘記	wàngjì	to forget	V	
-L1-0379	问	問	wèn	to ask	V	
-L1-0380	我	我	wǒ	I; me	Pron	
-L1-0381	我们	我們	wǒmen	we; us	Pron	
-L1-0382	五	五	wǔ	five	Num	
-L1-0383	午饭	午飯	wǔfàn	lunch	N	
-L1-0384	西	西	xī	west	N	
-L1-0385	西边	西邊	xībian	west side	N	
-L1-0386	洗	洗	xǐ	to wash	V	
-L1-0387	洗手间	洗手間	xǐshǒujiān	restroom	N	
-L1-0388	喜欢	喜歡	xǐhuan	to like	V	
-L1-0389	下	下	xià	down; below; next	N/V	
-L1-0390	下班	下班	xiàbān	to get off work		
-L1-0391	下边	下邊	xiàbian	below; under	N	
-L1-0392	下车	下車	xià chē	to get off (a vehicle)		
-L1-0393	下次	下次	xià cì	next time		
-L1-0394	下课	下課	xiàkè	to finish class		
-L1-0395	下午	下午	xiàwǔ	afternoon	N	
-L1-0396	下雨	下雨	xià yǔ	to rain		
-L1-0397	先	先	xiān	first; earlier	Adv	
-L1-0398	先生	先生	xiānsheng	Mr.; sir	N	
-L1-0399	现在	現在	xiànzài	now	N	
-L1-0400	想	想	xiǎng	to want; to think; to miss	V	
-L1-0401	小	小	xiǎo	small; little	Adj	
-L1-0402	小孩儿	小孩兒	xiǎoháir	child	N	
-L1-0403	小姐	小姐	xiǎojiě	miss; young lady	N	
-L1-0404	小朋友	小朋友	xiǎopéngyǒu	child; little friend	N	
-L1-0405	小时	小時	xiǎoshí	hour	N	
-L1-0406	小学	小學	xiǎoxué	primary school	N	
-L1-0407	小学生	小學生	xiǎoxuéshēng	primary school student	N	
-L1-0408	笑	笑	xiào	to laugh; to smile	V	
-L1-0409	写	寫	xiě	to write	V	
-L1-0410	谢谢	謝謝	xièxie	thank you	V	
-L1-0411	新	新	xīn	new	Adj	
-L1-0412	新年	新年	xīnnián	new year	N	
-L1-0413	星期	星期	xīngqī	week	N	
-L1-0414	星期日	星期日	xīngqīrì	Sunday	N	
-L1-0415	星期天	星期天	xīngqītiān	Sunday	N	
-L1-0416	行	行	xíng	okay; all right	V/Adj	
-L1-0417	休息	休息	xiūxi	to rest	V	
-L1-0418	学	學	xué	to study; to learn	V	
-L1-0419	学生	學生	xuéshēng	student	N	
-L1-0420	学习	學習	xuéxí	to study; to learn	V	
-L1-0421	学校	學校	xuéxiào	school	N	
-L1-0422	学院	學院	xuéyuàn	college; institute	N	
-L1-0423	要	要	yào	to want; will; need to	V	
-L1-0424	爷爷	爺爺	yéye	grandpa (father's side)	N	
-L1-0425	也	也	yě	also; too	Adv	
-L1-0426	页	頁	yè	page	M	
-L1-0427	一	一	yī	one	Num	
-L1-0428	衣服	衣服	yīfu	clothes	N	
-L1-0429	医生	醫生	yīshēng	doctor	N	
-L1-0430	医院	醫院	yīyuàn	hospital	N	
-L1-0431	一半	一半	yībàn	half	Num	
-L1-0432	一会儿	一會兒	yīhuìr	a moment; a little while		
-L1-0433	一块儿	一塊兒	yīkuàir	together	N/Adv	
-L1-0434	一下儿	一下兒	yīxiàr	(for a short moment) once		
-L1-0435	一样	一樣	yīyàng	same; alike	Adj	
-L1-0436	一边	一邊	yībiān	one side; while...	N/Adv	
-L1-0437	一点儿	一點兒	yīdiǎnr	a little		
-L1-0438	一起	一起	yīqǐ	together	Adv/N	
-L1-0439	一些	一些	yīxiē	some		
-L1-0440	用	用	yòng	to use	V	
-L1-0441	有	有	yǒu	to have; there is	V	
-L1-0442	有的	有的	yǒude	some (of them)	Pron	
-L1-0443	有名	有名	yǒumíng	famous		
-L1-0444	有时候	有時候	yǒushíhou	sometimes	Adv	有时
-L1-0445	有些	有些	yǒuxiē	some	Pron	
-L1-0446	有用	有用	yǒuyòng	useful	V	
-L1-0447	右	右	yòu	right (side)	N	
-L1-0448	右边	右邊	yòubian	right side	N	
-L1-0449	雨	雨	yǔ	rain	N	
-L1-0450	元	元	yuán	yuan (Chinese money)	M	
-L1-0451	远	遠	yuǎn	far	Adj	
-L1-0452	月	月	yuè	month; moon	N	
-L1-0453	再	再	zài	again	Adv	
-L1-0454	再见	再見	zàijiàn	goodbye	V	
-L1-0455	在	在	zài	at; in; to be (located)	V/Prep/Adv	
-L1-0456	在家	在家	zàijiā	at home	V	
-L1-0457	早	早	zǎo	early	Adj	
-L1-0458	早饭	早飯	zǎofàn	breakfast	N	
-L1-0459	早上	早上	zǎoshang	morning	N	
-L1-0460	怎么	怎麼	zěnme	how; why	Pron	
-L1-0461	站	站	zhàn	station; to stand	N	
-L1-0462	找	找	zhǎo	to look for	V	
-L1-0463	找到	找到	zhǎodào	to find		
-L1-0464	这	這	zhè	this	Pron	
-L1-0465	这边	這邊	zhèbiān	over here	Pron	
-L1-0466	这里	這裡	zhèlǐ	here	Pron	
-L1-0467	这儿	這兒	zhèr	here	Pron	
-L1-0468	这些	這些	zhèxiē	these	Pron	
-L1-0469	着	著	zhe	(continuous action particle) -ing	Aux	
-L1-0470	真	真	zhēn	really; real	Adv/Adj	
-L1-0471	真的	真的	zhēn de	really; true		
-L1-0472	正	正	zhèng	in the middle of (doing)	Adv	
-L1-0473	正在	正在	zhèngzài	in the process of; currently	Adv	
-L1-0474	知道	知道	zhīdào	to know	V	
-L1-0475	知识	知識	zhīshi	knowledge	N	
-L1-0476	中	中	zhōng	middle; China	N	
-L1-0477	中国	中國	Zhōngguó	China	N	
-L1-0478	中间	中間	zhōngjiān	middle; between	N	
-L1-0479	中文	中文	Zhōngwén	Chinese (language)	N	
-L1-0480	中午	中午	zhōngwǔ	noon	N	
-L1-0481	中学	中學	zhōngxué	middle school	N	
-L1-0482	中学生	中學生	zhōngxuéshēng	middle school student	N	
-L1-0483	重	重	zhòng	heavy	Adj	
-L1-0484	重要	重要	zhòngyào	important	Adj	
-L1-0485	住	住	zhù	to live (somewhere)	V	
-L1-0486	准备	準備	zhǔnbèi	to prepare	V	
-L1-0487	桌子	桌子	zhuōzi	table; desk	N	
-L1-0488	字	字	zì	character; word	N	
-L1-0489	子	子	zi	(noun suffix)	Suffix	
-L1-0490	走	走	zǒu	to walk; to leave	V	
-L1-0491	走路	走路	zǒulù	to walk; to go on foot		
-L1-0492	最	最	zuì	most	Adv	
-L1-0493	最好	最好	zuìhǎo	best; had better	Adv	
-L1-0494	最后	最後	zuìhòu	finally; last	N	
-L1-0495	昨天	昨天	zuótiān	yesterday	N	
-L1-0496	左	左	zuǒ	left	N	
-L1-0497	左边	左邊	zuǒbian	left side	N	
-L1-0498	坐	坐	zuò	to sit; to take (transport)	V	
-L1-0499	坐下	坐下	zuò xia	to sit down		
-L1-0500	做	做	zuò	to do; to make	V	
+id	simplified	traditional	pinyin	meaning	pos	also	category
+L1-0001	爱	愛	ài	to love	V		Free time
+L1-0002	爱好	愛好	àihào	hobby; to like	V/N		Free time
+L1-0003	八	八	bā	eight	Num		Numbers, money & measure words
+L1-0004	爸爸	爸爸	bàba	dad; father	N	爸	Family
+L1-0005	吧	吧	ba	(suggestion particle) let's...; ...right?	Aux		Grammar words
+L1-0006	白	白	bái	white	Adj		Describing words
+L1-0007	白天	白天	báitiān	daytime	N		Time & dates
+L1-0008	百	百	bǎi	hundred	Num		Numbers, money & measure words
+L1-0009	班	班	bān	class (of students)	N/M		School & language
+L1-0010	半	半	bàn	half	Num		Numbers, money & measure words
+L1-0011	半年	半年	bàn nián	half a year			Time & dates
+L1-0012	半天	半天	bàntiān	half a day; a long time			Time & dates
+L1-0013	帮	幫	bāng	to help	V		Verbs: doing things
+L1-0014	帮忙	幫忙	bāngmáng	to help; to do a favor			Verbs: doing things
+L1-0015	包	包	bāo	bag; to wrap	N/M/V		Home & things
+L1-0016	包子	包子	bāozi	steamed stuffed bun	N		Food & drink
+L1-0017	杯	杯	bēi	cup (measure word)	M		Numbers, money & measure words
+L1-0018	杯子	杯子	bēizi	cup; glass	N		Home & things
+L1-0019	北	北	běi	north	N		Directions & position
+L1-0020	北边	北邊	běibian	north side	N		Directions & position
+L1-0021	北京	北京	Běijīng	Beijing	N		Places & countries
+L1-0022	本	本	běn	measure word for books	M		Numbers, money & measure words
+L1-0023	本子	本子	běnzi	notebook	N		Home & things
+L1-0024	比	比	bǐ	than (in comparisons); to compare	Prep/V		Grammar words
+L1-0025	别	別	bié	don't (do something)	Adv		Grammar words
+L1-0026	别的	別的	biéde	other; else	Pron		Grammar words
+L1-0027	别人	別人	biérén	other people	Pron		People
+L1-0028	病	病	bìng	illness; to be ill	N/V		Body & health
+L1-0029	病人	病人	bìngrén	patient; sick person	N		Body & health
+L1-0030	不大	不大	bù dà	not very			How often, how much
+L1-0031	不对	不對	bùduì	wrong; incorrect	Adj		Greetings & small words
+L1-0032	不客气	不客氣	bù kèqì	you're welcome			Greetings & small words
+L1-0033	不用	不用	bùyòng	no need to	Adv		How often, how much
+L1-0034	不	不	bù	not; no	Adv		Greetings & small words
+L1-0035	菜	菜	cài	dish; vegetable	N		Food & drink
+L1-0036	茶	茶	chá	tea	N		Food & drink
+L1-0037	差	差	chà	lacking; poor (quality)	V/Adj		Describing words
+L1-0038	常	常	cháng	often	Adv		How often, how much
+L1-0039	常常	常常	chángcháng	often	Adv		How often, how much
+L1-0040	唱	唱	chàng	to sing	V		Free time
+L1-0041	唱歌	唱歌	chànggē	to sing (a song)			Free time
+L1-0042	车	車	chē	car; vehicle	N		Getting around
+L1-0043	车票	車票	chēpiào	bus/train ticket	N		Getting around
+L1-0044	车上	車上	chē shang	in the car			Getting around
+L1-0045	车站	車站	chēzhàn	station; bus stop	N		Places & countries
+L1-0046	吃	吃	chī	to eat	V		Food & drink
+L1-0047	吃饭	吃飯	chīfàn	to eat a meal			Food & drink
+L1-0048	出	出	chū	to go out; to come out	V		Verbs: coming & going
+L1-0049	出来	出來	chūlái	to come out			Verbs: coming & going
+L1-0050	出去	出去	chūqù	to go out			Verbs: coming & going
+L1-0051	穿	穿	chuān	to wear; to put on	V		Verbs: daily life
+L1-0052	床	床	chuáng	bed	N		Home & things
+L1-0053	次	次	cì	time(s) (measure word)	M		Numbers, money & measure words
+L1-0054	从	從	cóng	from	Prep		Grammar words
+L1-0055	错	錯	cuò	wrong; mistake	Adj/N		Describing words
+L1-0056	打	打	dǎ	to hit; to play (a ball game)	V		Free time
+L1-0057	打车	打車	dǎchē	to take a taxi			Getting around
+L1-0058	打电话	打電話	dǎ diànhuà	to make a phone call			Free time
+L1-0059	打开	打開	dǎkāi	to open			Verbs: doing things
+L1-0060	打球	打球	dǎ qiú	to play ball			Free time
+L1-0061	大	大	dà	big; large	Adj		Describing words
+L1-0062	大学	大學	dàxué	university	N		School & language
+L1-0063	大学生	大學生	dàxuéshēng	university student	N		School & language
+L1-0064	到	到	dào	to arrive; to; until	V		Grammar words
+L1-0065	得到	得到	dédào	to get; to obtain			Verbs: coming & going
+L1-0066	地	地	de	(adverb particle) -ly	Aux		Grammar words
+L1-0067	的	的	de	(possessive particle) 's	Aux		Grammar words
+L1-0068	等	等	děng	to wait	V		Verbs: doing things
+L1-0069	地	地	dì	ground; earth	N		Places & countries
+L1-0070	地点	地點	dìdiǎn	place; location	N		Places & countries
+L1-0071	地方	地方	dìfang	place	N		Places & countries
+L1-0072	地上	地上	dìshang	on the ground			Places & countries
+L1-0073	地图	地圖	dìtú	map	N		Places & countries
+L1-0074	弟弟	弟弟	dìdi	younger brother	N	弟	Family
+L1-0075	第	第	dì	(ordinal prefix) No.; -th	Prefix		Grammar words
+L1-0076	点	點	diǎn	o'clock; dot; a little	M/V/N		Time & dates
+L1-0077	电	電	diàn	electricity	N		Home & things
+L1-0078	电话	電話	diànhuà	telephone	N		Home & things
+L1-0079	电脑	電腦	diànnǎo	computer	N		Home & things
+L1-0080	电视	電視	diànshì	television; TV	N		Home & things
+L1-0081	电视机	電視機	diànshìjī	TV set	N		Home & things
+L1-0082	电影	電影	diànyǐng	movie; film	N		Free time
+L1-0083	电影院	電影院	diànyǐngyuàn	cinema	N		Places & countries
+L1-0084	东	東	dōng	east	N		Directions & position
+L1-0085	东边	東邊	dōngbian	east side	N		Directions & position
+L1-0086	东西	東西	dōngxi	thing; stuff	N		Home & things
+L1-0087	动	動	dòng	to move	V		Verbs: doing things
+L1-0088	动作	動作	dòngzuò	movement; action	N		Verbs: doing things
+L1-0089	都	都	dōu	all; both	Adv		How often, how much
+L1-0090	读	讀	dú	to read	V		School & language
+L1-0091	读书	讀書	dúshū	to read; to study			School & language
+L1-0092	对	對	duì	correct; right; toward	Adj		Greetings & small words
+L1-0093	对不起	對不起	duìbuqǐ	sorry	V		Greetings & small words
+L1-0094	多	多	duō	many; much	Adj/Pron		Describing words
+L1-0095	多少	多少	duōshao	how many; how much	Pron		Question words
+L1-0096	饿	餓	è	hungry	Adj/V		Food & drink
+L1-0097	儿子	兒子	érzi	son	N		Family
+L1-0098	二	二	èr	two	Num		Numbers, money & measure words
+L1-0099	饭	飯	fàn	meal; cooked rice	N		Food & drink
+L1-0100	饭店	飯店	fàndiàn	hotel; restaurant	N		Places & countries
+L1-0101	房间	房間	fángjiān	room	N		Home & things
+L1-0102	房子	房子	fángzi	house	N		Home & things
+L1-0103	放	放	fàng	to put; to place	V		Verbs: doing things
+L1-0104	放假	放假	fàngjià	to have a holiday			Free time
+L1-0105	放学	放學	fàngxué	to finish school (for the day)			School & language
+L1-0106	飞	飛	fēi	to fly	V		Getting around
+L1-0107	飞机	飛機	fēijī	airplane	N		Getting around
+L1-0108	非常	非常	fēicháng	very; extremely	Adv		How often, how much
+L1-0109	分	分	fēn	minute; cent	N/M		Numbers, money & measure words
+L1-0110	风	風	fēng	wind	N		Weather & nature
+L1-0111	干	乾	gān	dry	Adj		Describing words
+L1-0112	干净	乾淨	gānjìng	clean	Adj		Describing words
+L1-0113	干	幹	gàn	to do	V		Verbs: daily life
+L1-0114	干什么	幹什麼	gàn shénme	what are you doing?			Question words
+L1-0115	高	高	gāo	tall; high	Adj		Describing words
+L1-0116	高兴	高興	gāoxìng	happy; glad	Adj		Describing words
+L1-0117	告诉	告訴	gàosu	to tell	V		Verbs: talking & thinking
+L1-0118	哥哥	哥哥	gēge	older brother	N	哥	Family
+L1-0119	歌	歌	gē	song	N		Free time
+L1-0120	个	個	gè	(general measure word)	M		Grammar words
+L1-0121	给	給	gěi	to give; for	V/Prep		Grammar words
+L1-0122	跟	跟	gēn	with; and; to follow	Prep/Conj/V		Grammar words
+L1-0123	工人	工人	gōngrén	worker	N		People
+L1-0124	工作	工作	gōngzuò	to work; job	V/N		Verbs: daily life
+L1-0125	关	關	guān	to close; to turn off	V		Verbs: doing things
+L1-0126	关上	關上	guānshang	to close; to shut			Verbs: doing things
+L1-0127	贵	貴	guì	expensive	Adj		Describing words
+L1-0128	国	國	guó	country	N		Places & countries
+L1-0129	国家	國家	guójiā	country; nation	N		Places & countries
+L1-0130	国外	國外	guó wài	abroad			Places & countries
+L1-0131	过	過	guò	to pass; to cross; to spend (time)	V		Getting around
+L1-0132	还	還	hái	still; also	Adv		How often, how much
+L1-0133	还是	還是	háishi	or (in questions); still	Adv/Conj		How often, how much
+L1-0134	还有	還有	hái yǒu	also; in addition			How often, how much
+L1-0135	孩子	孩子	háizi	child	N		People
+L1-0136	汉语	漢語	Hànyǔ	Chinese language	N		School & language
+L1-0137	汉字	漢字	Hànzì	Chinese character	N		School & language
+L1-0138	好	好	hǎo	good	Adj		Describing words
+L1-0139	好吃	好吃	hǎochī	tasty; delicious	Adj		Food & drink
+L1-0140	好看	好看	hǎokàn	good-looking	Adj		Describing words
+L1-0141	好听	好聽	hǎotīng	nice-sounding	Adj		Describing words
+L1-0142	好玩儿	好玩兒	hǎowánr	fun	Adj		Free time
+L1-0143	号	號	hào	number; day of the month	N/M		Time & dates
+L1-0144	喝	喝	hē	to drink	V		Food & drink
+L1-0145	和	和	hé	and; with	Prep/Conj		Grammar words
+L1-0146	很	很	hěn	very	Adv		How often, how much
+L1-0147	后	後	hòu	after; behind	N		Directions & position
+L1-0148	后边	後邊	hòubian	behind; back	N		Directions & position
+L1-0149	后天	後天	hòutiān	the day after tomorrow	N		Time & dates
+L1-0150	花	花	huā	flower	N		Weather & nature
+L1-0151	话	話	huà	words; speech	N		School & language
+L1-0152	坏	壞	huài	bad; broken	Adj		Describing words
+L1-0153	还	還	huán	to give back; to return	V		Verbs: doing things
+L1-0154	回	回	huí	to return; to go back	V		Verbs: coming & going
+L1-0155	回答	回答	huídá	to answer; answer	V/N		Verbs: talking & thinking
+L1-0156	回到	回到	huídào	to return to	V		Verbs: coming & going
+L1-0157	回家	回家	huí jiā	to go home			Verbs: coming & going
+L1-0158	回来	回來	huílái	to come back			Verbs: coming & going
+L1-0159	回去	回去	huíqù	to go back			Verbs: coming & going
+L1-0160	会	會	huì	can; to be able to; will	V		Verbs: daily life
+L1-0161	火车	火車	huǒchē	train	N		Getting around
+L1-0162	机场	機場	jīchǎng	airport	N		Places & countries
+L1-0163	机票	機票	jīpiào	plane ticket	N		Getting around
+L1-0164	鸡蛋	雞蛋	jīdàn	egg	N		Food & drink
+L1-0165	几	幾	jǐ	how many; a few	Num/Pron		Question words
+L1-0166	记	記	jì	to remember; to write down	V		Verbs: talking & thinking
+L1-0167	记得	記得	jìde	to remember	V		Verbs: talking & thinking
+L1-0168	记住	記住	jìzhù	to remember firmly			Verbs: talking & thinking
+L1-0169	家	家	jiā	home; family	N/M		Family
+L1-0170	家里	家裡	jiā li	at home			Family
+L1-0171	家人	家人	jiārén	family members	N		Family
+L1-0172	间	間	jiān	measure word for rooms	M		Numbers, money & measure words
+L1-0173	见	見	jiàn	to see; to meet	V		Verbs: talking & thinking
+L1-0174	见面	見面	jiànmiàn	to meet (each other)			Verbs: talking & thinking
+L1-0175	教	教	jiāo	to teach	V		Verbs: talking & thinking
+L1-0176	叫	叫	jiào	to be called; to call	V		Verbs: talking & thinking
+L1-0177	教学楼	教學樓	jiàoxuélóu	classroom building	N		School & language
+L1-0178	姐姐	姐姐	jiějie	older sister	N	姐	Family
+L1-0179	介绍	介紹	jièshào	to introduce	V		Verbs: talking & thinking
+L1-0180	今年	今年	jīnnián	this year	N		Time & dates
+L1-0181	今天	今天	jīntiān	today	N		Time & dates
+L1-0182	进	進	jìn	to enter	V		Verbs: coming & going
+L1-0183	进来	進來	jìnlái	to come in			Verbs: coming & going
+L1-0184	进去	進去	jìnqù	to go in			Verbs: coming & going
+L1-0185	九	九	jiǔ	nine	Num		Numbers, money & measure words
+L1-0186	就	就	jiù	just; then; right away	Adv		How often, how much
+L1-0187	觉得	覺得	juéde	to think; to feel	V		Verbs: talking & thinking
+L1-0188	开	開	kāi	to open; to drive; to turn on	V		Verbs: doing things
+L1-0189	开车	開車	kāichē	to drive a car			Getting around
+L1-0190	开会	開會	kāihuì	to have a meeting			Free time
+L1-0191	开玩笑	開玩笑	kāi wánxiào	to joke			Free time
+L1-0192	看	看	kàn	to look; to watch; to read	V		Verbs: talking & thinking
+L1-0193	看病	看病	kànbìng	to see a doctor			Body & health
+L1-0194	看到	看到	kàndào	to see; to catch sight of			Verbs: talking & thinking
+L1-0195	看见	看見	kànjiàn	to see			Verbs: talking & thinking
+L1-0196	考	考	kǎo	to take a test	V		School & language
+L1-0197	考试	考試	kǎoshì	exam; to take an exam			School & language
+L1-0198	渴	渴	kě	thirsty	Adj		Food & drink
+L1-0199	课	課	kè	class; lesson	N		School & language
+L1-0200	课本	課本	kèběn	textbook	N		School & language
+L1-0201	课文	課文	kèwén	text (of a lesson)	N		School & language
+L1-0202	口	口	kǒu	mouth; measure word for family members	M/N		Numbers, money & measure words
+L1-0203	块	塊	kuài	yuan (money); piece	N/M		Numbers, money & measure words
+L1-0204	快	快	kuài	fast; quickly	Adj/Adv		Describing words
+L1-0205	来	來	lái	to come	V		Verbs: coming & going
+L1-0206	来到	來到	láidào	to arrive at	V		Verbs: coming & going
+L1-0207	老	老	lǎo	old	Adj		Describing words
+L1-0208	老人	老人	lǎorén	old person	N		People
+L1-0209	老师	老師	lǎoshī	teacher	N		People
+L1-0210	了	了	le	(completed action particle)	Aux		Grammar words
+L1-0211	累	累	lèi	tired	Adj		Describing words
+L1-0212	冷	冷	lěng	cold	Adj		Weather & nature
+L1-0213	里	裡	lǐ	inside; in	N		Directions & position
+L1-0214	里边	裡邊	lǐbian	inside	N		Directions & position
+L1-0215	两	兩	liǎng	two (of something)	Num		Numbers, money & measure words
+L1-0216	零	零	líng	zero	Num	〇	Numbers, money & measure words
+L1-0217	六	六	liù	six	Num		Numbers, money & measure words
+L1-0218	楼	樓	lóu	building; floor	N		Places & countries
+L1-0219	楼上	樓上	lóu shàng	upstairs			Places & countries
+L1-0220	楼下	樓下	lóu xià	downstairs			Places & countries
+L1-0221	路	路	lù	road	N/M		Getting around
+L1-0222	路口	路口	lùkǒu	intersection	N		Getting around
+L1-0223	路上	路上	lùshang	on the way	N		Getting around
+L1-0224	妈妈	媽媽	māma	mom; mother	N	妈	Family
+L1-0225	马路	馬路	mǎlù	road; street	N		Getting around
+L1-0226	马上	馬上	mǎshàng	right away	Adv		How often, how much
+L1-0227	吗	嗎	ma	(question particle)	Aux		Grammar words
+L1-0228	买	買	mǎi	to buy	V		Verbs: daily life
+L1-0229	慢	慢	màn	slow	Adj		Describing words
+L1-0230	忙	忙	máng	busy	Adj		Describing words
+L1-0231	毛	毛	máo	10 cents (money)	M		Numbers, money & measure words
+L1-0232	没	沒	méi	not (have); didn't	Adv/V		Greetings & small words
+L1-0233	没关系	沒關係	méi guānxi	it doesn't matter			Greetings & small words
+L1-0234	没什么	沒什麼	méi shénme	it's nothing			Greetings & small words
+L1-0235	没事儿	沒事兒	méishìr	it's okay; no problem			Greetings & small words
+L1-0236	没有	沒有	méiyǒu	not have; there is not	V/Adv		Greetings & small words
+L1-0237	妹妹	妹妹	mèimei	younger sister	N	妹	Family
+L1-0238	门	門	mén	door; gate	N/M		Home & things
+L1-0239	门口	門口	ménkǒu	entrance; doorway	N		Home & things
+L1-0240	门票	門票	ménpiào	entrance ticket	N		Getting around
+L1-0241	们	們	men	(plural suffix for people)	Suffix		Grammar words
+L1-0242	米饭	米飯	mǐfàn	cooked rice	N		Food & drink
+L1-0243	面包	麵包	miànbāo	bread	N		Food & drink
+L1-0244	面条儿	麵條兒	miàntiáor	noodles	N		Food & drink
+L1-0245	名字	名字	míngzi	name	N		People
+L1-0246	明白	明白	míngbai	to understand; clear	Adj/V		Verbs: talking & thinking
+L1-0247	明年	明年	míngnián	next year	N		Time & dates
+L1-0248	明天	明天	míngtiān	tomorrow	N		Time & dates
+L1-0249	拿	拿	ná	to take; to hold	V		Verbs: doing things
+L1-0250	哪	哪	nǎ	which	Pron		Question words
+L1-0251	哪里	哪裡	nǎlǐ	where	Pron		Question words
+L1-0252	哪儿	哪兒	nǎr	where	Pron		Question words
+L1-0253	哪些	哪些	nǎxiē	which ones	Pron		Question words
+L1-0254	那	那	nà	that	Pron		This, that & where
+L1-0255	那边	那邊	nàbiān	over there	Pron		This, that & where
+L1-0256	那里	那裡	nàlǐ	there	Pron		This, that & where
+L1-0257	那儿	那兒	nàr	there	Pron		This, that & where
+L1-0258	那些	那些	nàxiē	those	Pron		This, that & where
+L1-0259	奶	奶	nǎi	milk; grandma	N		Family
+L1-0260	奶奶	奶奶	nǎinai	grandma (father's side)	N		Family
+L1-0261	男	男	nán	male	Adj		People
+L1-0262	男孩儿	男孩兒	nánháir	boy	N		People
+L1-0263	男朋友	男朋友	nánpéngyou	boyfriend	N		People
+L1-0264	男人	男人	nánrén	man	N		People
+L1-0265	男生	男生	nánshēng	male student; boy	N		People
+L1-0266	南	南	nán	south	N		Directions & position
+L1-0267	南边	南邊	nánbian	south side	N		Directions & position
+L1-0268	难	難	nán	difficult	Adj		Describing words
+L1-0269	呢	呢	ne	(question particle) ...and you?	Aux		Grammar words
+L1-0270	能	能	néng	can; to be able to	V		Verbs: daily life
+L1-0271	你	你	nǐ	you	Pron		People
+L1-0272	你们	你們	nǐmen	you (plural)	Pron		People
+L1-0273	年	年	nián	year	M		Time & dates
+L1-0274	您	您	nín	you (polite)	Pron		People
+L1-0275	牛奶	牛奶	niúnǎi	cow's milk	N		Food & drink
+L1-0276	女	女	nǚ	female	Adj		People
+L1-0277	女儿	女兒	nǚ'ér	daughter	N		Family
+L1-0278	女孩儿	女孩兒	nǚháir	girl	N		People
+L1-0279	女朋友	女朋友	nǚpéngyou	girlfriend	N		People
+L1-0280	女人	女人	nǚrén	woman	N		People
+L1-0281	女生	女生	nǚshēng	female student; girl	N		People
+L1-0282	旁边	旁邊	pángbiān	beside; next to	N		Directions & position
+L1-0283	跑	跑	pǎo	to run	V		Verbs: coming & going
+L1-0284	朋友	朋友	péngyou	friend	N		People
+L1-0285	票	票	piào	ticket	N		Getting around
+L1-0286	七	七	qī	seven	Num		Numbers, money & measure words
+L1-0287	起	起	qǐ	to get up; to rise	V		Verbs: daily life
+L1-0288	起床	起床	qǐchuáng	to get up (out of bed)			Verbs: daily life
+L1-0289	起来	起來	qǐlái	to get up; to stand up			Verbs: daily life
+L1-0290	汽车	汽車	qìchē	car; automobile	N		Getting around
+L1-0291	前	前	qián	front; before	N		Directions & position
+L1-0292	前边	前邊	qiánbian	in front	N		Directions & position
+L1-0293	前天	前天	qiántiān	the day before yesterday	N		Time & dates
+L1-0294	钱	錢	qián	money	N		Home & things
+L1-0295	钱包	錢包	qiánbāo	wallet	N		Home & things
+L1-0296	请	請	qǐng	please; to invite; to treat	V		Greetings & small words
+L1-0297	请假	請假	qǐngjià	to ask for leave			Free time
+L1-0298	请进	請進	qǐng jìn	please come in			Greetings & small words
+L1-0299	请问	請問	qǐngwèn	excuse me, may I ask...	V		Greetings & small words
+L1-0300	请坐	請坐	qǐng zuò	please sit down			Greetings & small words
+L1-0301	球	球	qiú	ball	N		Free time
+L1-0302	去	去	qù	to go	V		Verbs: coming & going
+L1-0303	去年	去年	qùnián	last year	N		Time & dates
+L1-0304	热	熱	rè	hot	Adj/V		Weather & nature
+L1-0305	人	人	rén	person; people	N		People
+L1-0306	认识	認識	rènshi	to know (someone); to recognize	V/N		Verbs: talking & thinking
+L1-0307	认真	認真	rènzhēn	serious; conscientious	Adj		Describing words
+L1-0308	日	日	rì	day; sun	N		Time & dates
+L1-0309	日期	日期	rìqī	date	N		Time & dates
+L1-0310	肉	肉	ròu	meat	N		Food & drink
+L1-0311	三	三	sān	three	Num		Numbers, money & measure words
+L1-0312	山	山	shān	mountain	N		Weather & nature
+L1-0313	商场	商場	shāngchǎng	shopping mall	N		Places & countries
+L1-0314	商店	商店	shāngdiàn	store; shop	N		Places & countries
+L1-0315	上	上	shàng	up; on; previous	N/V		Directions & position
+L1-0316	上班	上班	shàngbān	to go to work			Free time
+L1-0317	上边	上邊	shàngbian	above; on top	N		Directions & position
+L1-0318	上车	上車	shàng chē	to get in (a vehicle)			Getting around
+L1-0319	上次	上次	shàng cì	last time			Time & dates
+L1-0320	上课	上課	shàngkè	to attend class			School & language
+L1-0321	上网	上網	shàngwǎng	to go online			Free time
+L1-0322	上午	上午	shàngwǔ	morning (before noon)	N		Time & dates
+L1-0323	上学	上學	shàngxué	to go to school			School & language
+L1-0324	少	少	shǎo	few; little	Adj/V		Describing words
+L1-0325	谁	誰	shéi/shuí	who	Pron		Question words
+L1-0326	身上	身上	shēnshang	on one's body	N		Body & health
+L1-0327	身体	身體	shēntǐ	body; health	N		Body & health
+L1-0328	什么	什麼	shénme	what	Pron		Question words
+L1-0329	生病	生病	shēngbìng	to get sick			Body & health
+L1-0330	生气	生氣	shēngqì	angry			Verbs: talking & thinking
+L1-0331	生日	生日	shēngrì	birthday	N		Free time
+L1-0332	十	十	shí	ten	Num		Numbers, money & measure words
+L1-0333	时候	時候	shíhou	time; when...	N		Time & dates
+L1-0334	时间	時間	shíjiān	time	N		Time & dates
+L1-0335	事	事	shì	matter; thing	N		Home & things
+L1-0336	试	試	shì	to try	V		Verbs: doing things
+L1-0337	是	是	shì	to be; is; yes	V		Greetings & small words
+L1-0338	是不是	是不是	shì bu shì	is it or not?			Greetings & small words
+L1-0339	手	手	shǒu	hand	N		Body & health
+L1-0340	手机	手機	shǒujī	mobile phone	N		Home & things
+L1-0341	书	書	shū	book	N		School & language
+L1-0342	书包	書包	shūbāo	schoolbag	N		Home & things
+L1-0343	书店	書店	shūdiàn	bookstore	N		Places & countries
+L1-0344	树	樹	shù	tree	N		Weather & nature
+L1-0345	水	水	shuǐ	water	N		Food & drink
+L1-0346	水果	水果	shuǐguǒ	fruit	N		Food & drink
+L1-0347	睡	睡	shuì	to sleep	V		Verbs: daily life
+L1-0348	睡觉	睡覺	shuìjiào	to sleep; to go to bed			Verbs: daily life
+L1-0349	说	說	shuō	to speak; to say	V		Verbs: talking & thinking
+L1-0350	说话	說話	shuōhuà	to talk; to speak			Verbs: talking & thinking
+L1-0351	四	四	sì	four	Num		Numbers, money & measure words
+L1-0352	送	送	sòng	to give (as a gift); to see off	V		Verbs: doing things
+L1-0353	岁	歲	suì	year (of age)	M		Numbers, money & measure words
+L1-0354	他	他	tā	he; him	Pron		People
+L1-0355	他们	他們	tāmen	they; them	Pron		People
+L1-0356	她	她	tā	she; her	Pron		People
+L1-0357	她们	她們	tāmen	they (female)	Pron		People
+L1-0358	太	太	tài	too; extremely	Adv		How often, how much
+L1-0359	天	天	tiān	day; sky	N/M		Time & dates
+L1-0360	天气	天氣	tiānqì	weather	N		Weather & nature
+L1-0361	听	聽	tīng	to listen	V		Verbs: talking & thinking
+L1-0362	听到	聽到	tīngdào	to hear			Verbs: talking & thinking
+L1-0363	听见	聽見	tīngjiàn	to hear			Verbs: talking & thinking
+L1-0364	听写	聽寫	tīngxiě	dictation	V		School & language
+L1-0365	同学	同學	tóngxué	classmate	N		People
+L1-0366	图书馆	圖書館	túshūguǎn	library	N		School & language
+L1-0367	外	外	wài	outside	N		Directions & position
+L1-0368	外边	外邊	wàibian	outside	N		Directions & position
+L1-0369	外国	外國	wàiguó	foreign country	N		Places & countries
+L1-0370	外语	外語	wàiyǔ	foreign language	N		School & language
+L1-0371	玩儿	玩兒	wánr	to play	V		Free time
+L1-0372	晚	晚	wǎn	late	Adj		Time & dates
+L1-0373	晚饭	晚飯	wǎnfàn	dinner	N		Food & drink
+L1-0374	晚上	晚上	wǎnshang	evening	N		Time & dates
+L1-0375	网上	網上	wǎng shang	online			Places & countries
+L1-0376	网友	網友	wǎngyǒu	online friend	N		People
+L1-0377	忘	忘	wàng	to forget	V		Verbs: talking & thinking
+L1-0378	忘记	忘記	wàngjì	to forget	V		Verbs: talking & thinking
+L1-0379	问	問	wèn	to ask	V		Verbs: talking & thinking
+L1-0380	我	我	wǒ	I; me	Pron		People
+L1-0381	我们	我們	wǒmen	we; us	Pron		People
+L1-0382	五	五	wǔ	five	Num		Numbers, money & measure words
+L1-0383	午饭	午飯	wǔfàn	lunch	N		Food & drink
+L1-0384	西	西	xī	west	N		Directions & position
+L1-0385	西边	西邊	xībian	west side	N		Directions & position
+L1-0386	洗	洗	xǐ	to wash	V		Verbs: daily life
+L1-0387	洗手间	洗手間	xǐshǒujiān	restroom	N		Home & things
+L1-0388	喜欢	喜歡	xǐhuan	to like	V		Verbs: talking & thinking
+L1-0389	下	下	xià	down; below; next	N/V		Directions & position
+L1-0390	下班	下班	xiàbān	to get off work			Free time
+L1-0391	下边	下邊	xiàbian	below; under	N		Directions & position
+L1-0392	下车	下車	xià chē	to get off (a vehicle)			Getting around
+L1-0393	下次	下次	xià cì	next time			Time & dates
+L1-0394	下课	下課	xiàkè	to finish class			School & language
+L1-0395	下午	下午	xiàwǔ	afternoon	N		Time & dates
+L1-0396	下雨	下雨	xià yǔ	to rain			Weather & nature
+L1-0397	先	先	xiān	first; earlier	Adv		Time & dates
+L1-0398	先生	先生	xiānsheng	Mr.; sir	N		People
+L1-0399	现在	現在	xiànzài	now	N		Time & dates
+L1-0400	想	想	xiǎng	to want; to think; to miss	V		Verbs: talking & thinking
+L1-0401	小	小	xiǎo	small; little	Adj		Describing words
+L1-0402	小孩儿	小孩兒	xiǎoháir	child	N		People
+L1-0403	小姐	小姐	xiǎojiě	miss; young lady	N		People
+L1-0404	小朋友	小朋友	xiǎopéngyǒu	child; little friend	N		People
+L1-0405	小时	小時	xiǎoshí	hour	N		Time & dates
+L1-0406	小学	小學	xiǎoxué	primary school	N		School & language
+L1-0407	小学生	小學生	xiǎoxuéshēng	primary school student	N		School & language
+L1-0408	笑	笑	xiào	to laugh; to smile	V		Verbs: talking & thinking
+L1-0409	写	寫	xiě	to write	V		Verbs: talking & thinking
+L1-0410	谢谢	謝謝	xièxie	thank you	V		Greetings & small words
+L1-0411	新	新	xīn	new	Adj		Describing words
+L1-0412	新年	新年	xīnnián	new year	N		Time & dates
+L1-0413	星期	星期	xīngqī	week	N		Time & dates
+L1-0414	星期日	星期日	xīngqīrì	Sunday	N		Time & dates
+L1-0415	星期天	星期天	xīngqītiān	Sunday	N		Time & dates
+L1-0416	行	行	xíng	okay; all right	V/Adj		Greetings & small words
+L1-0417	休息	休息	xiūxi	to rest	V		Verbs: daily life
+L1-0418	学	學	xué	to study; to learn	V		School & language
+L1-0419	学生	學生	xuéshēng	student	N		People
+L1-0420	学习	學習	xuéxí	to study; to learn	V		School & language
+L1-0421	学校	學校	xuéxiào	school	N		School & language
+L1-0422	学院	學院	xuéyuàn	college; institute	N		School & language
+L1-0423	要	要	yào	to want; will; need to	V		Verbs: daily life
+L1-0424	爷爷	爺爺	yéye	grandpa (father's side)	N		Family
+L1-0425	也	也	yě	also; too	Adv		How often, how much
+L1-0426	页	頁	yè	page	M		Numbers, money & measure words
+L1-0427	一	一	yī	one	Num		Numbers, money & measure words
+L1-0428	衣服	衣服	yīfu	clothes	N		Home & things
+L1-0429	医生	醫生	yīshēng	doctor	N		People
+L1-0430	医院	醫院	yīyuàn	hospital	N		Places & countries
+L1-0431	一半	一半	yībàn	half	Num		Numbers, money & measure words
+L1-0432	一会儿	一會兒	yīhuìr	a moment; a little while			How often, how much
+L1-0433	一块儿	一塊兒	yīkuàir	together	N/Adv		How often, how much
+L1-0434	一下儿	一下兒	yīxiàr	(for a short moment) once			How often, how much
+L1-0435	一样	一樣	yīyàng	same; alike	Adj		How often, how much
+L1-0436	一边	一邊	yībiān	one side; while...	N/Adv		How often, how much
+L1-0437	一点儿	一點兒	yīdiǎnr	a little			How often, how much
+L1-0438	一起	一起	yīqǐ	together	Adv/N		How often, how much
+L1-0439	一些	一些	yīxiē	some			How often, how much
+L1-0440	用	用	yòng	to use	V		Verbs: daily life
+L1-0441	有	有	yǒu	to have; there is	V		Verbs: daily life
+L1-0442	有的	有的	yǒude	some (of them)	Pron		How often, how much
+L1-0443	有名	有名	yǒumíng	famous			Describing words
+L1-0444	有时候	有時候	yǒushíhou	sometimes	Adv	有时	How often, how much
+L1-0445	有些	有些	yǒuxiē	some	Pron		How often, how much
+L1-0446	有用	有用	yǒuyòng	useful	V		Verbs: daily life
+L1-0447	右	右	yòu	right (side)	N		Directions & position
+L1-0448	右边	右邊	yòubian	right side	N		Directions & position
+L1-0449	雨	雨	yǔ	rain	N		Weather & nature
+L1-0450	元	元	yuán	yuan (Chinese money)	M		Numbers, money & measure words
+L1-0451	远	遠	yuǎn	far	Adj		Describing words
+L1-0452	月	月	yuè	month; moon	N		Time & dates
+L1-0453	再	再	zài	again	Adv		How often, how much
+L1-0454	再见	再見	zàijiàn	goodbye	V		Greetings & small words
+L1-0455	在	在	zài	at; in; to be (located)	V/Prep/Adv		Grammar words
+L1-0456	在家	在家	zàijiā	at home	V		Family
+L1-0457	早	早	zǎo	early	Adj		Time & dates
+L1-0458	早饭	早飯	zǎofàn	breakfast	N		Food & drink
+L1-0459	早上	早上	zǎoshang	morning	N		Time & dates
+L1-0460	怎么	怎麼	zěnme	how; why	Pron		Question words
+L1-0461	站	站	zhàn	station; to stand	N		Verbs: coming & going
+L1-0462	找	找	zhǎo	to look for	V		Verbs: doing things
+L1-0463	找到	找到	zhǎodào	to find			Verbs: doing things
+L1-0464	这	這	zhè	this	Pron		This, that & where
+L1-0465	这边	這邊	zhèbiān	over here	Pron		This, that & where
+L1-0466	这里	這裡	zhèlǐ	here	Pron		This, that & where
+L1-0467	这儿	這兒	zhèr	here	Pron		This, that & where
+L1-0468	这些	這些	zhèxiē	these	Pron		This, that & where
+L1-0469	着	著	zhe	(continuous action particle) -ing	Aux		Grammar words
+L1-0470	真	真	zhēn	really; real	Adv/Adj		How often, how much
+L1-0471	真的	真的	zhēn de	really; true			How often, how much
+L1-0472	正	正	zhèng	in the middle of (doing)	Adv		How often, how much
+L1-0473	正在	正在	zhèngzài	in the process of; currently	Adv		How often, how much
+L1-0474	知道	知道	zhīdào	to know	V		Verbs: talking & thinking
+L1-0475	知识	知識	zhīshi	knowledge	N		School & language
+L1-0476	中	中	zhōng	middle; China	N		Places & countries
+L1-0477	中国	中國	Zhōngguó	China	N		Places & countries
+L1-0478	中间	中間	zhōngjiān	middle; between	N		Directions & position
+L1-0479	中文	中文	Zhōngwén	Chinese (language)	N		School & language
+L1-0480	中午	中午	zhōngwǔ	noon	N		Time & dates
+L1-0481	中学	中學	zhōngxué	middle school	N		School & language
+L1-0482	中学生	中學生	zhōngxuéshēng	middle school student	N		School & language
+L1-0483	重	重	zhòng	heavy	Adj		Describing words
+L1-0484	重要	重要	zhòngyào	important	Adj		Describing words
+L1-0485	住	住	zhù	to live (somewhere)	V		Verbs: daily life
+L1-0486	准备	準備	zhǔnbèi	to prepare	V		Verbs: doing things
+L1-0487	桌子	桌子	zhuōzi	table; desk	N		Home & things
+L1-0488	字	字	zì	character; word	N		School & language
+L1-0489	子	子	zi	(noun suffix)	Suffix		Grammar words
+L1-0490	走	走	zǒu	to walk; to leave	V		Verbs: coming & going
+L1-0491	走路	走路	zǒulù	to walk; to go on foot			Verbs: coming & going
+L1-0492	最	最	zuì	most	Adv		How often, how much
+L1-0493	最好	最好	zuìhǎo	best; had better	Adv		How often, how much
+L1-0494	最后	最後	zuìhòu	finally; last	N		How often, how much
+L1-0495	昨天	昨天	zuótiān	yesterday	N		Time & dates
+L1-0496	左	左	zuǒ	left	N		Directions & position
+L1-0497	左边	左邊	zuǒbian	left side	N		Directions & position
+L1-0498	坐	坐	zuò	to sit; to take (transport)	V		Verbs: coming & going
+L1-0499	坐下	坐下	zuò xia	to sit down			Verbs: coming & going
+L1-0500	做	做	zuò	to do; to make	V		Verbs: daily life

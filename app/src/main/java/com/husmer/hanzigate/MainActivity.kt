@@ -12,6 +12,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -50,7 +51,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-private enum class Screen { HOME, SORT, LIST, PRACTICE }
+private enum class Screen { HOME, GROUPS, GROUP, SORT, LIST, PRACTICE }
 
 class MainActivity : ComponentActivity() {
     /** Bumped in onResume so the home screen re-checks whether the blocker is on. */
@@ -77,10 +78,19 @@ class MainActivity : ComponentActivity() {
 @Composable
 private fun App(resumeTick: Int) {
     var screen by remember { mutableStateOf(Screen.HOME) }
-    if (screen != Screen.HOME) BackHandler { screen = Screen.HOME }
+    var category by remember { mutableStateOf("") }
+    if (screen != Screen.HOME) BackHandler {
+        screen = when (screen) {
+            Screen.GROUP -> Screen.GROUPS
+            Screen.SORT -> Screen.GROUP
+            else -> Screen.HOME
+        }
+    }
     when (screen) {
         Screen.HOME -> Home(resumeTick) { screen = it }
-        Screen.SORT -> Sorter { screen = Screen.HOME }
+        Screen.GROUPS -> Groups { category = it; screen = Screen.GROUP }
+        Screen.GROUP -> Group(category, onSort = { screen = Screen.SORT })
+        Screen.SORT -> Sorter(category) { screen = Screen.GROUP }
         Screen.LIST -> WordList()
         Screen.PRACTICE -> {
             val app = HanziApp.get(LocalContext.current)
@@ -98,7 +108,6 @@ private fun Home(resumeTick: Int, go: (Screen) -> Unit) {
     store.version.intValue // re-read when progress changes
     val enabled = remember(resumeTick) { GateService.isEnabled(context) }
     val known = app.words.count { store.state(it.id).known }
-    val unsorted = app.words.count { !store.state(it.id).sorted }
 
     Column(
         Modifier.verticalScroll(rememberScrollState()).padding(20.dp),
@@ -138,12 +147,13 @@ private fun Home(resumeTick: Int, go: (Screen) -> Unit) {
                 Text("Words: $known of ${app.words.size} known", style = MaterialTheme.typography.titleMedium)
                 if (known < HanziApp.MIN_KNOWN) {
                     Text(
-                        "Until you mark at least ${HanziApp.MIN_KNOWN} words, the quiz uses all HSK 1 words.",
+                        "The quiz only asks words marked as known. Until at least ${HanziApp.MIN_KNOWN} " +
+                            "are marked, it uses all HSK 1 words.",
                         style = MaterialTheme.typography.bodySmall,
                     )
                 }
-                Button(onClick = { go(Screen.SORT) }, enabled = unsorted > 0, modifier = Modifier.fillMaxWidth()) {
-                    Text(if (unsorted > 0) "Sort words ($unsorted left)" else "All words sorted")
+                Button(onClick = { go(Screen.GROUPS) }, modifier = Modifier.fillMaxWidth()) {
+                    Text("Choose the words you know")
                 }
                 OutlinedButton(onClick = { go(Screen.LIST) }, modifier = Modifier.fillMaxWidth()) {
                     Text("Word list & search")
@@ -179,15 +189,95 @@ private fun Stepper(label: String, value: Int, range: IntRange, step: Int, onCha
     }
 }
 
-/** Shows unsorted words one at a time: "Know it" or "Not yet". */
+/** All categories, each with how many words are known and a one-tap "Know all". */
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
-private fun Sorter(onDone: () -> Unit) {
+private fun Groups(open: (String) -> Unit) {
+    val app = HanziApp.get(LocalContext.current)
+    val store = app.store
+    store.version.intValue
+    LazyColumn(Modifier.fillMaxSize().padding(horizontal = 16.dp)) {
+        item {
+            Column(Modifier.padding(vertical = 16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Text("Words you know", style = MaterialTheme.typography.headlineSmall)
+                Text(
+                    "Tap \"Know all\" for groups you already know, or open a group to tick single words.",
+                    style = MaterialTheme.typography.bodyMedium,
+                )
+                Text(
+                    "${app.words.count { store.state(it.id).known }} of ${app.words.size} known",
+                    style = MaterialTheme.typography.bodySmall,
+                )
+            }
+        }
+        items(app.categories, key = { it }) { name ->
+            val words = app.wordsIn(name)
+            val known = words.count { store.state(it.id).known }
+            val all = known == words.size
+            Row(
+                Modifier.fillMaxWidth().clickable { open(name) }.padding(vertical = 10.dp),
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
+                Column(Modifier.weight(1f)) {
+                    Text(name, style = MaterialTheme.typography.bodyLarge)
+                    Text("$known of ${words.size} known", style = MaterialTheme.typography.bodySmall)
+                }
+                FilterChip(
+                    selected = all,
+                    onClick = { markAll(store, words, !all) },
+                    label = { Text(if (all) "✓ Known" else "Know all") },
+                )
+            }
+            HorizontalDivider()
+        }
+    }
+}
+
+/** One category's words as a checklist. */
+@Composable
+private fun Group(category: String, onSort: () -> Unit) {
+    val app = HanziApp.get(LocalContext.current)
+    val store = app.store
+    store.version.intValue
+    val words = remember(category) { app.wordsIn(category) }
+    LazyColumn(Modifier.fillMaxSize().padding(horizontal = 16.dp)) {
+        item {
+            Column(Modifier.padding(vertical = 16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Text(category, style = MaterialTheme.typography.headlineSmall)
+                Text(
+                    "${words.count { store.state(it.id).known }} of ${words.size} known",
+                    style = MaterialTheme.typography.bodySmall,
+                )
+                val tight = PaddingValues(horizontal = 6.dp)
+                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    OutlinedButton({ markAll(store, words, true) }, Modifier.weight(1f), contentPadding = tight) {
+                        Text("Know all")
+                    }
+                    OutlinedButton({ markAll(store, words, false) }, Modifier.weight(1f), contentPadding = tight) {
+                        Text("Know none")
+                    }
+                    OutlinedButton(onSort, Modifier.weight(1f), contentPadding = tight) { Text("One by one") }
+                }
+            }
+        }
+        items(words, key = { it.id }) { w -> WordRow(w) }
+    }
+}
+
+private fun markAll(store: Store, words: List<Word>, known: Boolean) {
+    store.updateAll(words.associate { it.id to store.state(it.id).copy(known = known, sorted = true) })
+}
+
+/** Shows the category's unsorted words one at a time: "Know it" or "Not yet". */
+@Composable
+private fun Sorter(category: String, onDone: () -> Unit) {
     val app = HanziApp.get(LocalContext.current)
     val store = app.store
     store.version.intValue
     val history = remember { mutableStateListOf<String>() }
-    val word = app.words.firstOrNull { !store.state(it.id).sorted }
-    val sortedCount = app.words.count { store.state(it.id).sorted }
+    val words = remember(category) { app.wordsIn(category) }
+    val word = words.firstOrNull { !store.state(it.id).sorted }
+    val sortedCount = words.count { store.state(it.id).sorted }
 
     fun mark(known: Boolean) {
         val w = word ?: return
@@ -202,10 +292,10 @@ private fun Sorter(onDone: () -> Unit) {
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
         Text("Do you know this word?", style = MaterialTheme.typography.titleMedium)
-        Text("$sortedCount / ${app.words.size}", style = MaterialTheme.typography.bodySmall)
+        Text("$category · $sortedCount / ${words.size}", style = MaterialTheme.typography.bodySmall)
         Spacer(Modifier.height(24.dp))
         if (word == null) {
-            Text("All words sorted!", style = MaterialTheme.typography.headlineSmall)
+            Text("Group done!", style = MaterialTheme.typography.headlineSmall)
             Button(onClick = onDone) { Text("Back") }
         } else {
             Text(word.simplified, fontSize = 72.sp)
@@ -274,24 +364,30 @@ private fun WordList() {
         }
         Text("${shown.size} words", style = MaterialTheme.typography.bodySmall)
         LazyColumn(Modifier.fillMaxSize()) {
-            items(shown, key = { it.id }) { w ->
-                val s = store.state(w.id)
-                Row(
-                    Modifier
-                        .fillMaxWidth()
-                        .clickable { store.update(w.id, s.copy(known = !s.known, sorted = true)) }
-                        .padding(vertical = 8.dp),
-                    verticalAlignment = Alignment.CenterVertically,
-                ) {
-                    Text(w.simplified, fontSize = 24.sp, modifier = Modifier.width(96.dp))
-                    Column(Modifier.weight(1f)) {
-                        Text(w.pinyin, style = MaterialTheme.typography.bodyLarge)
-                        Text(w.meaning, style = MaterialTheme.typography.bodySmall)
-                    }
-                    Checkbox(checked = s.known, onCheckedChange = { store.update(w.id, s.copy(known = it, sorted = true)) })
-                }
-                HorizontalDivider()
-            }
+            items(shown, key = { it.id }) { w -> WordRow(w) }
         }
     }
+}
+
+/** One word with a "known" checkbox; tapping the row toggles it. */
+@Composable
+private fun WordRow(w: Word) {
+    val store = HanziApp.get(LocalContext.current).store
+    store.version.intValue
+    val s = store.state(w.id)
+    Row(
+        Modifier
+            .fillMaxWidth()
+            .clickable { store.update(w.id, s.copy(known = !s.known, sorted = true)) }
+            .padding(vertical = 8.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Text(w.simplified, fontSize = 24.sp, modifier = Modifier.width(96.dp))
+        Column(Modifier.weight(1f)) {
+            Text(w.pinyin, style = MaterialTheme.typography.bodyLarge)
+            Text(w.meaning, style = MaterialTheme.typography.bodySmall)
+        }
+        Checkbox(checked = s.known, onCheckedChange = { store.update(w.id, s.copy(known = it, sorted = true)) })
+    }
+    HorizontalDivider()
 }

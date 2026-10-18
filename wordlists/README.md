@@ -45,3 +45,8 @@ Tab-separated, UTF-8, one word per line:
 
 `jlpt_n5_sentences.tsv`: one hand-written example sentence per word, with the word in 【】,
 always in a form listed for that word (verbs and adjectives in dictionary form), plus an English translation.
+
+## Topic groups (HSK 1)
+
+The `category` column (8th) of `hsk1_2021.tsv` puts every word in one of the topic groups listed, in display order,
+in `hsk1_categories.txt`, so known words can be marked a group at a time. Words keep their official order and ids.

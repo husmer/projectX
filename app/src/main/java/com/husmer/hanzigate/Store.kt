@@ -28,8 +28,11 @@ class Store(context: Context) {
 
     fun state(id: String): WordState = states[id] ?: WordState()
 
-    fun update(id: String, s: WordState) {
-        states[id] = s
+    fun update(id: String, s: WordState) = updateAll(mapOf(id to s))
+
+    /** Several words in one save (marking a whole category). */
+    fun updateAll(changes: Map<String, WordState>) {
+        states.putAll(changes)
         val json = JSONObject()
         for ((k, v) in states) {
             json.put(k, JSONArray().put(if (v.known) 1 else 0).put(if (v.sorted) 1 else 0).put(v.box).put(v.due))

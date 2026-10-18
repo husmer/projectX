@@ -16,24 +16,26 @@ android {
         versionName = "1.0"
     }
 
-    // A fixed key checked into the repo, so every CI build can be installed
-    // over the previous one without uninstalling (and losing progress).
-    signingConfigs {
-        create("shared") {
-            storeFile = file("hanzigate.keystore")
-            storePassword = "hanzigate"
+    // The release key lives in CI secrets (see README), never in the repo. Every CI build is signed
+    // with it, so new APKs install over the old one without losing progress. Without it (local builds),
+    // the standard debug key is used.
+    val keystore = System.getenv("HANZIGATE_KEYSTORE")?.let { file(it) }
+    val shared = keystore?.let {
+        signingConfigs.create("shared") {
+            storeFile = it
+            storePassword = System.getenv("HANZIGATE_KEYSTORE_PASSWORD")
             keyAlias = "hanzigate"
-            keyPassword = "hanzigate"
+            keyPassword = System.getenv("HANZIGATE_KEYSTORE_PASSWORD")
         }
     }
 
     buildTypes {
         debug {
-            signingConfig = signingConfigs.getByName("shared")
+            if (shared != null) signingConfig = shared
         }
         release {
             isMinifyEnabled = false
-            signingConfig = signingConfigs.getByName("shared")
+            if (shared != null) signingConfig = shared
         }
     }
 

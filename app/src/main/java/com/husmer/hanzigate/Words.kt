@@ -8,6 +8,8 @@ data class Word(
     val meaning: String,
     val pos: String,
     val also: List<String>,
+    /** Topic group, so known words can be chosen a group at a time. */
+    val category: String = "",
 ) {
     /** Every way of writing this word that counts as a correct answer. */
     val forms: Set<String> get() = setOf(simplified, traditional) + also
@@ -43,6 +45,7 @@ object WordParser {
                     meaning = c[4],
                     pos = c.getOrElse(5) { "" },
                     also = c.getOrElse(6) { "" }.split('/').map { it.trim() }.filter { it.isNotEmpty() },
+                    category = c.getOrElse(7) { "" },
                 )
             }
             .toList()
