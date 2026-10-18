@@ -1,661 +1,661 @@
-id	word	kana	meaning	also
-N5-0001	ああ	ああ	ah; oh	
-N5-0002	会う	あう	to meet	
-N5-0003	青	あお	blue (noun)	
-N5-0004	青い	あおい	blue	
-N5-0005	赤	あか	red (noun)	
-N5-0006	赤い	あかい	red	
-N5-0007	明るい	あかるい	bright; cheerful	
-N5-0008	秋	あき	autumn; fall	
-N5-0009	開く	あく	to open (by itself)	
-N5-0010	開ける	あける	to open (something)	
-N5-0011	上げる	あげる	to raise; to lift	あげる
-N5-0012	朝	あさ	morning	
-N5-0013	朝ご飯	あさごはん	breakfast	朝御飯/朝ごはん
-N5-0014	あさって	あさって	the day after tomorrow	明後日
-N5-0015	足	あし	foot; leg	脚
-N5-0016	明日	あした/あす	tomorrow	
-N5-0017	あそこ	あそこ	over there	
-N5-0018	遊ぶ	あそぶ	to play; to hang out	
-N5-0019	暖かい	あたたかい	warm	温かい
-N5-0020	頭	あたま	head	
-N5-0021	新しい	あたらしい	new	
-N5-0022	あちら	あちら	that way; over there (polite)	
-N5-0023	暑い	あつい	hot (weather)	
-N5-0024	熱い	あつい	hot (to the touch)	
-N5-0025	厚い	あつい	thick	
-N5-0026	あっち	あっち	over there (casual)	
-N5-0027	後	あと	after; later	
-N5-0028	あなた	あなた	you	
-N5-0029	兄	あに	(my) older brother	
-N5-0030	姉	あね	(my) older sister	
-N5-0031	アパート	アパート	apartment	
-N5-0032	あの	あの	that (over there, before a noun)	
-N5-0033	浴びる	あびる	to take (a shower)	
-N5-0034	危ない	あぶない	dangerous	
-N5-0035	甘い	あまい	sweet	
-N5-0036	あまり	あまり	not very (with a negative)	余り
-N5-0037	雨	あめ	rain	
-N5-0038	飴	あめ	candy	
-N5-0039	洗う	あらう	to wash	
-N5-0040	ある	ある	to be; to exist (things)	有る/在る
-N5-0041	歩く	あるく	to walk	
-N5-0042	あれ	あれ	that one (over there)	
-N5-0043	いい	いい/よい	good	良い/よい
-N5-0044	いいえ	いいえ	no	
-N5-0045	言う	いう	to say	
-N5-0046	家	いえ	house; home	
-N5-0047	いかが	いかが	how about (polite)	
-N5-0048	行く	いく/ゆく	to go	
-N5-0049	いくつ	いくつ	how many; how old	
-N5-0050	いくら	いくら	how much (price)	
-N5-0051	池	いけ	pond	
-N5-0052	医者	いしゃ	doctor	
-N5-0053	椅子	いす	chair	いす/イス
-N5-0054	忙しい	いそがしい	busy	
-N5-0055	痛い	いたい	painful; sore	
-N5-0056	一	いち	one	
-N5-0057	一日	いちにち	one day; all day	
-N5-0058	一番	いちばん	number one; the most	
-N5-0059	いつ	いつ	when	
-N5-0060	五日	いつか	the 5th (of the month); five days	
-N5-0061	一緒	いっしょ	together	いっしょ
-N5-0062	五つ	いつつ	five (things)	
-N5-0063	いつも	いつも	always	
-N5-0064	犬	いぬ	dog	イヌ
-N5-0065	今	いま	now	
-N5-0066	意味	いみ	meaning	
-N5-0067	妹	いもうと	(my) younger sister	
-N5-0068	嫌	いや	unpleasant; disliked	いや
-N5-0069	入口	いりぐち	entrance	入り口
-N5-0070	いる	いる	to be; to exist (people, animals)	居る
-N5-0071	要る	いる	to need	
-N5-0072	入れる	いれる	to put in	
-N5-0073	色	いろ	color	
-N5-0074	いろいろ	いろいろ	various	色々
-N5-0075	上	うえ	top; above; on	
-N5-0076	後ろ	うしろ	behind; back	
-N5-0077	薄い	うすい	thin; weak (taste)	
-N5-0078	歌	うた	song	
-N5-0079	歌う	うたう	to sing	
-N5-0080	うち	うち	home; my house	
-N5-0081	生まれる	うまれる	to be born	
-N5-0082	海	うみ	sea; ocean	
-N5-0083	売る	うる	to sell	
-N5-0084	うるさい	うるさい	noisy; annoying	
-N5-0085	上着	うわぎ	jacket	
-N5-0086	絵	え	picture; painting	
-N5-0087	映画	えいが	movie	
-N5-0088	映画館	えいがかん	movie theater	
-N5-0089	英語	えいご	English (language)	
-N5-0090	ええ	ええ	yes (casual)	
-N5-0091	駅	えき	station	
-N5-0092	エレベーター	エレベーター	elevator	
-N5-0093	鉛筆	えんぴつ	pencil	
-N5-0094	おいしい	おいしい	delicious	美味しい
-N5-0095	多い	おおい	many; a lot	
-N5-0096	大きい	おおきい	big	
-N5-0097	大きな	おおきな	big (before a noun)	
-N5-0098	大勢	おおぜい	many people; a crowd	
-N5-0099	お母さん	おかあさん	mother (polite)	
-N5-0100	お菓子	おかし	sweets; snacks	
-N5-0101	お金	おかね	money	
-N5-0102	起きる	おきる	to get up; to wake up	
-N5-0103	置く	おく	to put; to place	
-N5-0104	奥さん	おくさん	(someone's) wife	
-N5-0105	お酒	おさけ	alcohol; sake	
-N5-0106	お皿	おさら	plate; dish	
-N5-0107	おじさん	おじさん	uncle; middle-aged man	伯父さん/叔父さん
-N5-0108	おじいさん	おじいさん	grandfather; old man	お祖父さん
-N5-0109	教える	おしえる	to teach; to tell	
-N5-0110	押す	おす	to push; to press	
-N5-0111	遅い	おそい	slow; late	
-N5-0112	お茶	おちゃ	(green) tea	
-N5-0113	お手洗い	おてあらい	restroom	
-N5-0114	お父さん	おとうさん	father (polite)	
-N5-0115	弟	おとうと	(my) younger brother	
-N5-0116	男	おとこ	man; male	
-N5-0117	男の子	おとこのこ	boy	
-N5-0118	おととい	おととい	the day before yesterday	一昨日
-N5-0119	おととし	おととし	the year before last	一昨年
-N5-0120	大人	おとな	adult	
-N5-0121	おなか	おなか	stomach; belly	お腹
-N5-0122	同じ	おなじ	same	
-N5-0123	お兄さん	おにいさん	older brother (polite)	
-N5-0124	お姉さん	おねえさん	older sister (polite)	
-N5-0125	おばさん	おばさん	aunt; middle-aged woman	伯母さん/叔母さん
-N5-0126	おばあさん	おばあさん	grandmother; old woman	お祖母さん
-N5-0127	お風呂	おふろ	bath	おふろ
-N5-0128	お弁当	おべんとう	boxed lunch	
-N5-0129	覚える	おぼえる	to memorize; to remember	
-N5-0130	おまわりさん	おまわりさん	police officer (friendly)	お巡りさん
-N5-0131	重い	おもい	heavy	
-N5-0132	面白い	おもしろい	interesting; funny	おもしろい
-N5-0133	泳ぐ	およぐ	to swim	
-N5-0134	降りる	おりる	to get off	
-N5-0135	終わる	おわる	to end; to finish	終る
-N5-0136	音楽	おんがく	music	
-N5-0137	女	おんな	woman; female	
-N5-0138	女の子	おんなのこ	girl	
-N5-0139	外国	がいこく	foreign country	
-N5-0140	外国人	がいこくじん	foreigner	
-N5-0141	会社	かいしゃ	company; office	
-N5-0142	階段	かいだん	stairs	
-N5-0143	買い物	かいもの	shopping	
-N5-0144	買う	かう	to buy	
-N5-0145	返す	かえす	to give back; to return (something)	
-N5-0146	帰る	かえる	to go home; to return	
-N5-0147	顔	かお	face	
-N5-0148	かかる	かかる	to take (time, money)	掛かる
-N5-0149	鍵	かぎ	key; lock	かぎ
-N5-0150	書く	かく	to write	
-N5-0151	学生	がくせい	student	
-N5-0152	かける	かける	to make (a phone call); to hang; to wear (glasses)	掛ける
-N5-0153	傘	かさ	umbrella	かさ
-N5-0154	貸す	かす	to lend	
-N5-0155	風	かぜ	wind	
-N5-0156	風邪	かぜ	a cold (illness)	
-N5-0157	方	かた	person (polite)	
-N5-0158	家族	かぞく	family	
-N5-0159	カタカナ	かたかな	katakana	片仮名/かたかな
-N5-0160	学校	がっこう	school	
-N5-0161	カップ	カップ	cup; mug	
-N5-0162	家庭	かてい	household; home	
-N5-0163	角	かど	corner	
-N5-0164	かばん	かばん	bag	鞄/カバン
-N5-0165	花瓶	かびん	vase	
-N5-0166	かぶる	かぶる	to put on (a hat)	
-N5-0167	紙	かみ	paper	
-N5-0168	カメラ	カメラ	camera	
-N5-0169	火曜日	かようび	Tuesday	
-N5-0170	辛い	からい	spicy	
-N5-0171	体	からだ	body	
-N5-0172	借りる	かりる	to borrow	
-N5-0173	軽い	かるい	light (not heavy)	
-N5-0174	カレー	カレー	curry	
-N5-0175	カレンダー	カレンダー	calendar	
-N5-0176	川	かわ	river	河
-N5-0177	かわいい	かわいい	cute	可愛い
-N5-0178	漢字	かんじ	kanji	
-N5-0179	木	き	tree; wood	
-N5-0180	黄色	きいろ	yellow (noun)	
-N5-0181	黄色い	きいろい	yellow	
-N5-0182	消える	きえる	to go out; to disappear	
-N5-0183	聞く	きく	to listen; to hear; to ask	
-N5-0184	北	きた	north	
-N5-0185	ギター	ギター	guitar	
-N5-0186	汚い	きたない	dirty	
-N5-0187	喫茶店	きっさてん	café	
-N5-0188	切手	きって	postage stamp	
-N5-0189	切符	きっぷ	ticket	
-N5-0190	昨日	きのう	yesterday	
-N5-0191	九	きゅう/く	nine	
-N5-0192	牛肉	ぎゅうにく	beef	
-N5-0193	牛乳	ぎゅうにゅう	milk	
-N5-0194	今日	きょう	today	
-N5-0195	教室	きょうしつ	classroom	
-N5-0196	兄弟	きょうだい	siblings	
-N5-0197	去年	きょねん	last year	
-N5-0198	嫌い	きらい	disliked; to dislike	
-N5-0199	切る	きる	to cut	
-N5-0200	着る	きる	to wear; to put on (shirts, coats)	
-N5-0201	きれい	きれい	pretty; clean	綺麗
-N5-0202	キロ	キロ	kilo (gram or meter)	キログラム/キロメートル
-N5-0203	銀行	ぎんこう	bank	
-N5-0204	金曜日	きんようび	Friday	
-N5-0205	薬	くすり	medicine	
-N5-0206	ください	ください	please (give me)	下さい
-N5-0207	果物	くだもの	fruit	
-N5-0208	口	くち	mouth	
-N5-0209	靴	くつ	shoes	
-N5-0210	靴下	くつした	socks	
-N5-0211	国	くに	country	
-N5-0212	曇り	くもり	cloudy weather	
-N5-0213	曇る	くもる	to get cloudy	
-N5-0214	暗い	くらい	dark	
-N5-0215	クラス	クラス	class (group of students)	
-N5-0216	グラム	グラム	gram	
-N5-0217	来る	くる	to come	
-N5-0218	車	くるま	car	
-N5-0219	黒	くろ	black (noun)	
-N5-0220	黒い	くろい	black	
-N5-0221	警官	けいかん	police officer	
-N5-0222	今朝	けさ	this morning	
-N5-0223	消す	けす	to turn off; to erase	
-N5-0224	結構	けっこう	fine; no thank you; quite	
-N5-0225	結婚	けっこん	marriage	
-N5-0226	月曜日	げつようび	Monday	
-N5-0227	玄関	げんかん	entryway (of a house)	
-N5-0228	元気	げんき	well; healthy; energetic	
-N5-0229	五	ご	five	
-N5-0230	公園	こうえん	park	
-N5-0231	交差点	こうさてん	intersection	
-N5-0232	紅茶	こうちゃ	black tea	
-N5-0233	交番	こうばん	police box	
-N5-0234	声	こえ	voice	
-N5-0235	コート	コート	coat	
-N5-0236	コーヒー	コーヒー	coffee	
-N5-0237	ここ	ここ	here	
-N5-0238	午後	ごご	afternoon; p.m.	
-N5-0239	九日	ここのか	the 9th (of the month); nine days	
-N5-0240	九つ	ここのつ	nine (things)	
-N5-0241	午前	ごぜん	morning; a.m.	
-N5-0242	答える	こたえる	to answer	
-N5-0243	こちら	こちら	this way; this (person, polite)	
-N5-0244	こっち	こっち	this way; here (casual)	
-N5-0245	コップ	コップ	glass (for drinking)	
-N5-0246	今年	ことし	this year	
-N5-0247	言葉	ことば	word; language	
-N5-0248	子供	こども	child	子ども
-N5-0249	この	この	this (before a noun)	
-N5-0250	ご飯	ごはん	cooked rice; meal	御飯/ごはん
-N5-0251	コピー	コピー	copy	
-N5-0252	困る	こまる	to be in trouble; to be at a loss	
-N5-0253	これ	これ	this (one)	
-N5-0254	今月	こんげつ	this month	
-N5-0255	今週	こんしゅう	this week	
-N5-0256	こんな	こんな	this kind of; like this	
-N5-0257	今晩	こんばん	tonight	
-N5-0258	さあ	さあ	well; come on	
-N5-0259	財布	さいふ	wallet	
-N5-0260	魚	さかな	fish	
-N5-0261	先	さき	ahead; first; earlier	
-N5-0262	咲く	さく	to bloom	
-N5-0263	作文	さくぶん	essay; composition	
-N5-0264	さす	さす	to put up (an umbrella)	差す
-N5-0265	雑誌	ざっし	magazine	
-N5-0266	砂糖	さとう	sugar	
-N5-0267	寒い	さむい	cold (weather)	
-N5-0268	再来年	さらいねん	the year after next	さ来年
-N5-0269	三	さん	three	
-N5-0270	散歩	さんぽ	walk; stroll	
-N5-0271	四	し/よん	four	
-N5-0272	塩	しお	salt	
-N5-0273	しかし	しかし	however	
-N5-0274	時間	じかん	time	
-N5-0275	仕事	しごと	work; job	
-N5-0276	辞書	じしょ	dictionary	
-N5-0277	静か	しずか	quiet	
-N5-0278	下	した	below; under	
-N5-0279	七	しち/なな	seven	
-N5-0280	質問	しつもん	question	
-N5-0281	自転車	じてんしゃ	bicycle	
-N5-0282	自動車	じどうしゃ	automobile	
-N5-0283	死ぬ	しぬ	to die	
-N5-0284	自分	じぶん	oneself	
-N5-0285	閉まる	しまる	to close (by itself)	
-N5-0286	閉める	しめる	to close (something)	
-N5-0287	締める	しめる	to tie; to fasten	
-N5-0288	じゃあ	じゃあ	well then	じゃ
-N5-0289	写真	しゃしん	photo	
-N5-0290	シャツ	シャツ	shirt	
-N5-0291	シャワー	シャワー	shower	
-N5-0292	十	じゅう/とお	ten	
-N5-0293	授業	じゅぎょう	class; lesson	
-N5-0294	宿題	しゅくだい	homework	
-N5-0295	上手	じょうず	skillful; good at	
-N5-0296	丈夫	じょうぶ	strong; sturdy	
-N5-0297	しょうゆ	しょうゆ	soy sauce	醤油
-N5-0298	食堂	しょくどう	cafeteria; dining hall	
-N5-0299	知る	しる	to know; to find out	
-N5-0300	白	しろ	white (noun)	
-N5-0301	白い	しろい	white	
-N5-0302	新聞	しんぶん	newspaper	
-N5-0303	水曜日	すいようび	Wednesday	
-N5-0304	吸う	すう	to smoke; to breathe in	
-N5-0305	スカート	スカート	skirt	
-N5-0306	好き	すき	liked; to like	
-N5-0307	少ない	すくない	few; little	
-N5-0308	すぐ	すぐ	right away; soon	すぐに
-N5-0309	少し	すこし	a little	
-N5-0310	涼しい	すずしい	cool (weather)	
-N5-0311	ストーブ	ストーブ	heater	
-N5-0312	スプーン	スプーン	spoon	
-N5-0313	スポーツ	スポーツ	sports	
-N5-0314	ズボン	ズボン	trousers	
-N5-0315	住む	すむ	to live (somewhere)	
-N5-0316	する	する	to do	
-N5-0317	座る	すわる	to sit	
-N5-0318	背	せ/せい	height (of a person)	
-N5-0319	生徒	せいと	pupil (at school)	
-N5-0320	セーター	セーター	sweater	
-N5-0321	せっけん	せっけん	soap	石鹸
-N5-0322	背広	せびろ	men's suit	
-N5-0323	狭い	せまい	small (space); narrow	
-N5-0324	ゼロ	ゼロ	zero	
-N5-0325	千	せん	thousand	
-N5-0326	先月	せんげつ	last month	
-N5-0327	先週	せんしゅう	last week	
-N5-0328	先生	せんせい	teacher	
-N5-0329	洗濯	せんたく	laundry	
-N5-0330	全部	ぜんぶ	all; everything	
-N5-0331	そう	そう	so; that way	
-N5-0332	掃除	そうじ	cleaning	
-N5-0333	そして	そして	and; and then	
-N5-0334	そこ	そこ	there (near you)	
-N5-0335	そちら	そちら	that way; there (polite)	
-N5-0336	そっち	そっち	that way; there (casual)	
-N5-0337	外	そと	outside	
-N5-0338	その	その	that (near you, before a noun)	
-N5-0339	そば	そば	beside; near	
-N5-0340	空	そら	sky	
-N5-0341	それ	それ	that one (near you)	
-N5-0342	それから	それから	after that; and then	
-N5-0343	それでは	それでは	well then; in that case	
-N5-0344	大学	だいがく	university	
-N5-0345	大使館	たいしかん	embassy	
-N5-0346	大丈夫	だいじょうぶ	all right; OK	
-N5-0347	大好き	だいすき	to love; really like	
-N5-0348	大切	たいせつ	important; precious	
-N5-0349	台所	だいどころ	kitchen	
-N5-0350	大変	たいへん	tough; hard; very	
-N5-0351	高い	たかい	expensive; tall; high	
-N5-0352	たくさん	たくさん	a lot; many	沢山
-N5-0353	タクシー	タクシー	taxi	
-N5-0354	出す	だす	to take out; to hand in; to send	
-N5-0355	立つ	たつ	to stand	
-N5-0356	建物	たてもの	building	
-N5-0357	楽しい	たのしい	fun; enjoyable	
-N5-0358	頼む	たのむ	to ask (a favor); to order	
-N5-0359	たばこ	たばこ	cigarettes; tobacco	タバコ
-N5-0360	多分	たぶん	probably; maybe	たぶん
-N5-0361	食べ物	たべもの	food	
-N5-0362	食べる	たべる	to eat	
-N5-0363	卵	たまご	egg	玉子
-N5-0364	誰	だれ	who	だれ
-N5-0365	誰か	だれか	someone	だれか
-N5-0366	誕生日	たんじょうび	birthday	
-N5-0367	だんだん	だんだん	gradually	段々
-N5-0368	小さい	ちいさい	small	
-N5-0369	小さな	ちいさな	small (before a noun)	
-N5-0370	近い	ちかい	near; close	
-N5-0371	違う	ちがう	to be different; to be wrong	
-N5-0372	近く	ちかく	nearby; the vicinity	
-N5-0373	地下鉄	ちかてつ	subway	
-N5-0374	地図	ちず	map	
-N5-0375	父	ちち	(my) father	
-N5-0376	茶色	ちゃいろ	brown	
-N5-0377	茶碗	ちゃわん	rice bowl	茶わん
-N5-0378	ちょうど	ちょうど	exactly; just	丁度
-N5-0379	ちょっと	ちょっと	a little; a moment	
-N5-0380	一日	ついたち	the 1st (of the month)	
-N5-0381	使う	つかう	to use	
-N5-0382	疲れる	つかれる	to get tired	
-N5-0383	次	つぎ	next	
-N5-0384	着く	つく	to arrive	
-N5-0385	机	つくえ	desk	
-N5-0386	作る	つくる	to make	
-N5-0387	つける	つける	to turn on (a light etc.)	
-N5-0388	勤める	つとめる	to work for (a company)	
-N5-0389	つまらない	つまらない	boring	
-N5-0390	冷たい	つめたい	cold (to the touch)	
-N5-0391	強い	つよい	strong	
-N5-0392	手	て	hand	
-N5-0393	テーブル	テーブル	table	
-N5-0394	出かける	でかける	to go out	
-N5-0395	手紙	てがみ	letter	
-N5-0396	できる	できる	can; to be able to	出来る
-N5-0397	出口	でぐち	exit	
-N5-0398	テスト	テスト	test	
-N5-0399	では	では	well then	
-N5-0400	デパート	デパート	department store	
-N5-0401	でも	でも	but	
-N5-0402	出る	でる	to leave; to go out	
-N5-0403	テレビ	テレビ	TV	
-N5-0404	天気	てんき	weather	
-N5-0405	電気	でんき	electricity; light	
-N5-0406	電車	でんしゃ	train	
-N5-0407	電話	でんわ	telephone	
-N5-0408	戸	と	door (sliding)	
-N5-0409	ドア	ドア	door	
-N5-0410	トイレ	トイレ	toilet; restroom	
-N5-0411	どう	どう	how	
-N5-0412	どうして	どうして	why	
-N5-0413	どうぞ	どうぞ	please (go ahead)	
-N5-0414	動物	どうぶつ	animal	
-N5-0415	どうも	どうも	thanks	
-N5-0416	遠い	とおい	far	
-N5-0417	十日	とおか	the 10th (of the month); ten days	
-N5-0418	時々	ときどき	sometimes	ときどき
-N5-0419	時計	とけい	clock; watch	
-N5-0420	どこ	どこ	where	
-N5-0421	所	ところ	place	ところ
-N5-0422	年	とし	year; age	
-N5-0423	図書館	としょかん	library	
-N5-0424	どちら	どちら	which (polite); where (polite)	
-N5-0425	どっち	どっち	which (casual)	
-N5-0426	とても	とても	very	
-N5-0427	どなた	どなた	who (polite)	
-N5-0428	隣	となり	next to; next door	
-N5-0429	どの	どの	which (before a noun)	
-N5-0430	飛ぶ	とぶ	to fly	
-N5-0431	止まる	とまる	to stop	
-N5-0432	友達	ともだち	friend	友だち
-N5-0433	土曜日	どようび	Saturday	
-N5-0434	鳥	とり	bird	
-N5-0435	鶏肉	とりにく	chicken (meat)	とり肉
-N5-0436	取る	とる	to take; to pick up	
-N5-0437	撮る	とる	to take (a photo)	
-N5-0438	どれ	どれ	which one	
-N5-0439	どんな	どんな	what kind of	
-N5-0440	ない	ない	to not exist; to not have	無い
-N5-0441	ナイフ	ナイフ	knife	
-N5-0442	中	なか	inside; middle	
-N5-0443	長い	ながい	long	
-N5-0444	鳴く	なく	to cry; to chirp (animals)	
-N5-0445	なくす	なくす	to lose (something)	無くす
-N5-0446	なぜ	なぜ	why	
-N5-0447	夏	なつ	summer	
-N5-0448	夏休み	なつやすみ	summer vacation	
-N5-0449	七つ	ななつ	seven (things)	
-N5-0450	何	なに/なん	what	
-N5-0451	七日	なのか	the 7th (of the month); seven days	
-N5-0452	名前	なまえ	name	
-N5-0453	習う	ならう	to learn (from someone); to take lessons	
-N5-0454	並ぶ	ならぶ	to line up; to stand in line	
-N5-0455	並べる	ならべる	to line up (things); to arrange	
-N5-0456	なる	なる	to become	
-N5-0457	二	に	two	
-N5-0458	にぎやか	にぎやか	lively; bustling	賑やか
-N5-0459	肉	にく	meat	
-N5-0460	西	にし	west	
-N5-0461	日曜日	にちようび	Sunday	
-N5-0462	荷物	にもつ	luggage; package	
-N5-0463	ニュース	ニュース	news	
-N5-0464	庭	にわ	garden; yard	
-N5-0465	脱ぐ	ぬぐ	to take off (clothes, shoes)	
-N5-0466	ぬるい	ぬるい	lukewarm	温い
-N5-0467	ネクタイ	ネクタイ	necktie	
-N5-0468	猫	ねこ	cat	ネコ
-N5-0469	寝る	ねる	to sleep; to go to bed	
-N5-0470	ノート	ノート	notebook	
-N5-0471	登る	のぼる	to climb	
-N5-0472	飲み物	のみもの	drink	
-N5-0473	飲む	のむ	to drink	
-N5-0474	乗る	のる	to ride; to get on	
-N5-0475	歯	は	tooth	
-N5-0476	パーティー	パーティー	party	
-N5-0477	はい	はい	yes	
-N5-0478	入る	はいる	to enter; to go in	
-N5-0479	はがき	はがき	postcard	葉書
-N5-0480	はく	はく	to put on (shoes, trousers, skirts)	履く/穿く
-N5-0481	箱	はこ	box	
-N5-0482	橋	はし	bridge	
-N5-0483	箸	はし	chopsticks	
-N5-0484	始まる	はじまる	to begin (by itself)	
-N5-0485	初め	はじめ	beginning	始め
-N5-0486	初めて	はじめて	for the first time	
-N5-0487	走る	はしる	to run	
-N5-0488	バス	バス	bus	
-N5-0489	バター	バター	butter	
-N5-0490	二十歳	はたち	20 years old	
-N5-0491	働く	はたらく	to work	
-N5-0492	八	はち	eight	
-N5-0493	二十日	はつか	the 20th (of the month); twenty days	
-N5-0494	花	はな	flower	
-N5-0495	鼻	はな	nose	
-N5-0496	話	はなし	talk; story	
-N5-0497	話す	はなす	to speak; to talk	
-N5-0498	母	はは	(my) mother	
-N5-0499	早い	はやい	early	
-N5-0500	速い	はやい	fast	
-N5-0501	春	はる	spring	
-N5-0502	貼る	はる	to stick; to paste	はる
-N5-0503	晴れ	はれ	sunny weather	
-N5-0504	晴れる	はれる	to clear up (weather)	
-N5-0505	半	はん	half; half past	
-N5-0506	晩	ばん	evening; night	
-N5-0507	パン	パン	bread	
-N5-0508	ハンカチ	ハンカチ	handkerchief	
-N5-0509	番号	ばんごう	number	
-N5-0510	晩ご飯	ばんごはん	dinner	晩御飯/晩ごはん
-N5-0511	半分	はんぶん	half	
-N5-0512	東	ひがし	east	
-N5-0513	引く	ひく	to pull	
-N5-0514	弾く	ひく	to play (piano, guitar)	
-N5-0515	低い	ひくい	low; short	
-N5-0516	飛行機	ひこうき	airplane	
-N5-0517	左	ひだり	left	
-N5-0518	人	ひと	person	
-N5-0519	一つ	ひとつ	one (thing)	
-N5-0520	一人	ひとり	one person; alone	
-N5-0521	暇	ひま	free (time)	ひま
-N5-0522	百	ひゃく	hundred	
-N5-0523	病院	びょういん	hospital	
-N5-0524	病気	びょうき	illness; sick	
-N5-0525	ひらがな	ひらがな	hiragana	平仮名
-N5-0526	昼	ひる	noon; daytime	
-N5-0527	昼ご飯	ひるごはん	lunch	昼御飯/昼ごはん
-N5-0528	広い	ひろい	wide; spacious	
-N5-0529	封筒	ふうとう	envelope	
-N5-0530	プール	プール	swimming pool	
-N5-0531	フォーク	フォーク	fork	
-N5-0532	吹く	ふく	to blow	
-N5-0533	服	ふく	clothes	
-N5-0534	二つ	ふたつ	two (things)	
-N5-0535	豚肉	ぶたにく	pork	
-N5-0536	二人	ふたり	two people	
-N5-0537	二日	ふつか	the 2nd (of the month); two days	
-N5-0538	太い	ふとい	thick; fat	
-N5-0539	冬	ふゆ	winter	
-N5-0540	降る	ふる	to fall (rain, snow)	
-N5-0541	古い	ふるい	old (things)	
-N5-0542	文章	ぶんしょう	text; writing	
-N5-0543	ページ	ページ	page	
-N5-0544	下手	へた	unskillful; bad at	
-N5-0545	ベッド	ベッド	bed	
-N5-0546	ペット	ペット	pet	
-N5-0547	部屋	へや	room	
-N5-0548	辺	へん	area; around (here)	
-N5-0549	ペン	ペン	pen	
-N5-0550	勉強	べんきょう	study	
-N5-0551	便利	べんり	convenient	
-N5-0552	帽子	ぼうし	hat; cap	
-N5-0553	ボールペン	ボールペン	ballpoint pen	
-N5-0554	ほか	ほか	other; else	他
-N5-0555	ポケット	ポケット	pocket	
-N5-0556	欲しい	ほしい	to want (something)	
-N5-0557	ポスト	ポスト	mailbox	
-N5-0558	細い	ほそい	thin; slender	
-N5-0559	ボタン	ボタン	button	
-N5-0560	ホテル	ホテル	hotel	
-N5-0561	本	ほん	book	
-N5-0562	本棚	ほんだな	bookshelf	
-N5-0563	本当	ほんとう	true; real	
-N5-0564	毎朝	まいあさ	every morning	
-N5-0565	毎月	まいつき/まいげつ	every month	
-N5-0566	毎週	まいしゅう	every week	
-N5-0567	毎日	まいにち	every day	
-N5-0568	毎年	まいとし/まいねん	every year	
-N5-0569	毎晩	まいばん	every night	
-N5-0570	前	まえ	front; before	
-N5-0571	曲がる	まがる	to turn	
-N5-0572	まずい	まずい	bad-tasting	
-N5-0573	また	また	again	
-N5-0574	まだ	まだ	still; not yet	
-N5-0575	町	まち	town	
-N5-0576	待つ	まつ	to wait	
-N5-0577	まっすぐ	まっすぐ	straight (ahead)	
-N5-0578	窓	まど	window	
-N5-0579	丸い	まるい	round	円い
-N5-0580	万	まん	ten thousand	
-N5-0581	万年筆	まんねんひつ	fountain pen	
-N5-0582	磨く	みがく	to brush (teeth); to polish	みがく
-N5-0583	右	みぎ	right	
-N5-0584	短い	みじかい	short (length)	
-N5-0585	水	みず	water	
-N5-0586	店	みせ	shop; store	
-N5-0587	見せる	みせる	to show	
-N5-0588	道	みち	road; way	
-N5-0589	三日	みっか	the 3rd (of the month); three days	
-N5-0590	三つ	みっつ	three (things)	
-N5-0591	緑	みどり	green	
-N5-0592	皆さん	みなさん	everyone (polite)	みなさん
-N5-0593	南	みなみ	south	
-N5-0594	耳	みみ	ear	
-N5-0595	見る	みる	to see; to watch	
-N5-0596	みんな	みんな	everyone; all	
-N5-0597	六日	むいか	the 6th (of the month); six days	
-N5-0598	向こう	むこう	over there; the other side	
-N5-0599	難しい	むずかしい	difficult	
-N5-0600	六つ	むっつ	six (things)	
-N5-0601	村	むら	village	
-N5-0602	目	め	eye	
-N5-0603	メートル	メートル	meter	
-N5-0604	眼鏡	めがね	glasses	めがね/メガネ
-N5-0605	もう	もう	already; more	
-N5-0606	木曜日	もくようび	Thursday	
-N5-0607	もしもし	もしもし	hello (on the phone)	
-N5-0608	持つ	もつ	to hold; to carry	
-N5-0609	もっと	もっと	more	
-N5-0610	物	もの	thing	もの
-N5-0611	門	もん	gate	
-N5-0612	問題	もんだい	problem; question	
-N5-0613	八百屋	やおや	greengrocer	
-N5-0614	野菜	やさい	vegetables	
-N5-0615	易しい	やさしい	easy	
-N5-0616	安い	やすい	cheap	
-N5-0617	休み	やすみ	day off; holiday; break	
-N5-0618	休む	やすむ	to rest; to take time off	
-N5-0619	八つ	やっつ	eight (things)	
-N5-0620	山	やま	mountain	
-N5-0621	やる	やる	to do (casual)	
-N5-0622	夕方	ゆうがた	evening; late afternoon	
-N5-0623	夕飯	ゆうはん	dinner	
-N5-0624	郵便局	ゆうびんきょく	post office	
-N5-0625	ゆうべ	ゆうべ	last night	夕べ/昨夜
-N5-0626	有名	ゆうめい	famous	
-N5-0627	雪	ゆき	snow	
-N5-0628	ゆっくり	ゆっくり	slowly; at ease	
-N5-0629	八日	ようか	the 8th (of the month); eight days	
-N5-0630	洋服	ようふく	clothes (Western-style)	
-N5-0631	よく	よく	often; well	
-N5-0632	横	よこ	side; beside	
-N5-0633	四日	よっか	the 4th (of the month); four days	
-N5-0634	四つ	よっつ	four (things)	
-N5-0635	呼ぶ	よぶ	to call; to invite	
-N5-0636	読む	よむ	to read	
-N5-0637	夜	よる	night	
-N5-0638	弱い	よわい	weak	
-N5-0639	来月	らいげつ	next month	
-N5-0640	来週	らいしゅう	next week	
-N5-0641	来年	らいねん	next year	
-N5-0642	ラジオ	ラジオ	radio	
-N5-0643	立派	りっぱ	splendid; fine	りっぱ
-N5-0644	留学生	りゅうがくせい	international student	
-N5-0645	両親	りょうしん	parents	
-N5-0646	料理	りょうり	cooking; dish	
-N5-0647	旅行	りょこう	travel; trip	
-N5-0648	冷蔵庫	れいぞうこ	refrigerator	
-N5-0649	レストラン	レストラン	restaurant	
-N5-0650	練習	れんしゅう	practice	
-N5-0651	廊下	ろうか	hallway	
-N5-0652	六	ろく	six	
-N5-0653	ワイシャツ	ワイシャツ	dress shirt	
-N5-0654	若い	わかい	young	
-N5-0655	分かる	わかる	to understand	わかる
-N5-0656	忘れる	わすれる	to forget	
-N5-0657	私	わたし/わたくし	I; me	
-N5-0658	渡す	わたす	to hand over	
-N5-0659	渡る	わたる	to cross	
-N5-0660	悪い	わるい	bad	
+id	word	kana	meaning	also	category
+N5-0001	はい	はい	yes		Greetings & small words
+N5-0002	いいえ	いいえ	no		Greetings & small words
+N5-0003	ええ	ええ	yes (casual)		Greetings & small words
+N5-0004	ああ	ああ	ah; oh		Greetings & small words
+N5-0005	さあ	さあ	well; come on		Greetings & small words
+N5-0006	どうも	どうも	thanks		Greetings & small words
+N5-0007	どうぞ	どうぞ	please (go ahead)		Greetings & small words
+N5-0008	もしもし	もしもし	hello (on the phone)		Greetings & small words
+N5-0009	じゃあ	じゃあ	well then	じゃ	Greetings & small words
+N5-0010	では	では	well then		Greetings & small words
+N5-0011	それでは	それでは	well then; in that case		Greetings & small words
+N5-0012	そう	そう	so; that way		Greetings & small words
+N5-0013	ください	ください	please (give me)	下さい	Greetings & small words
+N5-0014	結構	けっこう	fine; no thank you; quite		Greetings & small words
+N5-0015	大丈夫	だいじょうぶ	all right; OK		Greetings & small words
+N5-0016	しかし	しかし	however		Greetings & small words
+N5-0017	そして	そして	and; and then		Greetings & small words
+N5-0018	それから	それから	after that; and then		Greetings & small words
+N5-0019	でも	でも	but		Greetings & small words
+N5-0020	これ	これ	this (one)		This, that, which
+N5-0021	それ	それ	that one (near you)		This, that, which
+N5-0022	あれ	あれ	that one (over there)		This, that, which
+N5-0023	どれ	どれ	which one		This, that, which
+N5-0024	この	この	this (before a noun)		This, that, which
+N5-0025	その	その	that (near you, before a noun)		This, that, which
+N5-0026	あの	あの	that (over there, before a noun)		This, that, which
+N5-0027	どの	どの	which (before a noun)		This, that, which
+N5-0028	ここ	ここ	here		This, that, which
+N5-0029	そこ	そこ	there (near you)		This, that, which
+N5-0030	あそこ	あそこ	over there		This, that, which
+N5-0031	どこ	どこ	where		This, that, which
+N5-0032	こちら	こちら	this way; this (person, polite)		This, that, which
+N5-0033	そちら	そちら	that way; there (polite)		This, that, which
+N5-0034	あちら	あちら	that way; over there (polite)		This, that, which
+N5-0035	どちら	どちら	which (polite); where (polite)		This, that, which
+N5-0036	こっち	こっち	this way; here (casual)		This, that, which
+N5-0037	そっち	そっち	that way; there (casual)		This, that, which
+N5-0038	あっち	あっち	over there (casual)		This, that, which
+N5-0039	どっち	どっち	which (casual)		This, that, which
+N5-0040	こんな	こんな	this kind of; like this		This, that, which
+N5-0041	どんな	どんな	what kind of		This, that, which
+N5-0042	何	なに/なん	what		Question words
+N5-0043	誰	だれ	who	だれ	Question words
+N5-0044	誰か	だれか	someone	だれか	Question words
+N5-0045	どなた	どなた	who (polite)		Question words
+N5-0046	いつ	いつ	when		Question words
+N5-0047	いくつ	いくつ	how many; how old		Question words
+N5-0048	いくら	いくら	how much (price)		Question words
+N5-0049	どう	どう	how		Question words
+N5-0050	どうして	どうして	why		Question words
+N5-0051	なぜ	なぜ	why		Question words
+N5-0052	いかが	いかが	how about (polite)		Question words
+N5-0053	ゼロ	ゼロ	zero		Numbers & counting
+N5-0054	一	いち	one		Numbers & counting
+N5-0055	二	に	two		Numbers & counting
+N5-0056	三	さん	three		Numbers & counting
+N5-0057	四	し/よん	four		Numbers & counting
+N5-0058	五	ご	five		Numbers & counting
+N5-0059	六	ろく	six		Numbers & counting
+N5-0060	七	しち/なな	seven		Numbers & counting
+N5-0061	八	はち	eight		Numbers & counting
+N5-0062	九	きゅう/く	nine		Numbers & counting
+N5-0063	十	じゅう/とお	ten		Numbers & counting
+N5-0064	百	ひゃく	hundred		Numbers & counting
+N5-0065	千	せん	thousand		Numbers & counting
+N5-0066	万	まん	ten thousand		Numbers & counting
+N5-0067	一つ	ひとつ	one (thing)		Numbers & counting
+N5-0068	二つ	ふたつ	two (things)		Numbers & counting
+N5-0069	三つ	みっつ	three (things)		Numbers & counting
+N5-0070	四つ	よっつ	four (things)		Numbers & counting
+N5-0071	五つ	いつつ	five (things)		Numbers & counting
+N5-0072	六つ	むっつ	six (things)		Numbers & counting
+N5-0073	七つ	ななつ	seven (things)		Numbers & counting
+N5-0074	八つ	やっつ	eight (things)		Numbers & counting
+N5-0075	九つ	ここのつ	nine (things)		Numbers & counting
+N5-0076	一人	ひとり	one person; alone		Numbers & counting
+N5-0077	二人	ふたり	two people		Numbers & counting
+N5-0078	半	はん	half; half past		Numbers & counting
+N5-0079	半分	はんぶん	half		Numbers & counting
+N5-0080	全部	ぜんぶ	all; everything		Numbers & counting
+N5-0081	番号	ばんごう	number		Numbers & counting
+N5-0082	キロ	キロ	kilo (gram or meter)	キログラム/キロメートル	Numbers & counting
+N5-0083	グラム	グラム	gram		Numbers & counting
+N5-0084	メートル	メートル	meter		Numbers & counting
+N5-0085	ページ	ページ	page		Numbers & counting
+N5-0086	二十歳	はたち	20 years old		Numbers & counting
+N5-0087	月曜日	げつようび	Monday		Days & dates
+N5-0088	火曜日	かようび	Tuesday		Days & dates
+N5-0089	水曜日	すいようび	Wednesday		Days & dates
+N5-0090	木曜日	もくようび	Thursday		Days & dates
+N5-0091	金曜日	きんようび	Friday		Days & dates
+N5-0092	土曜日	どようび	Saturday		Days & dates
+N5-0093	日曜日	にちようび	Sunday		Days & dates
+N5-0094	一日	ついたち	the 1st (of the month)		Days & dates
+N5-0095	二日	ふつか	the 2nd (of the month); two days		Days & dates
+N5-0096	三日	みっか	the 3rd (of the month); three days		Days & dates
+N5-0097	四日	よっか	the 4th (of the month); four days		Days & dates
+N5-0098	五日	いつか	the 5th (of the month); five days		Days & dates
+N5-0099	六日	むいか	the 6th (of the month); six days		Days & dates
+N5-0100	七日	なのか	the 7th (of the month); seven days		Days & dates
+N5-0101	八日	ようか	the 8th (of the month); eight days		Days & dates
+N5-0102	九日	ここのか	the 9th (of the month); nine days		Days & dates
+N5-0103	十日	とおか	the 10th (of the month); ten days		Days & dates
+N5-0104	二十日	はつか	the 20th (of the month); twenty days		Days & dates
+N5-0105	誕生日	たんじょうび	birthday		Days & dates
+N5-0106	休み	やすみ	day off; holiday; break		Days & dates
+N5-0107	夏休み	なつやすみ	summer vacation		Days & dates
+N5-0108	カレンダー	カレンダー	calendar		Days & dates
+N5-0109	今	いま	now		Time
+N5-0110	今日	きょう	today		Time
+N5-0111	明日	あした/あす	tomorrow		Time
+N5-0112	昨日	きのう	yesterday		Time
+N5-0113	あさって	あさって	the day after tomorrow	明後日	Time
+N5-0114	おととい	おととい	the day before yesterday	一昨日	Time
+N5-0115	朝	あさ	morning		Time
+N5-0116	昼	ひる	noon; daytime		Time
+N5-0117	晩	ばん	evening; night		Time
+N5-0118	夜	よる	night		Time
+N5-0119	夕方	ゆうがた	evening; late afternoon		Time
+N5-0120	今朝	けさ	this morning		Time
+N5-0121	今晩	こんばん	tonight		Time
+N5-0122	ゆうべ	ゆうべ	last night	夕べ/昨夜	Time
+N5-0123	午前	ごぜん	morning; a.m.		Time
+N5-0124	午後	ごご	afternoon; p.m.		Time
+N5-0125	先週	せんしゅう	last week		Time
+N5-0126	今週	こんしゅう	this week		Time
+N5-0127	来週	らいしゅう	next week		Time
+N5-0128	先月	せんげつ	last month		Time
+N5-0129	今月	こんげつ	this month		Time
+N5-0130	来月	らいげつ	next month		Time
+N5-0131	去年	きょねん	last year		Time
+N5-0132	今年	ことし	this year		Time
+N5-0133	来年	らいねん	next year		Time
+N5-0134	おととし	おととし	the year before last	一昨年	Time
+N5-0135	再来年	さらいねん	the year after next	さ来年	Time
+N5-0136	毎朝	まいあさ	every morning		Time
+N5-0137	毎晩	まいばん	every night		Time
+N5-0138	毎日	まいにち	every day		Time
+N5-0139	毎週	まいしゅう	every week		Time
+N5-0140	毎月	まいつき/まいげつ	every month		Time
+N5-0141	毎年	まいとし/まいねん	every year		Time
+N5-0142	時間	じかん	time		Time
+N5-0143	一日	いちにち	one day; all day		Time
+N5-0144	年	とし	year; age		Time
+N5-0145	後	あと	after; later		Time
+N5-0146	前	まえ	front; before		Time
+N5-0147	先	さき	ahead; first; earlier		Time
+N5-0148	次	つぎ	next		Time
+N5-0149	初め	はじめ	beginning	始め	Time
+N5-0150	初めて	はじめて	for the first time		Time
+N5-0151	いつも	いつも	always		How often, how much
+N5-0152	時々	ときどき	sometimes	ときどき	How often, how much
+N5-0153	よく	よく	often; well		How often, how much
+N5-0154	まだ	まだ	still; not yet		How often, how much
+N5-0155	もう	もう	already; more		How often, how much
+N5-0156	すぐ	すぐ	right away; soon	すぐに	How often, how much
+N5-0157	また	また	again		How often, how much
+N5-0158	とても	とても	very		How often, how much
+N5-0159	あまり	あまり	not very (with a negative)	余り	How often, how much
+N5-0160	少し	すこし	a little		How often, how much
+N5-0161	ちょっと	ちょっと	a little; a moment		How often, how much
+N5-0162	たくさん	たくさん	a lot; many	沢山	How often, how much
+N5-0163	もっと	もっと	more		How often, how much
+N5-0164	一番	いちばん	number one; the most		How often, how much
+N5-0165	多分	たぶん	probably; maybe	たぶん	How often, how much
+N5-0166	ちょうど	ちょうど	exactly; just	丁度	How often, how much
+N5-0167	本当	ほんとう	true; real		How often, how much
+N5-0168	だんだん	だんだん	gradually	段々	How often, how much
+N5-0169	ゆっくり	ゆっくり	slowly; at ease		How often, how much
+N5-0170	まっすぐ	まっすぐ	straight (ahead)		How often, how much
+N5-0171	一緒	いっしょ	together	いっしょ	How often, how much
+N5-0172	大勢	おおぜい	many people; a crowd		How often, how much
+N5-0173	みんな	みんな	everyone; all		How often, how much
+N5-0174	皆さん	みなさん	everyone (polite)	みなさん	How often, how much
+N5-0175	自分	じぶん	oneself		How often, how much
+N5-0176	ほか	ほか	other; else	他	How often, how much
+N5-0177	同じ	おなじ	same		How often, how much
+N5-0178	いろいろ	いろいろ	various	色々	How often, how much
+N5-0179	私	わたし/わたくし	I; me		People & family
+N5-0180	あなた	あなた	you		People & family
+N5-0181	人	ひと	person		People & family
+N5-0182	方	かた	person (polite)		People & family
+N5-0183	男	おとこ	man; male		People & family
+N5-0184	女	おんな	woman; female		People & family
+N5-0185	男の子	おとこのこ	boy		People & family
+N5-0186	女の子	おんなのこ	girl		People & family
+N5-0187	子供	こども	child	子ども	People & family
+N5-0188	大人	おとな	adult		People & family
+N5-0189	友達	ともだち	friend	友だち	People & family
+N5-0190	名前	なまえ	name		People & family
+N5-0191	家族	かぞく	family		People & family
+N5-0192	両親	りょうしん	parents		People & family
+N5-0193	父	ちち	(my) father		People & family
+N5-0194	母	はは	(my) mother		People & family
+N5-0195	お父さん	おとうさん	father (polite)		People & family
+N5-0196	お母さん	おかあさん	mother (polite)		People & family
+N5-0197	兄	あに	(my) older brother		People & family
+N5-0198	姉	あね	(my) older sister		People & family
+N5-0199	弟	おとうと	(my) younger brother		People & family
+N5-0200	妹	いもうと	(my) younger sister		People & family
+N5-0201	お兄さん	おにいさん	older brother (polite)		People & family
+N5-0202	お姉さん	おねえさん	older sister (polite)		People & family
+N5-0203	兄弟	きょうだい	siblings		People & family
+N5-0204	おじいさん	おじいさん	grandfather; old man	お祖父さん	People & family
+N5-0205	おばあさん	おばあさん	grandmother; old woman	お祖母さん	People & family
+N5-0206	おじさん	おじさん	uncle; middle-aged man	伯父さん/叔父さん	People & family
+N5-0207	おばさん	おばさん	aunt; middle-aged woman	伯母さん/叔母さん	People & family
+N5-0208	奥さん	おくさん	(someone's) wife		People & family
+N5-0209	結婚	けっこん	marriage		People & family
+N5-0210	外国人	がいこくじん	foreigner		People & family
+N5-0211	留学生	りゅうがくせい	international student		People & family
+N5-0212	先生	せんせい	teacher		People & family
+N5-0213	学生	がくせい	student		People & family
+N5-0214	生徒	せいと	pupil (at school)		People & family
+N5-0215	医者	いしゃ	doctor		People & family
+N5-0216	警官	けいかん	police officer		People & family
+N5-0217	おまわりさん	おまわりさん	police officer (friendly)	お巡りさん	People & family
+N5-0218	体	からだ	body		Body & health
+N5-0219	頭	あたま	head		Body & health
+N5-0220	顔	かお	face		Body & health
+N5-0221	目	め	eye		Body & health
+N5-0222	耳	みみ	ear		Body & health
+N5-0223	鼻	はな	nose		Body & health
+N5-0224	口	くち	mouth		Body & health
+N5-0225	歯	は	tooth		Body & health
+N5-0226	手	て	hand		Body & health
+N5-0227	足	あし	foot; leg	脚	Body & health
+N5-0228	おなか	おなか	stomach; belly	お腹	Body & health
+N5-0229	背	せ/せい	height (of a person)		Body & health
+N5-0230	声	こえ	voice		Body & health
+N5-0231	病気	びょうき	illness; sick		Body & health
+N5-0232	風邪	かぜ	a cold (illness)		Body & health
+N5-0233	薬	くすり	medicine		Body & health
+N5-0234	病院	びょういん	hospital		Body & health
+N5-0235	元気	げんき	well; healthy; energetic		Body & health
+N5-0236	痛い	いたい	painful; sore		Body & health
+N5-0237	ご飯	ごはん	cooked rice; meal	御飯/ごはん	Food & drink
+N5-0238	朝ご飯	あさごはん	breakfast	朝御飯/朝ごはん	Food & drink
+N5-0239	昼ご飯	ひるごはん	lunch	昼御飯/昼ごはん	Food & drink
+N5-0240	晩ご飯	ばんごはん	dinner	晩御飯/晩ごはん	Food & drink
+N5-0241	夕飯	ゆうはん	dinner		Food & drink
+N5-0242	お弁当	おべんとう	boxed lunch		Food & drink
+N5-0243	食べ物	たべもの	food		Food & drink
+N5-0244	飲み物	のみもの	drink		Food & drink
+N5-0245	料理	りょうり	cooking; dish		Food & drink
+N5-0246	肉	にく	meat		Food & drink
+N5-0247	牛肉	ぎゅうにく	beef		Food & drink
+N5-0248	豚肉	ぶたにく	pork		Food & drink
+N5-0249	鶏肉	とりにく	chicken (meat)	とり肉	Food & drink
+N5-0250	魚	さかな	fish		Food & drink
+N5-0251	卵	たまご	egg	玉子	Food & drink
+N5-0252	野菜	やさい	vegetables		Food & drink
+N5-0253	果物	くだもの	fruit		Food & drink
+N5-0254	パン	パン	bread		Food & drink
+N5-0255	バター	バター	butter		Food & drink
+N5-0256	カレー	カレー	curry		Food & drink
+N5-0257	お菓子	おかし	sweets; snacks		Food & drink
+N5-0258	飴	あめ	candy		Food & drink
+N5-0259	砂糖	さとう	sugar		Food & drink
+N5-0260	塩	しお	salt		Food & drink
+N5-0261	しょうゆ	しょうゆ	soy sauce	醤油	Food & drink
+N5-0262	水	みず	water		Food & drink
+N5-0263	お茶	おちゃ	(green) tea		Food & drink
+N5-0264	紅茶	こうちゃ	black tea		Food & drink
+N5-0265	コーヒー	コーヒー	coffee		Food & drink
+N5-0266	牛乳	ぎゅうにゅう	milk		Food & drink
+N5-0267	お酒	おさけ	alcohol; sake		Food & drink
+N5-0268	たばこ	たばこ	cigarettes; tobacco	タバコ	Food & drink
+N5-0269	おいしい	おいしい	delicious	美味しい	Food & drink
+N5-0270	まずい	まずい	bad-tasting		Food & drink
+N5-0271	甘い	あまい	sweet		Food & drink
+N5-0272	辛い	からい	spicy		Food & drink
+N5-0273	お皿	おさら	plate; dish		Kitchen & table
+N5-0274	茶碗	ちゃわん	rice bowl	茶わん	Kitchen & table
+N5-0275	カップ	カップ	cup; mug		Kitchen & table
+N5-0276	コップ	コップ	glass (for drinking)		Kitchen & table
+N5-0277	箸	はし	chopsticks		Kitchen & table
+N5-0278	スプーン	スプーン	spoon		Kitchen & table
+N5-0279	フォーク	フォーク	fork		Kitchen & table
+N5-0280	ナイフ	ナイフ	knife		Kitchen & table
+N5-0281	冷蔵庫	れいぞうこ	refrigerator		Kitchen & table
+N5-0282	台所	だいどころ	kitchen		Kitchen & table
+N5-0283	テーブル	テーブル	table		Kitchen & table
+N5-0284	家	いえ	house; home		Home
+N5-0285	うち	うち	home; my house		Home
+N5-0286	部屋	へや	room		Home
+N5-0287	玄関	げんかん	entryway (of a house)		Home
+N5-0288	廊下	ろうか	hallway		Home
+N5-0289	階段	かいだん	stairs		Home
+N5-0290	窓	まど	window		Home
+N5-0291	戸	と	door (sliding)		Home
+N5-0292	ドア	ドア	door		Home
+N5-0293	門	もん	gate		Home
+N5-0294	庭	にわ	garden; yard		Home
+N5-0295	お風呂	おふろ	bath	おふろ	Home
+N5-0296	シャワー	シャワー	shower		Home
+N5-0297	トイレ	トイレ	toilet; restroom		Home
+N5-0298	お手洗い	おてあらい	restroom		Home
+N5-0299	椅子	いす	chair	いす/イス	Home
+N5-0300	机	つくえ	desk		Home
+N5-0301	ベッド	ベッド	bed		Home
+N5-0302	本棚	ほんだな	bookshelf		Home
+N5-0303	花瓶	かびん	vase		Home
+N5-0304	テレビ	テレビ	TV		Home
+N5-0305	ラジオ	ラジオ	radio		Home
+N5-0306	電気	でんき	electricity; light		Home
+N5-0307	ストーブ	ストーブ	heater		Home
+N5-0308	電話	でんわ	telephone		Home
+N5-0309	せっけん	せっけん	soap	石鹸	Home
+N5-0310	家庭	かてい	household; home		Home
+N5-0311	アパート	アパート	apartment		Home
+N5-0312	エレベーター	エレベーター	elevator		Home
+N5-0313	入口	いりぐち	entrance	入り口	Home
+N5-0314	出口	でぐち	exit		Home
+N5-0315	服	ふく	clothes		Clothes
+N5-0316	洋服	ようふく	clothes (Western-style)		Clothes
+N5-0317	上着	うわぎ	jacket		Clothes
+N5-0318	コート	コート	coat		Clothes
+N5-0319	セーター	セーター	sweater		Clothes
+N5-0320	シャツ	シャツ	shirt		Clothes
+N5-0321	ワイシャツ	ワイシャツ	dress shirt		Clothes
+N5-0322	背広	せびろ	men's suit		Clothes
+N5-0323	ネクタイ	ネクタイ	necktie		Clothes
+N5-0324	スカート	スカート	skirt		Clothes
+N5-0325	ズボン	ズボン	trousers		Clothes
+N5-0326	靴	くつ	shoes		Clothes
+N5-0327	靴下	くつした	socks		Clothes
+N5-0328	帽子	ぼうし	hat; cap		Clothes
+N5-0329	眼鏡	めがね	glasses	めがね/メガネ	Clothes
+N5-0330	ポケット	ポケット	pocket		Clothes
+N5-0331	ボタン	ボタン	button		Clothes
+N5-0332	ハンカチ	ハンカチ	handkerchief		Clothes
+N5-0333	かばん	かばん	bag	鞄/カバン	Things you carry
+N5-0334	財布	さいふ	wallet		Things you carry
+N5-0335	お金	おかね	money		Things you carry
+N5-0336	鍵	かぎ	key; lock	かぎ	Things you carry
+N5-0337	傘	かさ	umbrella	かさ	Things you carry
+N5-0338	時計	とけい	clock; watch		Things you carry
+N5-0339	カメラ	カメラ	camera		Things you carry
+N5-0340	荷物	にもつ	luggage; package		Things you carry
+N5-0341	箱	はこ	box		Things you carry
+N5-0342	物	もの	thing	もの	Things you carry
+N5-0343	ペン	ペン	pen		Things you carry
+N5-0344	ボールペン	ボールペン	ballpoint pen		Things you carry
+N5-0345	鉛筆	えんぴつ	pencil		Things you carry
+N5-0346	万年筆	まんねんひつ	fountain pen		Things you carry
+N5-0347	紙	かみ	paper		Things you carry
+N5-0348	ノート	ノート	notebook		Things you carry
+N5-0349	手紙	てがみ	letter		Things you carry
+N5-0350	はがき	はがき	postcard	葉書	Things you carry
+N5-0351	封筒	ふうとう	envelope		Things you carry
+N5-0352	切手	きって	postage stamp		Things you carry
+N5-0353	ポスト	ポスト	mailbox		Things you carry
+N5-0354	新聞	しんぶん	newspaper		Things you carry
+N5-0355	雑誌	ざっし	magazine		Things you carry
+N5-0356	本	ほん	book		Things you carry
+N5-0357	辞書	じしょ	dictionary		Things you carry
+N5-0358	地図	ちず	map		Things you carry
+N5-0359	写真	しゃしん	photo		Things you carry
+N5-0360	コピー	コピー	copy		Things you carry
+N5-0361	学校	がっこう	school		School & language
+N5-0362	大学	だいがく	university		School & language
+N5-0363	教室	きょうしつ	classroom		School & language
+N5-0364	クラス	クラス	class (group of students)		School & language
+N5-0365	授業	じゅぎょう	class; lesson		School & language
+N5-0366	宿題	しゅくだい	homework		School & language
+N5-0367	テスト	テスト	test		School & language
+N5-0368	質問	しつもん	question		School & language
+N5-0369	問題	もんだい	problem; question		School & language
+N5-0370	勉強	べんきょう	study		School & language
+N5-0371	練習	れんしゅう	practice		School & language
+N5-0372	作文	さくぶん	essay; composition		School & language
+N5-0373	文章	ぶんしょう	text; writing		School & language
+N5-0374	言葉	ことば	word; language		School & language
+N5-0375	意味	いみ	meaning		School & language
+N5-0376	英語	えいご	English (language)		School & language
+N5-0377	漢字	かんじ	kanji		School & language
+N5-0378	ひらがな	ひらがな	hiragana	平仮名	School & language
+N5-0379	カタカナ	かたかな	katakana	片仮名/かたかな	School & language
+N5-0380	図書館	としょかん	library		School & language
+N5-0381	食堂	しょくどう	cafeteria; dining hall		School & language
+N5-0382	町	まち	town		Town & places
+N5-0383	村	むら	village		Town & places
+N5-0384	国	くに	country		Town & places
+N5-0385	外国	がいこく	foreign country		Town & places
+N5-0386	所	ところ	place	ところ	Town & places
+N5-0387	辺	へん	area; around (here)		Town & places
+N5-0388	店	みせ	shop; store		Town & places
+N5-0389	デパート	デパート	department store		Town & places
+N5-0390	喫茶店	きっさてん	café		Town & places
+N5-0391	レストラン	レストラン	restaurant		Town & places
+N5-0392	八百屋	やおや	greengrocer		Town & places
+N5-0393	銀行	ぎんこう	bank		Town & places
+N5-0394	郵便局	ゆうびんきょく	post office		Town & places
+N5-0395	会社	かいしゃ	company; office		Town & places
+N5-0396	仕事	しごと	work; job		Town & places
+N5-0397	ホテル	ホテル	hotel		Town & places
+N5-0398	映画館	えいがかん	movie theater		Town & places
+N5-0399	公園	こうえん	park		Town & places
+N5-0400	池	いけ	pond		Town & places
+N5-0401	プール	プール	swimming pool		Town & places
+N5-0402	交番	こうばん	police box		Town & places
+N5-0403	大使館	たいしかん	embassy		Town & places
+N5-0404	建物	たてもの	building		Town & places
+N5-0405	駅	えき	station		Getting around
+N5-0406	電車	でんしゃ	train		Getting around
+N5-0407	地下鉄	ちかてつ	subway		Getting around
+N5-0408	バス	バス	bus		Getting around
+N5-0409	タクシー	タクシー	taxi		Getting around
+N5-0410	車	くるま	car		Getting around
+N5-0411	自動車	じどうしゃ	automobile		Getting around
+N5-0412	自転車	じてんしゃ	bicycle		Getting around
+N5-0413	飛行機	ひこうき	airplane		Getting around
+N5-0414	切符	きっぷ	ticket		Getting around
+N5-0415	道	みち	road; way		Getting around
+N5-0416	角	かど	corner		Getting around
+N5-0417	交差点	こうさてん	intersection		Getting around
+N5-0418	橋	はし	bridge		Getting around
+N5-0419	旅行	りょこう	travel; trip		Getting around
+N5-0420	散歩	さんぽ	walk; stroll		Getting around
+N5-0421	上	うえ	top; above; on		Getting around
+N5-0422	下	した	below; under		Getting around
+N5-0423	中	なか	inside; middle		Getting around
+N5-0424	外	そと	outside		Getting around
+N5-0425	右	みぎ	right		Getting around
+N5-0426	左	ひだり	left		Getting around
+N5-0427	後ろ	うしろ	behind; back		Getting around
+N5-0428	隣	となり	next to; next door		Getting around
+N5-0429	横	よこ	side; beside		Getting around
+N5-0430	近く	ちかく	nearby; the vicinity		Getting around
+N5-0431	そば	そば	beside; near		Getting around
+N5-0432	向こう	むこう	over there; the other side		Getting around
+N5-0433	北	きた	north		Getting around
+N5-0434	南	みなみ	south		Getting around
+N5-0435	東	ひがし	east		Getting around
+N5-0436	西	にし	west		Getting around
+N5-0437	音楽	おんがく	music		Free time
+N5-0438	歌	うた	song		Free time
+N5-0439	映画	えいが	movie		Free time
+N5-0440	ギター	ギター	guitar		Free time
+N5-0441	スポーツ	スポーツ	sports		Free time
+N5-0442	パーティー	パーティー	party		Free time
+N5-0443	買い物	かいもの	shopping		Free time
+N5-0444	洗濯	せんたく	laundry		Free time
+N5-0445	掃除	そうじ	cleaning		Free time
+N5-0446	ニュース	ニュース	news		Free time
+N5-0447	話	はなし	talk; story		Free time
+N5-0448	絵	え	picture; painting		Free time
+N5-0449	ペット	ペット	pet		Free time
+N5-0450	動物	どうぶつ	animal		Free time
+N5-0451	犬	いぬ	dog	イヌ	Free time
+N5-0452	猫	ねこ	cat	ネコ	Free time
+N5-0453	鳥	とり	bird		Free time
+N5-0454	天気	てんき	weather		Weather, seasons & nature
+N5-0455	晴れ	はれ	sunny weather		Weather, seasons & nature
+N5-0456	曇り	くもり	cloudy weather		Weather, seasons & nature
+N5-0457	雨	あめ	rain		Weather, seasons & nature
+N5-0458	雪	ゆき	snow		Weather, seasons & nature
+N5-0459	風	かぜ	wind		Weather, seasons & nature
+N5-0460	空	そら	sky		Weather, seasons & nature
+N5-0461	山	やま	mountain		Weather, seasons & nature
+N5-0462	川	かわ	river	河	Weather, seasons & nature
+N5-0463	海	うみ	sea; ocean		Weather, seasons & nature
+N5-0464	木	き	tree; wood		Weather, seasons & nature
+N5-0465	花	はな	flower		Weather, seasons & nature
+N5-0466	春	はる	spring		Weather, seasons & nature
+N5-0467	夏	なつ	summer		Weather, seasons & nature
+N5-0468	秋	あき	autumn; fall		Weather, seasons & nature
+N5-0469	冬	ふゆ	winter		Weather, seasons & nature
+N5-0470	暑い	あつい	hot (weather)		Weather, seasons & nature
+N5-0471	寒い	さむい	cold (weather)		Weather, seasons & nature
+N5-0472	暖かい	あたたかい	warm	温かい	Weather, seasons & nature
+N5-0473	涼しい	すずしい	cool (weather)		Weather, seasons & nature
+N5-0474	色	いろ	color		Colors
+N5-0475	赤	あか	red (noun)		Colors
+N5-0476	青	あお	blue (noun)		Colors
+N5-0477	白	しろ	white (noun)		Colors
+N5-0478	黒	くろ	black (noun)		Colors
+N5-0479	黄色	きいろ	yellow (noun)		Colors
+N5-0480	茶色	ちゃいろ	brown		Colors
+N5-0481	緑	みどり	green		Colors
+N5-0482	赤い	あかい	red		Colors
+N5-0483	青い	あおい	blue		Colors
+N5-0484	白い	しろい	white		Colors
+N5-0485	黒い	くろい	black		Colors
+N5-0486	黄色い	きいろい	yellow		Colors
+N5-0487	起きる	おきる	to get up; to wake up		Verbs: daily life
+N5-0488	寝る	ねる	to sleep; to go to bed		Verbs: daily life
+N5-0489	食べる	たべる	to eat		Verbs: daily life
+N5-0490	飲む	のむ	to drink		Verbs: daily life
+N5-0491	洗う	あらう	to wash		Verbs: daily life
+N5-0492	浴びる	あびる	to take (a shower)		Verbs: daily life
+N5-0493	磨く	みがく	to brush (teeth); to polish	みがく	Verbs: daily life
+N5-0494	着る	きる	to wear; to put on (shirts, coats)		Verbs: daily life
+N5-0495	脱ぐ	ぬぐ	to take off (clothes, shoes)		Verbs: daily life
+N5-0496	はく	はく	to put on (shoes, trousers, skirts)	履く/穿く	Verbs: daily life
+N5-0497	かぶる	かぶる	to put on (a hat)		Verbs: daily life
+N5-0498	締める	しめる	to tie; to fasten		Verbs: daily life
+N5-0499	作る	つくる	to make		Verbs: daily life
+N5-0500	買う	かう	to buy		Verbs: daily life
+N5-0501	売る	うる	to sell		Verbs: daily life
+N5-0502	使う	つかう	to use		Verbs: daily life
+N5-0503	住む	すむ	to live (somewhere)		Verbs: daily life
+N5-0504	働く	はたらく	to work		Verbs: daily life
+N5-0505	勤める	つとめる	to work for (a company)		Verbs: daily life
+N5-0506	休む	やすむ	to rest; to take time off		Verbs: daily life
+N5-0507	遊ぶ	あそぶ	to play; to hang out		Verbs: daily life
+N5-0508	疲れる	つかれる	to get tired		Verbs: daily life
+N5-0509	する	する	to do		Verbs: daily life
+N5-0510	やる	やる	to do (casual)		Verbs: daily life
+N5-0511	行く	いく/ゆく	to go		Verbs: coming & going
+N5-0512	来る	くる	to come		Verbs: coming & going
+N5-0513	帰る	かえる	to go home; to return		Verbs: coming & going
+N5-0514	出る	でる	to leave; to go out		Verbs: coming & going
+N5-0515	入る	はいる	to enter; to go in		Verbs: coming & going
+N5-0516	出かける	でかける	to go out		Verbs: coming & going
+N5-0517	着く	つく	to arrive		Verbs: coming & going
+N5-0518	歩く	あるく	to walk		Verbs: coming & going
+N5-0519	走る	はしる	to run		Verbs: coming & going
+N5-0520	乗る	のる	to ride; to get on		Verbs: coming & going
+N5-0521	降りる	おりる	to get off		Verbs: coming & going
+N5-0522	渡る	わたる	to cross		Verbs: coming & going
+N5-0523	曲がる	まがる	to turn		Verbs: coming & going
+N5-0524	止まる	とまる	to stop		Verbs: coming & going
+N5-0525	飛ぶ	とぶ	to fly		Verbs: coming & going
+N5-0526	泳ぐ	およぐ	to swim		Verbs: coming & going
+N5-0527	登る	のぼる	to climb		Verbs: coming & going
+N5-0528	会う	あう	to meet		Verbs: coming & going
+N5-0529	待つ	まつ	to wait		Verbs: coming & going
+N5-0530	立つ	たつ	to stand		Verbs: coming & going
+N5-0531	座る	すわる	to sit		Verbs: coming & going
+N5-0532	並ぶ	ならぶ	to line up; to stand in line		Verbs: coming & going
+N5-0533	言う	いう	to say		Verbs: talking & learning
+N5-0534	話す	はなす	to speak; to talk		Verbs: talking & learning
+N5-0535	聞く	きく	to listen; to hear; to ask		Verbs: talking & learning
+N5-0536	読む	よむ	to read		Verbs: talking & learning
+N5-0537	書く	かく	to write		Verbs: talking & learning
+N5-0538	見る	みる	to see; to watch		Verbs: talking & learning
+N5-0539	見せる	みせる	to show		Verbs: talking & learning
+N5-0540	教える	おしえる	to teach; to tell		Verbs: talking & learning
+N5-0541	習う	ならう	to learn (from someone); to take lessons		Verbs: talking & learning
+N5-0542	覚える	おぼえる	to memorize; to remember		Verbs: talking & learning
+N5-0543	忘れる	わすれる	to forget		Verbs: talking & learning
+N5-0544	分かる	わかる	to understand	わかる	Verbs: talking & learning
+N5-0545	知る	しる	to know; to find out		Verbs: talking & learning
+N5-0546	答える	こたえる	to answer		Verbs: talking & learning
+N5-0547	呼ぶ	よぶ	to call; to invite		Verbs: talking & learning
+N5-0548	頼む	たのむ	to ask (a favor); to order		Verbs: talking & learning
+N5-0549	歌う	うたう	to sing		Verbs: talking & learning
+N5-0550	ある	ある	to be; to exist (things)	有る/在る	Verbs: things & changes
+N5-0551	いる	いる	to be; to exist (people, animals)	居る	Verbs: things & changes
+N5-0552	要る	いる	to need		Verbs: things & changes
+N5-0553	ない	ない	to not exist; to not have	無い	Verbs: things & changes
+N5-0554	なる	なる	to become		Verbs: things & changes
+N5-0555	できる	できる	can; to be able to	出来る	Verbs: things & changes
+N5-0556	開く	あく	to open (by itself)		Verbs: things & changes
+N5-0557	開ける	あける	to open (something)		Verbs: things & changes
+N5-0558	閉まる	しまる	to close (by itself)		Verbs: things & changes
+N5-0559	閉める	しめる	to close (something)		Verbs: things & changes
+N5-0560	始まる	はじまる	to begin (by itself)		Verbs: things & changes
+N5-0561	終わる	おわる	to end; to finish	終る	Verbs: things & changes
+N5-0562	入れる	いれる	to put in		Verbs: things & changes
+N5-0563	出す	だす	to take out; to hand in; to send		Verbs: things & changes
+N5-0564	置く	おく	to put; to place		Verbs: things & changes
+N5-0565	取る	とる	to take; to pick up		Verbs: things & changes
+N5-0566	撮る	とる	to take (a photo)		Verbs: things & changes
+N5-0567	持つ	もつ	to hold; to carry		Verbs: things & changes
+N5-0568	貸す	かす	to lend		Verbs: things & changes
+N5-0569	借りる	かりる	to borrow		Verbs: things & changes
+N5-0570	返す	かえす	to give back; to return (something)		Verbs: things & changes
+N5-0571	渡す	わたす	to hand over		Verbs: things & changes
+N5-0572	上げる	あげる	to raise; to lift	あげる	Verbs: things & changes
+N5-0573	押す	おす	to push; to press		Verbs: things & changes
+N5-0574	引く	ひく	to pull		Verbs: things & changes
+N5-0575	弾く	ひく	to play (piano, guitar)		Verbs: things & changes
+N5-0576	切る	きる	to cut		Verbs: things & changes
+N5-0577	消える	きえる	to go out; to disappear		Verbs: things & changes
+N5-0578	消す	けす	to turn off; to erase		Verbs: things & changes
+N5-0579	つける	つける	to turn on (a light etc.)		Verbs: things & changes
+N5-0580	かける	かける	to make (a phone call); to hang; to wear (glasses)	掛ける	Verbs: things & changes
+N5-0581	かかる	かかる	to take (time, money)	掛かる	Verbs: things & changes
+N5-0582	さす	さす	to put up (an umbrella)	差す	Verbs: things & changes
+N5-0583	貼る	はる	to stick; to paste	はる	Verbs: things & changes
+N5-0584	並べる	ならべる	to line up (things); to arrange		Verbs: things & changes
+N5-0585	なくす	なくす	to lose (something)	無くす	Verbs: things & changes
+N5-0586	困る	こまる	to be in trouble; to be at a loss		Verbs: things & changes
+N5-0587	違う	ちがう	to be different; to be wrong		Verbs: things & changes
+N5-0588	生まれる	うまれる	to be born		Verbs: things & changes
+N5-0589	死ぬ	しぬ	to die		Verbs: things & changes
+N5-0590	咲く	さく	to bloom		Verbs: things & changes
+N5-0591	鳴く	なく	to cry; to chirp (animals)		Verbs: things & changes
+N5-0592	吹く	ふく	to blow		Verbs: things & changes
+N5-0593	降る	ふる	to fall (rain, snow)		Verbs: things & changes
+N5-0594	晴れる	はれる	to clear up (weather)		Verbs: things & changes
+N5-0595	曇る	くもる	to get cloudy		Verbs: things & changes
+N5-0596	吸う	すう	to smoke; to breathe in		Verbs: things & changes
+N5-0597	大きい	おおきい	big		Adjectives: size, shape & feel
+N5-0598	大きな	おおきな	big (before a noun)		Adjectives: size, shape & feel
+N5-0599	小さい	ちいさい	small		Adjectives: size, shape & feel
+N5-0600	小さな	ちいさな	small (before a noun)		Adjectives: size, shape & feel
+N5-0601	長い	ながい	long		Adjectives: size, shape & feel
+N5-0602	短い	みじかい	short (length)		Adjectives: size, shape & feel
+N5-0603	高い	たかい	expensive; tall; high		Adjectives: size, shape & feel
+N5-0604	低い	ひくい	low; short		Adjectives: size, shape & feel
+N5-0605	広い	ひろい	wide; spacious		Adjectives: size, shape & feel
+N5-0606	狭い	せまい	small (space); narrow		Adjectives: size, shape & feel
+N5-0607	太い	ふとい	thick; fat		Adjectives: size, shape & feel
+N5-0608	細い	ほそい	thin; slender		Adjectives: size, shape & feel
+N5-0609	厚い	あつい	thick		Adjectives: size, shape & feel
+N5-0610	薄い	うすい	thin; weak (taste)		Adjectives: size, shape & feel
+N5-0611	重い	おもい	heavy		Adjectives: size, shape & feel
+N5-0612	軽い	かるい	light (not heavy)		Adjectives: size, shape & feel
+N5-0613	丸い	まるい	round	円い	Adjectives: size, shape & feel
+N5-0614	多い	おおい	many; a lot		Adjectives: size, shape & feel
+N5-0615	少ない	すくない	few; little		Adjectives: size, shape & feel
+N5-0616	近い	ちかい	near; close		Adjectives: size, shape & feel
+N5-0617	遠い	とおい	far		Adjectives: size, shape & feel
+N5-0618	早い	はやい	early		Adjectives: size, shape & feel
+N5-0619	速い	はやい	fast		Adjectives: size, shape & feel
+N5-0620	遅い	おそい	slow; late		Adjectives: size, shape & feel
+N5-0621	新しい	あたらしい	new		Adjectives: size, shape & feel
+N5-0622	古い	ふるい	old (things)		Adjectives: size, shape & feel
+N5-0623	若い	わかい	young		Adjectives: size, shape & feel
+N5-0624	明るい	あかるい	bright; cheerful		Adjectives: size, shape & feel
+N5-0625	暗い	くらい	dark		Adjectives: size, shape & feel
+N5-0626	熱い	あつい	hot (to the touch)		Adjectives: size, shape & feel
+N5-0627	冷たい	つめたい	cold (to the touch)		Adjectives: size, shape & feel
+N5-0628	ぬるい	ぬるい	lukewarm	温い	Adjectives: size, shape & feel
+N5-0629	いい	いい/よい	good	良い/よい	Adjectives: good, bad & how it feels
+N5-0630	悪い	わるい	bad		Adjectives: good, bad & how it feels
+N5-0631	安い	やすい	cheap		Adjectives: good, bad & how it feels
+N5-0632	面白い	おもしろい	interesting; funny	おもしろい	Adjectives: good, bad & how it feels
+N5-0633	つまらない	つまらない	boring		Adjectives: good, bad & how it feels
+N5-0634	楽しい	たのしい	fun; enjoyable		Adjectives: good, bad & how it feels
+N5-0635	難しい	むずかしい	difficult		Adjectives: good, bad & how it feels
+N5-0636	易しい	やさしい	easy		Adjectives: good, bad & how it feels
+N5-0637	忙しい	いそがしい	busy		Adjectives: good, bad & how it feels
+N5-0638	危ない	あぶない	dangerous		Adjectives: good, bad & how it feels
+N5-0639	うるさい	うるさい	noisy; annoying		Adjectives: good, bad & how it feels
+N5-0640	汚い	きたない	dirty		Adjectives: good, bad & how it feels
+N5-0641	きれい	きれい	pretty; clean	綺麗	Adjectives: good, bad & how it feels
+N5-0642	かわいい	かわいい	cute	可愛い	Adjectives: good, bad & how it feels
+N5-0643	強い	つよい	strong		Adjectives: good, bad & how it feels
+N5-0644	弱い	よわい	weak		Adjectives: good, bad & how it feels
+N5-0645	静か	しずか	quiet		Adjectives: good, bad & how it feels
+N5-0646	にぎやか	にぎやか	lively; bustling	賑やか	Adjectives: good, bad & how it feels
+N5-0647	有名	ゆうめい	famous		Adjectives: good, bad & how it feels
+N5-0648	便利	べんり	convenient		Adjectives: good, bad & how it feels
+N5-0649	大切	たいせつ	important; precious		Adjectives: good, bad & how it feels
+N5-0650	大変	たいへん	tough; hard; very		Adjectives: good, bad & how it feels
+N5-0651	立派	りっぱ	splendid; fine	りっぱ	Adjectives: good, bad & how it feels
+N5-0652	丈夫	じょうぶ	strong; sturdy		Adjectives: good, bad & how it feels
+N5-0653	暇	ひま	free (time)	ひま	Adjectives: good, bad & how it feels
+N5-0654	好き	すき	liked; to like		Adjectives: good, bad & how it feels
+N5-0655	嫌い	きらい	disliked; to dislike		Adjectives: good, bad & how it feels
+N5-0656	大好き	だいすき	to love; really like		Adjectives: good, bad & how it feels
+N5-0657	嫌	いや	unpleasant; disliked	いや	Adjectives: good, bad & how it feels
+N5-0658	上手	じょうず	skillful; good at		Adjectives: good, bad & how it feels
+N5-0659	下手	へた	unskillful; bad at		Adjectives: good, bad & how it feels
+N5-0660	欲しい	ほしい	to want (something)		Adjectives: good, bad & how it feels

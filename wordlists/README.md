@@ -36,11 +36,12 @@ Tab-separated, UTF-8, one word per line:
 
 | column | meaning |
 |---|---|
-| `id` | `N5-0001` … in gojūon order |
+| `id` | `N5-0001` …, ordered by category |
 | `word` | the usual written form (kanji, or kana where kana is normal) |
 | `kana` | reading(s) in kana, `/`-separated (九 → `きゅう/く`) |
 | `meaning` | short English gloss; brackets tell apart same-meaning words (暑い "hot (weather)", 熱い "hot (to the touch)") |
 | `also` | other accepted spellings, `/`-separated (おいしい → `美味しい`) |
+| `category` | one of 26 topic groups (Food & drink, Verbs: coming & going…), so known words can be marked a group at a time |
 
 `jlpt_n5_sentences.tsv`: one hand-written example sentence per word, with the word in 【】,
 always in a form listed for that word (verbs and adjectives in dictionary form), plus an English translation.

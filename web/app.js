@@ -285,7 +285,6 @@ function emergencySkip() {
 function homeScreen() {
   const d = store.data;
   const known = words.filter((w) => store.state(w.id).known).length;
-  const unsorted = words.filter((w) => !store.state(w.id).sorted).length;
   const unlocked = d.unlockedUntil > Date.now();
 
   show(h('main', {},
@@ -300,9 +299,8 @@ function homeScreen() {
     h('section', { class: 'card' },
       h('h2', {}, `Words: ${known} of ${words.length} known`),
       known < MIN_KNOWN && h('p', { class: 'muted small' },
-        `Until you mark at least ${MIN_KNOWN} words, the quiz uses all N5 words.`),
-      h('a', { class: `button primary${unsorted ? '' : ' disabled'}`, href: unsorted ? '#sort' : null },
-        unsorted ? `Sort words (${unsorted} left)` : 'All words sorted'),
+        `The quiz only asks words marked as known. Until at least ${MIN_KNOWN} are marked, it uses all N5 words.`),
+      h('a', { class: 'button primary', href: '#words' }, 'Choose the words you know'),
       h('a', { class: 'button', href: '#list' }, 'Word list & search'),
       h('a', { class: 'button', href: '#practice' }, 'Practice now')),
 
@@ -357,14 +355,77 @@ function backup() {
     msg);
 }
 
-// ---------- Sorting words ----------
+// ---------- Choosing known words, by category ----------
 
-function sortScreen() {
+/** Category names in list order. */
+const categories = () => [...new Set(words.map((w) => w.category))];
+const inCategory = (i) => words.filter((w) => w.category === categories()[i]);
+const knownCount = (list) => list.filter((w) => store.state(w.id).known).length;
+
+function markAll(list, known) {
+  for (const w of list) store.update(w.id, { ...store.state(w.id), sorted: true, known });
+}
+
+function categoriesScreen() {
+  const rows = categories().map((name, i) => {
+    const list = inCategory(i);
+    const known = knownCount(list);
+    const all = known === list.length;
+    return h('li', {},
+      h('a', { href: `#words/${i}` },
+        h('span', { class: 'gloss' },
+          h('span', {}, name),
+          h('span', { class: 'muted small' }, `${known} of ${list.length} known`)),
+        h('span', { class: 'chev', 'aria-hidden': 'true' }, '›')),
+      h('button', {
+        class: `chip${all ? ' on' : ''}`,
+        onClick: () => {
+          const y = window.scrollY;
+          markAll(list, !all);
+          categoriesScreen();
+          window.scrollTo(0, y);
+        },
+      }, all ? '✓ Known' : 'Know all'));
+  });
+  show(h('main', {},
+    h('a', { class: 'link', href: '#' }, '← Back'),
+    h('h1', {}, 'Words you know'),
+    h('p', { class: 'muted' },
+      'Tap "Know all" for groups you already know, or open a group to tick single words. '
+      + 'The quiz only asks known words, so mark a few groups before starting.'),
+    h('p', { class: 'muted small' }, `${knownCount(words)} of ${words.length} known`),
+    h('ul', { class: 'cats' }, rows)));
+}
+
+function categoryScreen(i) {
+  const list = inCategory(i);
+  if (!list.length) { location.hash = '#words'; return; }
+  const count = h('p', { class: 'muted small' });
+  const ul = h('ul', { class: 'words' });
+  function render() {
+    count.textContent = `${knownCount(list)} of ${list.length} known`;
+    ul.replaceChildren(...list.map((w) => wordRow(w, render)));
+  }
+  show(h('main', {},
+    h('a', { class: 'link', href: '#words' }, '← All groups'),
+    h('h1', {}, categories()[i]),
+    count,
+    h('div', { class: 'row' },
+      h('button', { onClick: () => { markAll(list, true); render(); } }, 'Know all'),
+      h('button', { onClick: () => { markAll(list, false); render(); } }, 'Know none'),
+      h('a', { class: 'button', href: `#sort/${i}` }, 'One by one')),
+    ul));
+  render();
+}
+
+/** Shows the group's unsorted words one at a time: "Know it" or "Not yet". */
+function sortScreen(i) {
+  const list = inCategory(i);
   const history = [];
 
   function render() {
-    const word = words.find((w) => !store.state(w.id).sorted);
-    const sortedCount = words.filter((w) => store.state(w.id).sorted).length;
+    const word = list.find((w) => !store.state(w.id).sorted);
+    const sortedCount = list.filter((w) => store.state(w.id).sorted).length;
     const mark = (known) => {
       store.update(word.id, { ...store.state(word.id), sorted: true, known, due: 0 });
       history.push(word.id);
@@ -372,7 +433,7 @@ function sortScreen() {
     };
     show(h('main', { class: 'center' },
       h('p', { class: 'eyebrow' }, 'Do you know this word?'),
-      h('p', { class: 'muted small' }, `${sortedCount} / ${words.length}`),
+      h('p', { class: 'muted small' }, `${categories()[i]} · ${sortedCount} / ${list.length}`),
       word
         ? [
           h('p', { class: 'jp huge', lang: 'ja' }, word.word),
@@ -382,7 +443,7 @@ function sortScreen() {
             h('button', { class: 'tall', onClick: () => mark(false) }, 'Not yet'),
             h('button', { class: 'tall primary', onClick: () => mark(true) }, 'Know it')),
         ]
-        : [h('h2', {}, 'All words sorted!'), h('a', { class: 'button primary', href: '#' }, 'Back')],
+        : [h('h2', {}, 'Group done!'), h('a', { class: 'button primary', href: '#words' }, 'Back to groups')],
       history.length > 0 && h('button', {
         class: 'link',
         onClick: () => {
@@ -391,9 +452,27 @@ function sortScreen() {
           render();
         },
       }, 'Undo'),
-      h('a', { class: 'link', href: '#' }, 'Done for now')));
+      h('a', { class: 'link', href: `#words/${i}` }, 'Done for now')));
   }
   render();
+}
+
+/** One word with a "known" checkbox; tapping anywhere on the row toggles it. */
+function wordRow(w, onChange) {
+  const box = h('input', {
+    type: 'checkbox', checked: store.state(w.id).known, 'aria-label': 'known',
+    onChange: () => {
+      store.update(w.id, { ...store.state(w.id), known: box.checked, sorted: true });
+      onChange?.();
+    },
+  });
+  return h('li', {},
+    h('label', {},
+      h('span', { class: 'jp', lang: 'ja' }, w.word),
+      h('span', { class: 'gloss' },
+        w.word !== w.kana && h('span', { class: 'reading', lang: 'ja' }, w.readings.join('・')),
+        h('span', { class: 'muted' }, w.meaning)),
+      box));
 }
 
 // ---------- Word list ----------
@@ -423,20 +502,7 @@ function listScreen() {
       return (filter === 'all' || (filter === 'known') === known) && matches(w);
     });
     count.textContent = `${shown.length} words`;
-    list.replaceChildren(...shown.map((w) => {
-      const s = store.state(w.id);
-      const box = h('input', {
-        type: 'checkbox', checked: s.known, 'aria-label': 'known',
-        onChange: () => store.update(w.id, { ...store.state(w.id), known: box.checked, sorted: true }),
-      });
-      return h('li', {},
-        h('label', {},
-          h('span', { class: 'jp', lang: 'ja' }, w.word),
-          h('span', { class: 'gloss' },
-            w.word !== w.kana && h('span', { class: 'reading', lang: 'ja' }, w.readings.join('・')),
-            h('span', { class: 'muted' }, w.meaning)),
-          box));
-    }));
+    list.replaceChildren(...shown.map((w) => wordRow(w)));
   }
 
   show(h('main', {},
@@ -522,7 +588,9 @@ function setupScreen() {
 function route() {
   const page = location.hash.slice(1);
   if (page === 'gate') return gateScreen();
-  if (page === 'sort') return sortScreen();
+  if (page === 'words') return categoriesScreen();
+  if (/^words\/\d+$/.test(page)) return categoryScreen(Number(page.split('/')[1]));
+  if (/^sort\/\d+$/.test(page)) return sortScreen(Number(page.split('/')[1]));
   if (page === 'list') return listScreen();
   if (page === 'setup') return setupScreen();
   if (page === 'practice') {

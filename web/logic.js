@@ -3,10 +3,10 @@
 
 // ---------- Word lists ----------
 
-/** Lines are `id<TAB>word<TAB>kana<TAB>meaning<TAB>also`; kana and also are `/`-separated. */
+/** Lines are `id<TAB>word<TAB>kana<TAB>meaning<TAB>also<TAB>category`; kana and also are `/`-separated. */
 export function parseWords(tsv) {
   return lines(tsv).map((c) => {
-    const word = { id: c[0], word: c[1], kana: c[2], meaning: c[3] };
+    const word = { id: c[0], word: c[1], kana: c[2], meaning: c[3], category: c[5] || 'Other' };
     word.readings = split(c[2]);
     word.also = split(c[4] || '');
     /** Every way of writing this word that counts as a correct answer. */

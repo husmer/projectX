@@ -144,3 +144,10 @@ ul.words input { width: 22px; height: 22px; accent-color: var(--accent); }
 .guide ol, .guide ul { margin: 0; padding-left: 1.3em; display: flex; flex-direction: column; gap: 8px; }
 code { font-family: ui-monospace, Menlo, monospace; font-size: 0.9em; background: var(--bg); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
 code.block { display: block; padding: 8px; margin: 6px 0; }
+
+ul.cats { list-style: none; padding: 0; margin: 0; }
+ul.cats li { display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--line); }
+ul.cats a { flex: 1; display: flex; align-items: center; gap: 8px; padding: 12px 0; color: inherit; text-decoration: none; min-height: 56px; }
+ul.cats .gloss { flex: 1; display: flex; flex-direction: column; }
+ul.cats .chev { color: var(--muted); font-size: 1.4rem; }
+ul.cats .chip { white-space: nowrap; }

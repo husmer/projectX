@@ -20,6 +20,15 @@ test('word list is complete', () => {
   }
 });
 
+test('every word is in one of the categories', () => {
+  const cats = new Set(words.map((w) => w.category));
+  assert.ok(!cats.has('Other'));
+  assert.ok(cats.size >= 20 && cats.size <= 30, `${cats.size} categories`);
+  // The file is ordered by category, so each category is one contiguous block.
+  const order = words.map((w) => w.category).filter((c, i, a) => c !== a[i - 1]);
+  assert.equal(order.length, cats.size);
+});
+
 test('every word has a sentence that uses one of its forms', () => {
   const byId = new Map(words.map((w) => [w.id, w]));
   assert.equal(sentences.length, words.length);

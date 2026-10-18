@@ -34,7 +34,7 @@ opening Instagram runs a shortcut that opens the quiz in Safari unless it was un
 and passing the quiz runs a second shortcut that saves the unlock time and opens Instagram.
 
 Question types: English → Japanese (kana or kanji), kanji → reading (kana or romaji), and fill in the blank.
-The quiz also has sorting, the word list, practice mode, spaced repetition and the emergency skip.
+Known words are chosen by topic group (26 groups, "Know all" or tick single words); the quiz also has the word list, practice mode, spaced repetition and the emergency skip.
 
 The page is published to GitHub Pages by `.github/workflows/web.yml` from the default branch.
 The step-by-step Shortcuts setup is on the page itself (**Setup guide**).
