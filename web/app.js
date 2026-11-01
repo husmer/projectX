@@ -309,6 +309,10 @@ function homeScreen() {
       stepper(`Correct answers to open ${BLOCKED_APP}`, 'needed', 1, 10, 1),
       stepper(`${BLOCKED_APP} stays open for (minutes)`, 'unlockMinutes', 5, 120, 5),
       backup()),
+
+    h('p', { class: 'muted small' },
+      'Word list based on open-anki-jlpt-decks (MIT) and tanos.co.uk (CC BY). ',
+      h('a', { class: 'link', href: 'THIRD_PARTY_NOTICES.md' }, 'Credits & licenses')),
   ));
 }
 
@@ -344,15 +348,33 @@ function backup() {
       h('button', {
         onClick: () => {
           try {
-            const data = JSON.parse(box.value);
-            if (typeof data.states !== 'object') throw new Error();
-            store.data = { ...store.data, ...data };
+            store.data = { ...store.data, ...validBackup(JSON.parse(box.value)) };
             store.save();
             msg.textContent = 'Restored.';
           } catch { msg.textContent = "That doesn't look like a KotobaGate backup."; }
         },
       }, 'Restore')),
     msg);
+}
+
+/**
+ * Keeps only progress and settings from pasted backup text, with sane values.
+ * Never the shortcut name: a pasted backup must not change which shortcut the page runs.
+ */
+function validBackup(data) {
+  const states = data?.states;
+  if (!states || typeof states !== 'object' || Array.isArray(states)) throw new Error('no states');
+  const ids = new Set(words.map((w) => w.id));
+  const clean = {};
+  for (const [id, a] of Object.entries(states)) {
+    if (ids.has(id) && Array.isArray(a) && a.length === 4 && a.every(Number.isFinite)) clean[id] = a;
+  }
+  const int = (v, min, max, fallback) => (Number.isInteger(v) && v >= min && v <= max ? v : fallback);
+  return {
+    states: clean,
+    needed: int(data.needed, 1, 10, store.data.needed),
+    unlockMinutes: int(data.unlockMinutes, 5, 120, store.data.unlockMinutes),
+  };
 }
 
 // ---------- Choosing known words, by category ----------

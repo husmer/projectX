@@ -1,5 +1,7 @@
 # Word lists
 
+Licenses and credits for the sources: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
 ## `hsk1_2021.tsv` — New HSK (HSK 3.0, 2021) Level 1
 
 The 500 Level-1 words from the official 2021 standard
