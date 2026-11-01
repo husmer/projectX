@@ -13,12 +13,17 @@ const SKIP_WAIT_SECONDS = 30;
 
 const KEY = 'kotobagate';
 const store = {
-  data: { states: {}, needed: 3, unlockMinutes: 15, shortcut: 'KotobaGate Unlock', unlockedUntil: 0 },
+  data: {
+    states: {}, needed: 3, unlockMinutes: 15, shortcut: 'KotobaGate Unlock', unlockedUntil: 0,
+    // Recently shown words and sentences, so a new quiz doesn't repeat what the last one just asked.
+    recent: [], recentSentences: [],
+  },
 
   load() {
     try {
       const saved = JSON.parse(localStorage.getItem(KEY) || '{}');
       Object.assign(this.data, saved);
+      for (const k of ['recent', 'recentSentences']) if (!Array.isArray(this.data[k])) this.data[k] = [];
     } catch { /* private mode or blocked storage: start fresh */ }
   },
   save() {
@@ -66,8 +71,11 @@ function quizPool() {
   return known.length >= MIN_KNOWN ? known : words;
 }
 
-const newSession = (needed) =>
-  new QuizSession({ pool: quizPool(), sentences, state: (id) => store.state(id), needed });
+// The session updates the saved history lists in place; they're written with the next answer.
+const newSession = (needed) => new QuizSession({
+  pool: quizPool(), sentences, state: (id) => store.state(id), needed,
+  recent: store.data.recent, recentSentences: store.data.recentSentences,
+});
 
 // ---------- Tiny DOM helper ----------
 

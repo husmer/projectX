@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { test } from 'node:test';
 import {
-  AnswerChecker, QuizSession, Type, blankState, hasKanji, parseSentences, parseWords, romajiToHiragana,
+  AnswerChecker, QuizSession, Type, blankState, hasKanji, historySize, parseSentences, parseWords, romajiToHiragana,
 } from './logic.js';
 
 const read = (f) => readFileSync(new URL(`../wordlists/${f}`, import.meta.url), 'utf8');
@@ -108,6 +108,45 @@ test('quiz session: missed words come back, round passes after enough correct an
 
   for (let i = 0; i < 3; i++) session.record(session.next(0).word, true);
   assert.ok(session.passed);
+});
+
+test('recently shown words stay out of the next sessions, which share the saved history', () => {
+  let seed = 3;
+  const random = () => ((seed = (seed * 16807) % 2147483647) / 2147483647);
+  const pool = words.slice(0, 60);
+  const bySentence = new Map(sentences.map((s) => [s.wordId, [s]]));
+  const recent = [];
+  const recentSentences = [];
+  const seen = [];
+  for (let gate = 0; gate < 20; gate++) {
+    const session = new QuizSession({ pool, sentences: bySentence, state: blankState, needed: 3, random, recent, recentSentences });
+    for (let i = 0; i < 3; i++) {
+      const q = session.next(0);
+      seen.push(q.word.id);
+      session.record(q.word, true);
+    }
+  }
+  const window = historySize(pool.length);
+  assert.equal(window, 30);
+  for (let i = 0; i < seen.length; i++) {
+    assert.ok(!seen.slice(Math.max(0, i - window), i).includes(seen[i]), `${seen[i]} repeated within ${window} questions`);
+  }
+  assert.equal(recent.length, window);
+});
+
+test('a word asked as a sentence gets another question type until other sentences have been shown', () => {
+  const pool = words.slice(0, 10);
+  const bySentence = new Map(sentences.map((s) => [s.wordId, [s]]));
+  const recentSentences = [pool[0].id];
+  const session = new QuizSession({ pool: [pool[0]], sentences: bySentence, state: blankState, needed: 1, recentSentences });
+  for (let i = 0; i < 30; i++) assert.notEqual(session.next(0).type, Type.SENTENCE);
+});
+
+test('with nothing due, the word that has waited longest comes next', () => {
+  const pool = words.slice(0, 10);
+  const due = new Map(pool.map((w, i) => [w.id, { ...blankState(), box: 3, due: 1000 + i }]));
+  const session = new QuizSession({ pool, sentences: new Map(), state: (id) => due.get(id), needed: 1, random: () => 0 });
+  assert.equal(session.next(0).word.id, pool[0].id);
 });
 
 test('reading questions only for words with kanji', () => {
