@@ -250,25 +250,39 @@ export const Srs = {
 export const Type = { WRITE: 'write', READ: 'read', SENTENCE: 'sentence' };
 
 /**
+ * How many recently shown words to keep out of the next picks: about a third of the pool, at most 30.
+ * The history outlives a session, because every gate opening starts a new 3-question session.
+ */
+export const historySize = (poolSize) => Math.min(30, Math.floor(poolSize / 2));
+
+/**
  * One round of questions. Words answered wrong come back two questions later,
  * and the round is passed after `needed` correct answers.
+ * `recent` and `recentSentences` are the caller's saved lists of recently shown word ids and of words
+ * recently asked as a sentence; the session updates them in place.
  */
 export class QuizSession {
-  constructor({ pool, sentences, state, needed, random = Math.random }) {
-    Object.assign(this, { pool, sentences, state, needed, random });
+  constructor({ pool, sentences, state, needed, random = Math.random, recent = [], recentSentences = [] }) {
+    Object.assign(this, { pool, sentences, state, needed, random, recent, recentSentences });
     this.correctCount = 0;
     this.retry = []; // [word, questions to wait]
-    this.recent = [];
   }
 
   get passed() { return this.correctCount >= this.needed; }
 
   next(now) {
     const word = this.takeRetry() ?? this.pickWord(now);
+    const i = this.recent.indexOf(word.id);
+    if (i >= 0) this.recent.splice(i, 1);
     this.recent.push(word.id);
-    while (this.recent.length > Math.max(0, Math.min(5, this.pool.length - 1))) this.recent.shift();
+    while (this.recent.length > historySize(this.pool.length)) this.recent.shift();
     const type = this.pickType(word);
     const sentence = type === Type.SENTENCE ? this.pick(this.sentences.get(word.id)) : null;
+    if (sentence) {
+      // Each word has one example sentence: keep it from coming back until many others have been shown.
+      this.recentSentences.push(word.id);
+      while (this.recentSentences.length > Math.min(60, this.pool.length)) this.recentSentences.shift();
+    }
     return { type, word, sentence };
   }
 
@@ -293,20 +307,17 @@ export class QuizSession {
       const lowest = Math.min(...due.map((w) => this.state(w.id).box));
       return this.pick(due.filter((w) => this.state(w.id).box <= lowest + 1));
     }
-    // Nothing due: favour weaker words.
-    const weights = fresh.map((w) => 1 / (this.state(w.id).box + 1));
-    let r = this.random() * weights.reduce((a, b) => a + b, 0);
-    for (let i = 0; i < fresh.length; i++) {
-      r -= weights[i];
-      if (r <= 0) return fresh[i];
-    }
-    return fresh[fresh.length - 1];
+    // Nothing due: the words that will be due soonest (they have waited longest), with a little shuffling.
+    const soonest = [...fresh].sort((a, b) => this.state(a.id).due - this.state(b.id).due);
+    return this.pick(soonest.slice(0, 3));
   }
 
   pickType(word) {
     const types = [Type.WRITE, Type.WRITE];
     if (hasKanji(word.word)) types.push(Type.READ);
-    if (this.sentences.get(word.id)?.length) types.push(Type.SENTENCE, Type.SENTENCE);
+    if (this.sentences.get(word.id)?.length && !this.recentSentences.includes(word.id)) {
+      types.push(Type.SENTENCE, Type.SENTENCE);
+    }
     return this.pick(types);
   }
 
